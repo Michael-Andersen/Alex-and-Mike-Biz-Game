@@ -3,7 +3,7 @@
       $info = preg_split("/[\s,]+/", file_get_contents($credentials[0]));
       if(!isset($_SESSION['username'])){
           $_SESSION['username']='guest';
-          if(empty($_POST['email']){
+          if(empty($_POST['email'])){
               header:("Location: login.php"); die();
           }
         if(!(($_POST['email']==$info[0] and $_POST['password']==$info[1]) or ($_POST['email']==$info[2] and $_POST['password']==$info[3]))){
