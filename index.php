@@ -1,16 +1,26 @@
 <?php session_start();
-      $credentials = glob('*.config');
-      $info = preg_split("/[\s,]+/", file_get_contents($credentials[0]));
+      $credentials = file_get_contents("credentials.config");
+      $info= explode("\n", $credentials);
       if(!isset($_SESSION['username'])){
           $_SESSION['username']='guest';
           if(!isset($_POST['email'])){
+              session_unset();
               session_destroy();
               header("Location: login.php"); die();
           }
-        if(!(($_POST['email']==$info[0] and $_POST['password']==$info[1]) or ($_POST['email']==$info[2] and $_POST['password']==$info[3]))){
-                session_destroy();
-                header("Location: login.php?error=Invalid Login Credentials"); die();
+        $valid=false;
+        foreach($info as $each){
+            $separate = explode(", ", $each);
+            if($_POST['email'] == trim($separate[0]) and $_POST['password'] == trim($separate[1])){
+                $valid = true;
+                break; 
+            } 
         }
+        if (!$valid){
+            session_unset();
+            session_destroy();
+            header("Location: login.php?error=Invalid Login Credentials"); die();
+         }
       }
 ?>
 <!DOCTYPE html> 
