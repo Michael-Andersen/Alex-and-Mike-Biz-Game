@@ -1,6 +1,6 @@
 <?php session_start();
-      $credentials = file_get_contents("credentials.config");
-      $info= explode("\n", $credentials);
+      //$credentials = file_get_contents("credentials.config");
+      //$info= explode("\n", $credentials);
       if(!isset($_SESSION['username'])){
           $_SESSION['username']='guest';
           if(!isset($_POST['email'])){
@@ -9,13 +9,41 @@
               header("Location: login.php"); die();
           }
         $valid=false;
-        foreach($info as $each){
-            $separate = explode(", ", $each);
-            if($_POST['email'] == trim($separate[0]) and $_POST['password'] == trim($separate[1])){
-                $valid = true;
-                break; 
-            } 
-        }
+      //  foreach($info as $each){
+            //$separate = explode(", ", $each);
+          //  if($_POST['email'] == trim($separate[0]) and $_POST['password'] == trim($separate[1])){
+            //    $valid = true;
+            //    break; 
+         //   } 
+          $serverName = "mathgame.database.windows.net";
+          $connectionOptions = array(
+        "Database" => "MathGame",
+        "Uid" => "system",
+        "PWD" => "2Isitclear2"
+          );
+    $conn = sqlsrv_connect($serverName, $connectionOptions);
+if( $conn ) {
+     ;
+}else{
+     echo "Connection could not be established.<br />";
+     die( print_r( sqlsrv_errors(), true));
+}
+$sql = "SELECT password FROM Ppl WHERE email LIKE '%' + ? + '%'";
+$params = array($_POST['email']);  
+$stmt = sqlsrv_query($conn, $sql, $params);
+if( $stmt === false ) {
+     die( print_r( sqlsrv_errors(), true));
+}
+        while( $obj = sqlsrv_fetch_object($stmt)){
+         //   $valid = true;
+            $p = $obj->password;
+             
+      }
+          sqlsrv_close( $conn );
+          if(trim($p) == trim($_POST['password']) ) {
+                 $valid = true;
+             }
+        
         if (!$valid){
             session_unset();
             session_destroy();

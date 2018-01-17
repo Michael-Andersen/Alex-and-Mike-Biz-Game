@@ -22,8 +22,10 @@
                     <form action="index.php" method="post">
                         <label for="email">Email:</label><input class="form-control" type="email" name="email">
                         <label for="password">Password:</label><input class="form-control" type="password" name="password"><br/>
-                        <button type="submit" class="btn btn-info"name="login">Login</button>
-                    </form>
+                        <button type="submit" class="btn btn-info"name="login">Login</button><br/><br/>
+                        </form>
+                        <form action ="signup.php" method="post"><button type="submit" class="btn btn-info"name="signup">Sign Up</button>
+                </form>
                 </div>
                 <?php echo '<span class="warning">'.$_GET['error'].'</span>';?>
             </div>                     
