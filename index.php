@@ -78,9 +78,7 @@ if( $stmt === false ) {
                                     <input type="hidden" name="second" value="'.$second.'">
                                     </form>
                                     <form method="Post" action="logout.php">
-                                    <button class="btn btn-info" name="logout" type="submit">Logout</button></form><br/><br/>
-                                    <form method="Post" action="topscores.php">
-                                    <button class="btn btn-info" name="topscores" type="submit">Top Scores</button></form></div>';
+                                    <button class="btn btn-info" name="logout" type="submit">Logout</button></form></div>';
                                 if(isset($_POST['submit'])){
                                     if(!is_numeric($_POST['guess']))
                                         {echo '<span class="warning">You must enter a number for your answer.</span>';

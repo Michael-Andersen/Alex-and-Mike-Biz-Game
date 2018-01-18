@@ -26,6 +26,9 @@
                         </form>
                         <form action ="signup.php" method="post"><button type="submit" class="btn btn-info"name="signup">Sign Up</button>
                 </form>
+                    <br/>
+                                    <form method="Post" action="topscores.php">
+                                    <button class="btn btn-info" name="topscores" type="submit">Top Scores</button></form>
                 </div>
                 <?php echo '<span class="warning">'.$_GET['error'].'</span>';?>
             </div>                     

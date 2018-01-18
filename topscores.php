@@ -41,6 +41,9 @@ if( $stmt === false ) {
           sqlsrv_close( $conn );
    
     ?>
+       <br/><br/><div class="row"><div class="col-xs-4 offset-xs-4"><div class= "form-group">
+                                    <form method="Post" action="login.php">
+                                        <button class="btn btn-info" name="login" type="submit">Back to Login</button></form></div><div></div>
             
     </div>
 </body> 
