@@ -1,20 +1,12 @@
 <?php session_start();
-      //$credentials = file_get_contents("credentials.config");
-      //$info= explode("\n", $credentials);
       if(!isset($_SESSION['username'])){
           $_SESSION['username']='guest';
-          if(!isset($_POST['email'])){
+          if(!isset($_POST['username'])){
               session_unset();
               session_destroy();
               header("Location: login.php"); die();
           }
         $valid=false;
-      //  foreach($info as $each){
-            //$separate = explode(", ", $each);
-          //  if($_POST['email'] == trim($separate[0]) and $_POST['password'] == trim($separate[1])){
-            //    $valid = true;
-            //    break; 
-         //   } 
           $serverName = "mathgame.database.windows.net";
           $connectionOptions = array(
         "Database" => "MathGame",
@@ -28,27 +20,28 @@ if( $conn ) {
      echo "Connection could not be established.<br />";
      die( print_r( sqlsrv_errors(), true));
 }
-$sql = "SELECT password FROM Ppl WHERE email LIKE '%' + ? + '%'";
-$params = array($_POST['email']);  
+$sql = "SELECT password, highScore FROM Ppl WHERE username = ?";
+$params = array($_POST['username']);  
 $stmt = sqlsrv_query($conn, $sql, $params);
 if( $stmt === false ) {
      die( print_r( sqlsrv_errors(), true));
 }
         while( $obj = sqlsrv_fetch_object($stmt)){
-         //   $valid = true;
             $p = $obj->password;
-             
+            $_SESSION['highscore'] = $obj->highScore;
       }
+          
           sqlsrv_close( $conn );
           if(trim($p) == trim($_POST['password']) ) {
                  $valid = true;
              }
-        
+         $_SESSION['username']  = $_POST['username'];
         if (!$valid){
             session_unset();
             session_destroy();
             header("Location: login.php?error=Invalid Login Credentials"); die();
          }
+           
       }
 ?>
 <!DOCTYPE html> 
@@ -85,7 +78,9 @@ if( $stmt === false ) {
                                     <input type="hidden" name="second" value="'.$second.'">
                                     </form>
                                     <form method="Post" action="logout.php">
-                                    <button class="btn btn-info" name="logout" type="submit">Logout</button></form></div>';
+                                    <button class="btn btn-info" name="logout" type="submit">Logout</button></form><br/><br/>
+                                    <form method="Post" action="topscores.php">
+                                    <button class="btn btn-info" name="topscores" type="submit">Top Scores</button></form></div>';
                                 if(isset($_POST['submit'])){
                                     if(!is_numeric($_POST['guess']))
                                         {echo '<span class="warning">You must enter a number for your answer.</span>';
@@ -99,7 +94,7 @@ if( $stmt === false ) {
                                         }
             
                                    }
-                          echo '<br/>Score:'.$_SESSION['score'].'/'.$_SESSION['count'];?>
+                          echo '<br/>Score:'.$_SESSION['score'].'/'.$_SESSION['count'].'         High Score: '.$_SESSION['highscore'];?>
                 </div>
         </div>
    </div>

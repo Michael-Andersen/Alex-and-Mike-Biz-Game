@@ -20,8 +20,8 @@ if( $conn ) {
      echo "Connection could not be established.<br />";
      die( print_r( sqlsrv_errors(), true));
 }
-$sql = "INSERT INTO Ppl (email, password) VALUES (?, ?)";
-$params = array($_POST['email'], $_POST['password']);
+$sql = "INSERT INTO Ppl (username, password) VALUES (?, ?)";
+$params = array($_POST['username'], $_POST['password']);
 
 $stmt = sqlsrv_query($conn, $sql, $params);
 if( $stmt === false ) {

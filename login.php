@@ -20,7 +20,7 @@
                 <H1 class="text-center">Please login to enjoy our math game</H1>
                 <div class= "form-group">
                     <form action="index.php" method="post">
-                        <label for="email">Email:</label><input class="form-control" type="email" name="email">
+                        <label for="username">Username:</label><input class="form-control" name="username">
                         <label for="password">Password:</label><input class="form-control" type="password" name="password"><br/>
                         <button type="submit" class="btn btn-info"name="login">Login</button><br/><br/>
                         </form>
