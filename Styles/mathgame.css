@@ -4,3 +4,12 @@
 .victory {
     color: #00FF00;
 }
+
+body {
+    background-color: #F0F2FF;
+}
+
+.centery {
+    margin: auto;    
+    display: block;
+}
