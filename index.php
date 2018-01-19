@@ -121,7 +121,7 @@ if( $stmt === false ) {
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
                 <?php 
-              
+              if(isset($_SESSION['file'])) {
 
                 $ch1 = file_get_contents($_SESSION['file']);
 
@@ -173,14 +173,14 @@ for($i =0; $i < sizeof($info2); $i++) {
                         echo "b. ".$currentb.'<br />';
                         echo "c. ".$currentc.'<br />';
                         echo "d. ".$currentd.'<br /><br />';
-                        
+              
 
                           echo'<div class="form-group"><form action="index.php" method="post">
                                     <input  class="form-control" name="guess"><br/>
                                     <button class="btn btn-info btn-group-justified" name="submit" type="submit">Submit</button><br/>
                                     <input type="hidden" name="answer" value="'.$currentans.'">
-                                    </form>
-                                    <form method="Post" action="logout.php">
+                                    </form>'; }
+                                    echo '<form method="Post" action="logout.php">
                                     <br />
                                     <button class="btn btn-warning btn-group-justified" name="logout" type="submit">Logout</button></form></div>';
                 ?>
