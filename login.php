@@ -9,7 +9,7 @@
 <html lang="en">
 
 <head>
-    <title>Math Game</title>
+    <title>ALEX &amp; MIKE'S BIZ GAME</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="Styles/bootstrap.css">
     <link rel="stylesheet" href="Styles/mathgame.css">
