@@ -1,0 +1,764 @@
+      Which of the following fields is concerned with understanding the choices people make in using scarce resources?
+economy
+statistics
+economics
+psychology
+
+
+c	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply  Pg. 65		AACSB	Analytic	BT:	K
+
+		________ is the study of the economic choices of individual consumers, families, or businesses.
+Macroeconomics
+Microeconomics
+Entrepreneurship
+Consumer behavior
+
+
+b	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply  Pg. 65		AACSB	Analytic	BT:	K
+
+		The study of macroeconomics is ________.
+concerned with studying the overall economy
+primarily concerned with individual busi-nesses and decisions
+not related to microeconomics
+not related to government decisions concern-ing spending and taxes
+
+
+a	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply  Pg. 65		AACSB	Analytic	BT:	K
+
+		Williams & Co. management is trying to decide the appropriate prices for various products sold by the firm. This is a focus of ________.
+microeconomics
+macroeconomics
+fiscal policy
+monetary policy
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Individual and business decisions are ________ by economic conditions and, in turn, economic conditions are ________ by their decisions.
+affected; not affected
+not affected; affected
+not affected; not affected
+ affected; affected
+
+
+d	DIF:	MED	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		In general, as price of a good or service increases, the quantity demanded: 
+decreases
+stays the same
+increases
+depends on the type of product or service
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg.66		AACSB	Analytic	BT:	K
+
+		Hailey’s research firm was hired by a discount superstore to provide a detailed evaluation regarding consumer preferences. Hailey’s analysis involves the study of ________.
+economics
+private enterprise system
+microeconomics
+macroeconomics
+
+
+
+c	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		The willingness and ability of sellers to provide goods and services for sale in a market is referred to as ________.
+the equilibrium price
+demand
+microeconomics
+supply
+
+
+d	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic		BT:	K
+
+		________ refers to the willingness and ability of buyers to purchase goods and services.
+Consumer behavior
+Customer preference
+Supply
+Demand
+
+
+d	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic		BT:	K
+
+		If the number of buyers decreases, the demand curve will shift to the ________ and the price will ________.
+ left; fall
+right; fall
+right; rise
+left; rise
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		If buyers’ incomes increase, the demand curve will shift to the ________ and the price will ________.
+ right; rise
+left; fall
+right; fall
+left; rise
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		If the prices of substitute goods decrease, the demand curve will shift to the ________ and the price will ________.
+right; fall
+left; fall
+right; rise
+left; rise
+
+
+b	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		A demand curve will shift to the left if the ________.
+number of buyers increases
+ future expectations become more optimistic
+buyers’ incomes decrease
+
+prices of substitute goods increase
+
+
+c	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		The curve that shows the relationship between different prices and the quantity requested at each price is the ________ curve.
+equilibrium
+supply
+buying
+demand
+
+
+d	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Which of the following statements about demand curves is true?
+When the price falls, demand increases.
+When the price falls, demand decreases.
+ When the price rises, demand increases.
+When the price falls, supply increases.
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		A demand curve is the schedule that shows the relationship between the price of a product and ________.
+overhead costs
+the costs of marketing the product
+the quantity of that product that buyers demand at that price
+the quantity supplied at each price
+
+
+c	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Which of the following factors will NOT result in a shift in the supply curve?
+Change in the number of suppliers
+Change in the price of substitute goods
+Cost savings resulting from new technology
+Change in the costs of labor
+
+
+b	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		All of the following can shift the demand curve to either the right or left EXCEPT ________.
+change in the number of buyers
+buyers’ attitudes about the future
+change in the income of buyers
+change in the cost of inputs
+
+
+
+d	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		An increase in consumers’ incomes causes the ________.
+supply curve to shift to the right
+demand curve to shift to the right
+supply curve to shift to the left
+demand curve to shift to the left
+
+
+b	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		A supply curve is a(n) ________.
+upward sloping curve
+downward sloping curve
+vertical line
+horizontal line
+
+
+a	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		According to a supply curve, ________.
+as prices rise, quantity of a product supplied falls
+as prices fall, quantity of a product supplied increases
+as prices rise, the quantity of a product that is supplied also rises
+ as prices rise, consumers will buy in larger quantities
+
+
+c	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic		BT:	K
+
+		If the cost of producing a good or service increases, the supply curve will shift to the ________ and the price will ________.
+right; fall
+right; rise
+left; fall
+left; rise
+
+
+d	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		As the number of suppliers of a product increases, the supply curve shifts to the ________ and the price will ________.
+right; fall
+right; rise
+left; fall
+left; rise
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Assume the price of gasoline triples. What will likely happen to the demand for small cars? The demand curve will shift to the ________ and demand will ________.
+right; decrease
+left; increase
+right; increase
+left; decrease
+
+
+c	DIF:	EASY	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		The equilibrium price is established when the quantity ________.
+purchased is equal to the quantity offered
+supplied is equal to the amount of raw materials available
+bought is equal to the quantity demanded
+demanded is equal to the quantity supplied at a lower price
+
+
+a	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		If the market price is above the equilibrium price, ________.
+producers will earn large profits
+consumers will go on strike and not purchase any of the product
+the demand curve will shift to the right causing the surplus to go away
+a surplus will occur and prices and produc-tion will fall
+
+
+d	DIF:	MEDIUM	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		A surplus will occur when ________.
+production quantities are falling
+ price is below the equilibrium point
+price is above the equilibrium point
+
+the demand curve is shifting to the right
+
+
+c	DIF:	MED	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		A shortage will occur when ________.
+production quantities are rising
+prices are falling
+price is below the equilibrium point
+the demand curve is shifting to the left
+
+
+c	DIF:	MED	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Supply and demand correct a shortage by ________.
+
+raising the price to increase production
+raising the price to decrease production
+keeping the price the same but decreasing production
+ reducing the product price to decrease production
+
+
+a	DIF:	MED	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		Holding supply constant and decreasing demand will cause ________.
+prices to rise and production to fall
+prices to fall and production to rise
+prices and production both to fall
+prices and production both to rise
+
+
+c	DIF:	MED	LO:	1 Microeconomics: The Forces of Demand and Supply Pg. 66		AACSB	Analytic	BT:	K
+
+		The three major types of economic systems are ________.
+ capitalism, oligopoly, and planned econo-mies
+capitalism, pure competition, and planned economies
+capitalism, monopoly, and mixed economies
+capitalism, planned economies, and mixed economies
+
+
+
+d	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Most industrialized nations operate economies based on ________.
+planned economies
+private enterprise systems
+communist systems
+socialist systems
+
+
+b	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Entrepreneurs have the most economic freedom in which type of economy?
+socialism
+capitalism
+communism
+mixed economy
+
+
+b	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Incentives to motivate employees to perform at their highest level are strongest in ________ systems.
+capitalist
+communist
+socialist
+monopolistic
+
+
+a	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71	AACSB	Analytic	BT:	K
+
+		Which of the following is considered to be the BEST example of pure competition in today’s business environment?
+ the electric and gas utility industries
+the airline industry
+agriculture
+Major League Baseball
+
+
+c	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+ 
+		A particular industry has many competitors, each of whom has little control over price. In addition, it is fairly easy to enter the industry. This industry is an example of ________.
+pure competition
+monopolistic competition
+an oligopoly
+a pure monopoly
+
+
+a	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Monopolistic competition has ________.
+many buyers and sellers, and the sellers have some control over price
+many buyers and sellers, none of whom can control prices
+only one seller
+
+only a few sellers
+
+
+a	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Consumers can choose from hundreds of different kinds and producers of cheese, each with a slightly different flavor and texture. This type of market structure is known as ________.
+pure competition
+monopolistic competition
+a monopoly
+an oligopoly
+
+
+b	DIF:	MED	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		The four different types of market structure in a private enterprise system are ________.
+ pure competition, monopolistic competition, oligopoly, and monopoly
+communism, socialism, capitalism, and mixed systems
+socialism, oligopoly, monopoly, and pure competition
+mixed, socialism, communism, and pure competition
+
+
+a	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		A particular industry has only a few competitors, who have at least some control over price. Entry into the industry is difficult. This industry is an example of ________.
+pure competition
+monopolistic competition
+an oligopoly
+a pure monopoly
+
+
+c	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Which of the following market structures best describes the U.S. auto industry?
+monopolistic competition
+pure competition
+oligopoly
+monopoly
+
+
+c	DIF:	MED	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		There is no direct competition in a particular industry, yet the firms have almost no control over pricing. This industry is an example of ________.
+monopolistic competition
+a regulated monopoly
+an oligopoly
+a pure monopoly
+
+
+b	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Control over price by individual firms is highest in a(n) ________.
+pure monopoly
+regulated monopoly
+oligopoly
+monopolistically competitive industry
+
+
+a	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Barriers to entry into an industry are highest in ________.
+pure competition
+an oligopoly
+a monopoly
+monopolistic competition
+
+
+c	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Unless it is regulated or only temporary, the market situation called ________ is prohibited in the United States through antitrust legislation.
+communism
+monopoly
+oligopoly
+monopolistic competition
+
+
+b	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Which of the following best describes your local cable TV company?
+pure monopoly
+monopolistic competition
+regulated monopoly
+oligopoly
+
+
+c	DIF:	MED	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Before the patent expired on allergy medicine Claritin, pharmaceutical company Schering-Plough was able to set its own price in the marketplace. From which type of competition did the company benefit?
+oligopoly
+pure competition
+monopolistic competition
+monopoly
+
+
+d	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		________ is an economic system in which private property is eliminated.
+socialism
+capitalism
+monopoly
+communism
+
+
+d	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		Under communism, ________.
+ profits are not acceptable and the right to choose one’s occupation is widely restricted
+there is minimal government interference
+ management represents the owners
+businesses are owned by individuals
+
+
+
+a	DIF:	EASY	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		In a ________ system, the government owns all of the nation’s major industries but still allows private ownership in less crucial areas.
+communism
+socialism
+capitalism
+mixed economy
+
+
+b	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71	AACSB	Analytic	BT:	K
+
+		In a particular country, the government owns all the transportation companies, the utilities, the energy suppliers, and major manufacturing firms. Small businesses are privately owned. What type of economic system does this country have?
+capitalism
+communism
+socialism
+mixed economy
+
+
+c	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71	AACSB	Analytic	BT:	K
+
+		________ has a blend of both planned and free enterprise system.
+Capitalism
+Communism
+A mixed market economy
+A private government economy
+
+
+c	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		A country has a strong private sector, along with publicly owned enterprises. Entrepreneurs and private-sector investors are entitled to profits, after taxes, and even state-owned enterprises are expected to at least break even. What type of economic system does this country have?
+mixed economy
+communism
+capitalism
+socialism
+
+
+a	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		The conversion of the postal service from government-owned and operated into privately held businesses would be an example of ________.
+deregulation
+pure competition
+regulated monopolies
+privatization
+
+
+d	DIF:	MEDIUM	LO:	2 Macroeconomics: Issues for the Entire Economy Pg. 71		AACSB	Analytic	BT:	K
+
+		During an economic recession, consumer spending ________ and unemployment ________.
+increases; increases
+increases; decreases
+decreases; increases
+decreases; decreases
+
+
+c	DIF:	EASY	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Consumers often turn to lower-priced retailers for the goods they need during a business cycle of ________.
+recovery
+prosperity
+recession
+depression
+
+
+c	DIF:	MED	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		________ is the relationship between the goods and services produced in a nation each year and workers, raw materials, and other inputs necessary to produce them.
+GDP (gross domestic product)
+Per capita income
+Prosperity
+Productivity
+
+
+d	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Many of the gains in U.S. productivity can be attributed to ________.
+technology
+deflation
+a steady consumer price index
+budget surplus
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Technology	BT:	K
+
+		________ is a commonly used measure of productivity.
+GDP (gross domestic product)
+Prosperity
+The business cycle
+The average wage
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		The sum of all goods and services produced within a nation’s boundaries each year is the ________.
+Gross National Index
+Gross domestic product
+Global market indicator
+ Producer Price Index
+
+
+b	DIF:	MED	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		________ is caused by increases in the prices of raw materials and other factors of production.
+The Consumer Price Index (CPI)
+Demand-pull inflation
+Cost-push inflation
+A recession
+
+
+c	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76	AACSB	Analytic	BT:	K
+
+		Assume that the number of people wanting to buy homes increases sharply in your local area. The price of homes will likely ________, which is an example of ________.
+increase; demand-pull inflation
+decrease; cost-push inflation
+ increase; cost-push inflation
+decrease; demand-pull inflation
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		________ provides a running measure of consumer price changes.
+The Consumer Price Index (CPI)
+Devaluation
+Per capita income
+The Producer Price Index (PPI)
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Economists refer to a nation’s ________ as an indicator of its economic health.
+consumer price index 
+inflation rate
+recession rate
+unemployment rate
+
+
+d	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		The four types of unemployment are ________.
+inflation, frictional, cyclical, and structural
+ recessional, inflation, frictional, and cyclical
+frictional, cyclical, structural, and seasonal
+ recessional, frictional, cyclical, and structural
+
+
+c	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Kim graduated from college in May and is looking for a job. She is ________ unemployed.
+structurally
+cyclically
+seasonally
+frictionally
+
+
+d	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Benito worked as a manager at a grocery chain that recently experienced a number of layoffs due to an economic slow time. Benito’s employment would be described as ________.
+cyclical
+frictional
+structural
+seasonal
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Which type of unemployment typically lasts the longest?
+structural
+cyclical
+seasonal
+frictional
+
+
+a	DIF:	MEDIUM	LO:	3 Evaluating Economic Performance Pg. 76		AACSB	Analytic	BT:	K
+
+		Monetary policy ________.
+ frequently causes taxes to rise
+is of limited use in controlling inflation
+is of little use in expanding business spending
+uses interest rate variations and availability of funds to influence the nation’s economy
+
+
+d	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		The part of the federal government responsible for monetary policy is ________.
+the Federal Reserve System
+Congress
+the U.S. Treasury
+the president
+
+
+a	DIF:	EASY	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		Business borrowing becomes more difficult when ________.
+the federal government increases spending
+the federal government decreases spending
+the Federal Reserve decreases the money supply
+ the Federal Reserve increases the money supply
+
+
+c	DIF:	MED	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		The purpose of a restrictive monetary policy is to:
+stimulate spending
+reduce the cost of borrowing
+stimulate employment
+curb rising prices and overexpansion
+
+
+d	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		The two major policy tools available for controlling economic activity are ________.
+interest rate and taxing policies
+interest rate and credit policies
+ monetary and fiscal policies
+ tax and spending policies
+
+
+c	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		The Federal Reserve reduces the amount of money banks can lend. As a result, interest rates will ________ and economic growth will ________.
+increase; increase
+increase; fall
+fall; increase
+ fall; fall
+
+
+b	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		Fiscal policy ________.
+reduces the money supply
+increases the money supply
+always results in increasing the national debt
+can be used to increase economic activity
+
+
+d	DIF:	MED	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		By changing ________, the Federal Reserve can expand or shrink funds available to lend.
+ interest rates
+spending
+fees charged on household and business checking and savings accounts
+taxes
+
+
+a	DIF:	MED	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		Concerning a balanced budget, all of the following statements are correct EXCEPT:
+A balanced budget does not mean an end to the federal debt.
+The federal government has rarely balanced its budget during the last 50 years.
+Balanced budgets will result in lower interest rates to all private borrowers.
+A balanced budget is achieved when all tax receipts equal all spending in a particular year.
+
+
+c	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84	AACSB	Analytic	BT:	K
+
+		The Federal Reserve slows the growth in the supply of money and credit. Interest rates will likely ________, which is an example of ________ policy.
+rise; monetary
+fall; fiscal
+ rise; fiscal
+fall; monetary
+
+
+a	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		The federal government raises corporate income tax rates in order to reduce the budget deficit. This change will likely ________ economic activity, which is an example of ________ policy.
+decrease; monetary
+increase; monetary
+increase; fiscal
+decrease; fiscal
+
+
+d	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		A balanced budget occurs when ________.
+all of the national debt is repaid
+taxes, fees, and borrowings are equal to government spending for the year
+taxes and fees equal all government spending except for capital expenditures
+all federal taxes and fees equal all federal government spending
+
+
+b	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		All of the following are key challenges facing business in the new century EXCEPT ________.
+the surplus of college graduates
+the aging of the workforce
+ the shift toward a global information economy
+growth of India and China
+
+
+a	DIF:	MEDIUM	LO:	5 Global Economic Challenges of the 21st-Century  Pg. 86	AACSB	Analytic	BT:	K
+
+		The U.S. population is ________.
+getting older
+less diverse that it was 30 years ago
+declining
+expanding too rapidly
+
+
+a	DIF:	MEDIUM	LO:	5 Global Economic Challenges of the 21st-Century Pg. 86		AACSB	Analytic	BT:	K
+
+		Which of the following is not a source of government funds to cover the annual budget? 
+taxes
+fees
+monetary policy
+borrowing
+
+
+c	DIF:	MEDIUM	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+		Which of the following does not make up part of the national debt?
+Taxes
+Treasury bills
+Treasury notes
+Treasury
+ 
+a	DIF:	EASY	LO:	4 Managing the Economy’s Performance Pg. 84		AACSB	Analytic	BT:	K
+
+
