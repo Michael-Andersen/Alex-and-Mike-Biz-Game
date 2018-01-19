@@ -69,17 +69,17 @@ if( $stmt === false ) {
         $_SESSION['file'] = 'ch1.txt';
     }
     if($_POST['chapter'] == "ch2") {
-        $_SESSION['file'] = "ch2.txt";
+        $_SESSION['file'] = 'ch2.txt';
     }
     if($_POST['chapter'] == "ch3") {
-        $_SESSION['file'] = "ch3.txt";
+        $_SESSION['file'] = 'ch3.txt';
     }
     
 }?>
                 <div class="row">
             <div class="col-xs-4 offset-xs-4"> 
                     <?php 
-              
+               
                 $ch1 = file_get_contents($_SESSION['file']);
 
 $info = preg_split('/\R+/', trim($ch1));
