@@ -44,26 +44,52 @@ if( $stmt === false ) {
            
       }
 ?>
-<!DOCTYPE html> 
-<html lang="en"> 
-<head> 
-    <title>Math Game</title> 
-    <meta charset="utf-8"> 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>ALEX &amp; MIKE'S BIZ GAME</title>
+    <meta charset="utf-8">
     <link rel="stylesheet" href="Styles/bootstrap.css">
     <link rel="stylesheet" href="Styles/mathgame.css">
-</head> 
+</head>
+
 <body>
-    <div class= "container">
+    <div class="container">
         <div class="row">
-            <div class="col-xs-4 offset-xs-4">  
-                <H1 class="text-center">Math Game</H1>
+            <img class="center-block img-responsive" src="images/logoadjust.png">
+            <br />
+            <div class="col-sm-6 col-sm-offset-3">
                 <form action="index.php" method="post">
-                <select name="chapter">
+                    <select name="chapter">
   <option value="ch1">Chapter 1</option>
   <option value="ch2">Chapter 2</option>
   <option value="ch3">Chapter 3</option></select>
-                    <button class="btn btn-success btn-group-justified" name="chpselect" type="submit">Select Chapter</button>
-                    </form></div></div>
+                    <button class="btn btn-info btn-xs" name="chpselect" type="submit">Select Chapter</button>
+                </form>
+                <h4>
+                    <?php 
+                
+                                               if(isset($_POST['submit'])){
+                                    $o = strtolower(trim($_POST['guess']));
+                                    if ($o==$_POST['answer']){
+                                                echo '<span class="victory">Correct</span>';
+                                                $_SESSION['count']++;
+                                                $_SESSION['score']++;
+                                        }else {
+                                              echo'<span class="warning">Incorrect The answer is  '.$_POST['answer'].'</span>';
+                                              $_SESSION['count']++;
+                                        }
+            
+                                   }
+                          echo 'Score:'.$_SESSION['score'].' / '.$_SESSION['count'].'         High Score: '.$_SESSION['highscore'];
+                
+                ?></h4>
+
+                <br />
+            </div>
+        </div>
         <?php if(isset($_POST['chpselect'])) {
     if($_POST['chapter'] == 'ch1') {
         $_SESSION['file'] = 'ch1.txt';
@@ -76,10 +102,12 @@ if( $stmt === false ) {
     }
     
 }?>
-                <div class="row">
-            <div class="col-xs-4 offset-xs-4"> 
-                    <?php 
-               
+
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-3">
+                <?php 
+              
+
                 $ch1 = file_get_contents($_SESSION['file']);
 
 $info = preg_split('/\R+/', trim($ch1));
@@ -134,26 +162,16 @@ for($i =0; $i < sizeof($info2); $i++) {
 
                           echo'<div class="form-group"><form action="index.php" method="post">
                                     <input  class="form-control" name="guess"><br/>
-                                    <button class="btn btn-info" name="submit" type="submit">Submit</button><br/><br/>
+                                    <button class="btn btn-info btn-group-justified" name="submit" type="submit">Submit</button><br/>
                                     <input type="hidden" name="answer" value="'.$currentans.'">
                                     </form>
                                     <form method="Post" action="logout.php">
-                                    <button class="btn btn-info" name="logout" type="submit">Logout</button></form></div>';
-                                if(isset($_POST['submit'])){
-                                    $o = strtolower(trim($_POST['guess']));
-                                    if ($o==$_POST['answer']){
-                                                echo '<span class="victory">Correct</span>';
-                                                $_SESSION['count']++;
-                                                $_SESSION['score']++;
-                                        }else {
-                                              echo'<span class="warning">Incorrect The answer is  '.$_POST['answer'].'</span>';
-                                              $_SESSION['count']++;
-                                        }
-            
-                                   }
-                          echo '<br/>Score:'.$_SESSION['score'].'/'.$_SESSION['count'].'         High Score: '.$_SESSION['highscore'];?>
-                </div>
+                                    <br />
+                                    <button class="btn btn-warning btn-group-justified" name="logout" type="submit">Logout</button></form></div>';
+                ?>
+            </div>
         </div>
-   </div>
-</body> 
+    </div>
+</body>
+
 </html>

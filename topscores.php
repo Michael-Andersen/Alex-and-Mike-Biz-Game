@@ -8,7 +8,9 @@
 <body>
    <div class= "container">
         <div class="row">
-            <div class="col-xs-4 offset-xs-4">  
+            <img class="center-block img-responsive" src="images/logoadjust.png">
+                <br />
+            <div class="col-sm-6 col-sm-offset-3">  
                 <H1 class="text-center">TOP SCORES</H1>
                 </div>                     
         </div>
