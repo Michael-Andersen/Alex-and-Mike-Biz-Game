@@ -56,16 +56,42 @@ if( $stmt === false ) {
 </head>
 
 <body>
+    <?php if(isset($_POST['chpselect'])) {
+    switch($_POST['chapter']) {
+        case 'ch1': 
+        $_SESSION['file'] = 'ch1.txt';
+        $_SESSION['c1'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c3'] = '';
+    break;
+    
+        case 'ch2': 
+        $_SESSION['file'] = 'ch2.txt';
+        $_SESSION['c2'] = 'selected ="selected"';
+        $_SESSION['c3'] = '';
+        $_SESSION['c1'] = '';
+            break;
+    
+        case 'ch3':
+        $_SESSION['file'] = 'ch3.txt';
+        $_SESSION['c3'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+            break;
+    
+    }
+}?>
     <div class="container">
         <div class="row">
             <img class="center-block img-responsive" src="images/logoadjust.png">
             <br />
             <div class="col-sm-6 col-sm-offset-3">
                 <form action="index.php" method="post">
-                    <select name="chapter">
-  <option value="ch1">Chapter 1</option>
-  <option value="ch2">Chapter 2</option>
-  <option value="ch3">Chapter 3</option></select>
+                    <select name="chapter"><?php
+                        echo
+  '<option value="ch1"'.$_SESSION['c1'].'>Chapter 1</option>
+  <option value="ch2"'.$_SESSION['c2'].'>Chapter 2</option>
+  <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option></select>';?>
                     <button class="btn btn-info btn-xs" name="chpselect" type="submit">Select Chapter</button>
                 </form>
                 <h4>
@@ -74,11 +100,11 @@ if( $stmt === false ) {
                                                if(isset($_POST['submit'])){
                                     $o = strtolower(trim($_POST['guess']));
                                     if ($o==$_POST['answer']){
-                                                echo '<span class="victory">Correct</span>';
+                                                echo '<span class="victory">Correct! </span>';
                                                 $_SESSION['count']++;
                                                 $_SESSION['score']++;
                                         }else {
-                                              echo'<span class="warning">Incorrect The answer is  '.$_POST['answer'].'</span>';
+                                              echo'<span class="warning">Incorrect The answer is  '.$_POST['answer'].'. </span>';
                                               $_SESSION['count']++;
                                         }
             
@@ -90,18 +116,7 @@ if( $stmt === false ) {
                 <br />
             </div>
         </div>
-        <?php if(isset($_POST['chpselect'])) {
-    if($_POST['chapter'] == 'ch1') {
-        $_SESSION['file'] = 'ch1.txt';
-    }
-    if($_POST['chapter'] == "ch2") {
-        $_SESSION['file'] = 'ch2.txt';
-    }
-    if($_POST['chapter'] == "ch3") {
-        $_SESSION['file'] = 'ch3.txt';
-    }
-    
-}?>
+        
 
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
