@@ -63,6 +63,7 @@ if( $stmt === false ) {
         $_SESSION['c1'] = 'selected ="selected"';
         $_SESSION['c2'] = '';
         $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
     break;
     
         case 'ch2': 
@@ -70,6 +71,7 @@ if( $stmt === false ) {
         $_SESSION['c2'] = 'selected ="selected"';
         $_SESSION['c3'] = '';
         $_SESSION['c1'] = '';
+        $_SESSION['c4'] = '';
             break;
     
         case 'ch3':
@@ -77,6 +79,14 @@ if( $stmt === false ) {
         $_SESSION['c3'] = 'selected ="selected"';
         $_SESSION['c2'] = '';
         $_SESSION['c1'] = '';
+        $_SESSION['c4'] = '';
+            break;
+            case 'ch4':
+        $_SESSION['file'] = 'ch4.txt';
+        $_SESSION['c4'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
             break;
     
     }
@@ -91,7 +101,10 @@ if( $stmt === false ) {
                         echo
   '<option value="ch1"'.$_SESSION['c1'].'>Chapter 1</option>
   <option value="ch2"'.$_SESSION['c2'].'>Chapter 2</option>
-  <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option></select>';?>
+  <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option>
+  <option value="ch4"'.$_SESSION['c4'].'>Chapter 4</option>
+  </select>'
+                            ;?>
                     <button class="btn btn-info btn-xs" name="chpselect" type="submit">Select Chapter</button>
                 </form>
                 <h4>

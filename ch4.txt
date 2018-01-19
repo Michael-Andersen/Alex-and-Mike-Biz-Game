@@ -1,0 +1,650 @@
+  	Computers that are manufactured in the United States and sold in Norway are categorized as U.S. ________.
+exports
+countertrades
+imports
+outsourcing
+
+
+a	DIF:	EASY	LO:	1 Why Nations Trade  Pg. 97	AACSB:	Analytic	BT:	K
+
+		During the past decade, the value of U.S. imports and exports has ________.
+decreased
+remained about the same
+more than doubled
+risen slightly
+
+
+c	DIF:	EASY	LO:	1 Why Nations Trade Pg. 97	AACSB:	Analytic	BT:	K
+
+		AusterTech, a U.S. company, produces computer parts and sells them to South American countries. AusterTech is engaging in the international business activity known as ________.
+importing
+dumping
+countertrade
+exporting
+
+
+d	DIF:	EASY	LO:	1 Why Nations Trade  Pg. 97	AACSB:	Analytic	BT:	K
+
+		Los Angeles-based PMI Telecom purchases cell phones manufactured in Asia and sells them in the United States. PMI is engaging in the international business activity known as ________.
+exporting
+importing
+countertrade
+dumping
+
+
+b	DIF:	EASY	LO:	1 Why Nations Trade  Pg. 97	AACSB:	Analytic	BT:	K
+
+		A large part of the U.S. economy’s growth comes from ________.
+petroleum exports
+computer technology
+the export and import of goods and services
+production of consumer electronic products
+
+
+c	DIF:	EASY	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		When a company operates in other countries, it ________ risk.
+has no impact on
+eliminates
+increases
+spreads out
+
+
+d	DIF:	EASY	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Many developing nations have lower per capita incomes than highly developed countries. This fact ________.
+indicates that they represent an insignificant market for most products
+means that the developing nations are unlikely to experience much economic growth
+does not mean there is little opportunity for sales. Their sheer numbers may still represent significant and growing markets.
+means that they are only likely to purchase low-tech merchandise
+
+
+
+c	DIF:	MED	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Although people in developing nations have lower per capita incomes than more highly developed nations, their __________ represents a lucrative market for global trade. 
+technology
+political stability
+huge populations
+infrastructure
+
+
+c	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		All of the following are included in the top five nations the United States trades with EXCEPT ________.
+China
+Spain
+Mexico
+Canada
+
+
+b	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		During the past decade, which of the following countries has experienced the greatest annual rate of GDP growth?
+United States
+China
+Canada
+Japan
+
+
+b	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Because of its climate and terrain, Guatemala possesses a ___________ over Canada in coffee production.
+absolute advantage
+higher standard of living
+higher GDP
+comparative advantage
+
+
+d	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		An absolute advantage occurs when a country can maintain ________.
+a monopoly by outlawing foreign imports
+a monopoly by levying high taxes on imports
+a monopoly by being the lowest-cost producer of a good or service
+its advantage by producing a good or service more efficiently
+
+
+c	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Even though the United States manufactures textiles, China is able to produce them more efficiently. Thus, China has a ________________ in manufacturing textiles. 
+tariff
+Quota
+trade restriction
+comparative advantage
+
+
+d	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Which of the following statements is true regarding comparative advantage?
+Comparative advantage is becoming more rare these days. 
+Factors like education and wellness can help ensure a comparative advantage in human resources. 
+Developing countries possess no comparative advantage. 
+A nation must first possess an absolute advantage in a particular area before it can gain a comparative advantage. 
+
+
+b	DIF:	MEDIUM	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		Which of the following statements is true regarding absolute advantage? 
+Absolute advantage is becoming more rare these days.
+ Every country possesses an absolute advantage.
+Developing countries possess no absolute advantage. 
+A nation must first possess a comparative advantage before it can possess an absolute advantage.
+
+
+a	DIF:	EASY	LO:	1 Why Nations Trade Pg. 98	AACSB:	Analytic	BT:	K
+
+		The country Artesia exported products totaling $86 billion last year. During the year, Artesia imported products valued at $43 billion. Artesia has a(n) ________.
+exchange rate of 2 to 1
+trade deficit of $43 billion
+trade surplus of $43 billion
+unfavorable balance of payments
+
+
+c	DIF:	MED	LO:	2 Measuring Trade between Nations  Pg. 101	 AACSB	Analytic	BT	K
+
+		A trade deficit occurs when ________.
+ imports are sold at low profits
+foreign-aid payments exceed exports
+imports exceed exports
+there is a net flow of money into a country
+
+
+c	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		Last year, the United States imported less from Switzerland than it exported to Switzerland. Which of the following statements is true? 
+The United States has a balance of payments deficit with Switzerland.
+The United States has a trade surplus with Switzerland.
+The United States has a trade deficit with Switzerland. 
+The United States has a negative balance of trade with Switzerland.
+
+
+b	DIF:	MED	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		The United States has a trade surplus with which of the following items? 
+oil
+textiles
+technology products
+services
+
+
+d	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic		BT:	K
+
+		A country with a balance of payments surplus means ________.
+monetary inflow exceeds monetary outflow
+monetary outflow exceeds monetary inflow
+imports exceed exports
+exports exceed imports
+
+
+a	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		A balance of payments deficit occurs when ________.
+the net inflow of money from abroad exceeds the net outflows of money to other countries
+ imports exceed exports
+the net outflow of money from a country exceeds the net inflow of money from abroad
+ exports exceed imports
+
+
+c	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		Allison, a U.S. citizen, travels to Europe and spends $2,000 on souvenirs. She is contributing to the ________.
+U.S. trade surplus
+growing exchange rate
+U.S. balance of payments surplus
+ U.S. balance of payments deficit
+
+
+d	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		A Japanese insurance company purchases U.S. government securities. From the perspective of the United States, the balance of trade with Japan will ________ and the balance of payments with Japan will ________.
+not change; improve
+not change; get worse
+improve; improve
+improve; get worse
+
+
+a	DIF:	MED	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		A country’s exchange rate is based on ________.
+the rate at which its currency can be ex-changed for currencies of other countries
+the number of foreign banks it has
+tariffs and related trade restrictions
+the relationship between its imports and exports
+
+
+a	DIF:	EASY	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+	
+		Which of the following groups is likely to be hurt economically if the value of the U.S. dollar rises relative to the euro?
+American firms with euro-dominated loans
+American farmers exporting goods to Europe
+ European firms exporting goods to the United States
+ American tourists visiting Europe
+
+
+b	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		A country has a good chance of selling more of its goods abroad if it ________.
+increases the value of its currency
+more tourists decide to travel abroad
+devalues its currency
+sets high tariffs on imported goods
+
+
+c	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		Which of the following would result from devaluation of the U.S. dollar?
+Foreign goods would be less expensive for American consumers.
+Foreign firms would have to pay more to purchase U.S. assets.
+ The cost of foreign vacations for U.S. citizens would be reduced.
+ U.S. goods would sell for less abroad.
+
+
+d	DIF:	MED	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		In recent years, the value of the dollar relative to the euro has declined. What does this mean for European businesses exporting to the United States?
+European countries are more likely to import U.S. goods or services.
+The U.S. trade deficit will most likely become greater.
+The United States is more likely to increase imports from European countries.
+European countries are more likely to avoid trade with the United States.
+
+
+a	DIF:	MED	LO:	2 Measuring Trade between Nations  Pg. 101	AACSB:	Analytic		BT:	K
+
+		Assume a nation has a comparative advantage in the production of clothing. If the value of this country’s currency rises, ________.
+its comparative advantage will decrease
+its comparative advantage will stay the same
+ its comparative advantage will increase
+an absolute advantage will be created
+
+
+a	DIF:	MED	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		Which of the following statements is true regarding hard currencies? 
+Countries with hard currency typically use the barter system when exporting goods.
+The U.S. dollar is an example of hard currency, which is easily converted into other currencies.
+Hard currency is difficult to convert into other currency. 
+A country with hard currency is likely to have a trade deficit. 
+
+
+b	DIF:	MEDIUM	LO:	2 Measuring Trade between Nations Pg. 101	AACSB:	Analytic	BT:	K
+
+		An understanding of religious holidays is essential in order to overcome ________ international trade barriers.
+political
+physical
+cultural
+legal
+
+
+c	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Communication	BT:	K
+
+		Goto, Inc. is trying to establish a supplier relationship with a parts manufacturer in a small Asian country. Filipe, the purchasing manager, is attempting to get to know the general manager and staff of the company to help finalize the agreement. Filipe is attempting to overcome what type of barrier?
+physical barrier
+tariff restriction
+exchange controls
+cultural barrier
+
+
+d	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Communication	BT:	K
+
+		All of the following are social and cultural barriers EXCEPT ________.
+language
+currency shifts
+religious attitudes
+ gift-giving traditions
+
+
+b	DIF:	EASY	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Communication	BT:	K
+
+		Maria is the Middle Eastern sales manager for a large company. She avoids giving pork products and wine to Arab customers as gifts. Maria is being sensitive to ________.
+religious differences
+language differences
+differences in consumer habits
+differences in business practices
+
+
+a	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Communication	BT:	K
+
+		All of the following constitute a country’s infrastructure EXCEPT ________.
+political climate
+communication
+energy facilities
+transportation
+
+
+a	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		Patents, trademarks, and intellectual property are important concerns in the ___________ environment.
+economic
+political
+ cultural
+legal
+
+
+d	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+ 		The Foreign Corrupt Practices Act:
+prescribes fines and jail times for U.S. managers who are aware of bribe activity
+funds projects that build or expand a nation’s infrastructure
+ mediates trade disputes among trade agreement member nations
+promotes trade through financial cooperation
+
+
+a	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+ 	The hypothetical country of Eurica is experiencing severe competition to its domestic auto industry in the form of foreign imports. Many jobs are threatened. Eurica places a 25 percent tariff on the price of imported cars. This type of tariff is known as a(n) ________ tariff.
+revenue
+quota
+infant industry
+protective
+
+
+d	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	AP
+
+		The purpose of __________ is to make imports more expensive for domestic buyers. 
+exchange controls
+embargos
+dumping
+tariffs
+
+
+d	DIF:	EASY	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		A country raises the tariff on imported cheese in order to increase its price above the price of domestically produced cheese. This is an example of ________.
+an exchange control
+an import quota
+a protective tariff
+dumping
+
+
+c	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		Tyra spent a two-week vacation in Italy and purchased more than $1,000 worth of Venetian glass. Upon returning to the United States, she was required to pay a ________ on the items.
+protective tariff
+revenue tariff
+customs tax
+exchange rate tax
+
+
+b	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		_________ are a common trade restriction imposed by the government on agricultural products. 
+Exchange controls devaluation
+Embargos
+Quotas
+Foreign trade zone
+
+
+c	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic		BT:	K
+
+		The objective of an import quota is to ________.
+prevent dumping
+raise revenue for the government
+ban the importation of certain goods
+ protect domestic industries
+
+
+a	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic		BT:	K
+
+		A foreign-made household appliance is popular and is highly competitive with the same product manufactured domestically. To give the domestic industry a better chance to operate profitably, the government restricts the number of these appliances that can be imported by applying a(n) ________.
+import quota
+embargo
+protective tariff
+revenue tariff
+
+
+a	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+			If a foreign company offers steel in the United States below the company’s cost of production, the company might be accused of ________.
+ protective tariffs
+dumping
+a managed trade agreement
+ an import quota
+
+
+b	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		Dumping _________ domestic consumers and _________ domestic producers.
+harms, benefits
+harms, harms
+benefits, harms
+benefits, benefits
+
+
+c	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic		BT:	K
+
+		The hypothetical country of Austrica requires foreign companies that buy and sell Austrica products to use only Austrica currency in these transactions. Austrica is using ________ as a means of controlling international trade.
+governmentally granted rights
+exchange control
+international currency trading
+local banks
+
+
+b	DIF:	MEDIUM	LO:	3 Barriers to International Trade Pg. 104	AACSB:	Analytic	BT:	K
+
+		Decisions made by the ___________ regarding trade disputes are binding on the parties involved. 
+North American Free Trade Agreement (NAFTA)
+International Monetary Fund (IMF)
+ World Bank
+ General Agreement on Tariffs and Trade (GATT)
+
+
+d	DIF:	MEDIUM	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	AP
+
+		A less-developed country wants to build new port facilities, which will allow it to increase agricultural exports. Financing for this project could come from the ________.
+International Monetary Fund
+ World Trade Organization
+World Bank
+United Nations
+
+
+c	DIF:	MEDIUM	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		A less-developed nation is facing a financial crisis due to the rapid devaluation of its currency. Which of the following might aid this country?
+International Monetary Fund
+World Bank
+United Nations
+World Trade Organization
+
+
+a	DIF:	MEDIUM	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		One effect of the North American Free Trade Agreement (NAFTA) is: 
+an increase in trade among the NAFTA member nations
+ an increase in the number of low-wage jobs in the United States
+a decrease in trade among NAFTA member nations
+ an increase in trade restrictions among the member nations
+
+
+a	DIF:	EASY	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		The ________ promotes trade by providing financial assistance and waiving debt payments. 
+United Nations
+European Union
+World Bank
+International Monetary Fund
+
+
+d	DIF:	EASY	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		A major concern of labor unions regarding trade agreements is: 
+loss of U.S. jobs
+higher prices on imported goods
+a decrease in U.S. exports
+a decrease in U.S. imports
+
+
+c	DIF:	EASY	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		The European Union (EU) ________.
+recently became part of the North American Free Trade Agreement
+wants to promote European citizenship as a complement to national citizenship
+made trade with the United States more difficult
+introduced the euro to coincide with each country’s own currency
+
+
+b	DIF:	EASY	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		All of the following are part of the European community’s plan to eliminate all barriers to free trade among its members with the exception of ________.
+legal systems being standardized
+custom checks being eliminated
+ trade duties and value-added taxes being standardized
+ business regulation and requirements being standardized
+
+
+a	DIF:	EASY	LO:	4 Reducing Barriers to International Trade Pg. 111	AACSB:	Analytic	BT:	K
+
+		Which of the following is the first step in the decision for a business to expand globally?
+determining which foreign markets to enter
+determining how much it will cost to enter a new market
+deciding how to organize the overseas operations
+applying for special export credits
+
+
+a	DIF:	EASY	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		The most common first step in engaging in international business is ____________. 
+countertrade
+foreign licensing
+indirect exporting
+direct exporting
+
+
+c	DIF:	EASY	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		Berry Corp. sells microprocessors to an electronic equipment manufacturer in this country who then sells equipment containing the microprocessors to Japan. Berry Corp. is engaging in ________.
+ international production
+foreign licensing
+ countertrade
+indirect exporting
+
+
+d	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		Amit, CEO of Charter Chemical, has recognized the financial opportunities in China. Amit has hired a foreign freight forwarder to coordinate selling Charter Chemical’s products outside the United States. Charter Chemical is now involved in ________.
+overseas marketing
+international production
+direct exporting
+foreign licensing
+
+
+c	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		A U.S. agricultural producer sells wheat to a small country in Africa. The country pays the U.S. firm in seafood. This is an example of ________.
+countertrade
+direct exporting
+ foreign licensing
+international production
+
+
+a	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		A Canadian software company that specializes in developing computer games enters into an agreement with a Japanese software company. Under this agreement, the Japanese firm has the right to manufacture and sell the Canadian firm’s games in Japan. This agreement is an example of ________.
+countertrade
+foreign licensing
+international production
+direct exporting
+
+
+b	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		Speedy Lube enters into a contract with a foreign company to produce and distribute its products in a specific geographic area. Speedy Lube is involved in ________.
+foreign licensing
+countertrade
+international production
+direct exporting
+
+
+a	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		An American company that makes plastic garden furniture wants to market its products in a foreign country that has a high tariff barrier against imported plastic goods. One way the company can get around this problem is to ________.
+hire an export management team
+violate the Foreign Corrupt Practices Act
+enter into a licensing agreement with companies within the foreign country to produce the furniture there
+ submit a complaint to the U.S. Department of Commerce
+
+
+c	DIF:	EASY	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		BMW and Toyota set up a factory in Brazil to produce minivans. Slightly different minivan versions are sold in Brazil—one as a Toyota and one as a BMW. This is an example of ________.
+a joint venture
+direct exporting
+foreign licensing
+countertrade
+
+
+a	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		A venture capital firm funds promising British and Irish start-up companies. This is an example of ________.
+a licensing agreement
+subcontracting
+a direct investment
+a joint venture
+
+
+c	DIF:	EASY	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		By allowing a company to purchase another existing firm in the host country, a(n) ________ permits a largely domestic business to gain an international presence very quickly.
+joint venture
+foreign licensing agreement
+counter trade
+acquisition
+
+
+d	DIF:	MEDIUM	LO:	5 Going Global Pg. 115	AACSB:	Analytic	BT:	K
+
+		Which country features the most multinational corporations?
+United States
+Japan
+Britain
+Canada
+
+
+a	DIF:	EASY	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic		BT:	K
+
+		Ford Motor Company is merging its individual operation into one so that it can use a standardized product and marketing strategy worldwide. This strategy can best be described as a(n) ________.
+international marketing strategy
+orderly marketing strategy
+global strategy
+multidomestic strategy
+
+
+c	DIF:	MEDIUM	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic	BT:	K
+
+		The Coca-Cola Company designs its ads around the world to emphasize a common theme. These ads are adapted only slightly for local markets. Coca-Cola is using which of the following strategies in its international operations?
+global strategy
+ host country strategy
+uniform pricing strategy
+ multidomestic strategy
+
+
+a	DIF:	MEDIUM	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic	BT:	K
+
+		When firms develop products and marketing strategies that appeal to the customer tastes and buying habits of particular national markets, they are using a ________.
+global strategy
+free trade strategy
+uniform strategy
+multidomestic strategy
+
+
+d	DIF:	EASY	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic	BT:	K
+
+		Film distributors sometimes change movie titles when marketing overseas due to language or slang barriers. Studios usually allow modification of its product as part of a ________ strategy.
+multinational
+global
+ multidomestic business
+uniform
+
+
+c	DIF:	MEDIUM	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic	BT:	K
+
+		Companies such as Dell Computer adapt their Web sites to specific countries. These companies are following a(n) ________ strategy.
+international marketing
+orderly marketing
+global
+multidomestic
+
+
+d	DIF:	MEDIUM	LO:	6 Developing a Strategy for International Business Pg. 121	AACSB:	Analytic	BT:	K
+
+
