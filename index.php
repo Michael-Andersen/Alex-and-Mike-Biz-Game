@@ -161,7 +161,7 @@ for($i =0; $i < sizeof($info2); $i++) {
     }
     
 }
-                        $p = rand(0, sizeof($question));
+                        $p = rand(0, sizeof($question) - 1);
                         $currentquest = $question[$p];
                         $currenta = $a[$p];
                         $currentb = $b[$p];
