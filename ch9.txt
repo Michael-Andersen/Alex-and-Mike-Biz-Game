@@ -1,0 +1,513 @@
+
+		Giving employees responsibility and authority to make decisions about their work is called ________.
+communication
+teamwork
+empowerment
+top-down management
+
+
+c	DIF:	EASY	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		Rajendra's company uses open book management, where employees can visit the company intranet and look up financial performance, design standards, and photos of coworkers. This sharing of information will ________ in employee empowerment and will have ________ on product quality.
+result; no impact
+result; a positive impact
+not result; no impact
+not result; a positive impact
+
+
+b	DIF:	MEDIUM	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		All of the following are used to empower employees EXCEPT ________.
+giving them decision-making authority about company relocation
+rewarding them based on company perfor-mance
+ giving them decision-making authority about hiring decisions
+ sharing company information
+
+
+a	DIF:	EASY	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		In many companies, shared decision-making authority extends to all of the following EXCEPT ________.
+purchasing supplies
+ determining individual working hours
+overseeing the safety program
+selecting members of the board of directors
+
+
+d	DIF:	MEDIUM	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		Which of the following statements is correct regarding stock option plans?
+They are offered only to top-level executives and members of the board of directors. 
+If the stock price increases, employees are likely to exercise their option to purchase the stock. 
+The company holds the stock for the benefit of the employees.
+Stock options are provided as a retirement benefit.
+
+
+b	DIF:	EASY	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic		BT:	K
+
+		With __________, employees receive stock shares or the value of the stock upon retiring or leaving the company. 
+treasury bills
+stock certificates
+ESOPs
+stock options
+
+
+d	DIF:	EASY	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+		A team consists of a group of people with ________ skills and ________ are responsible and accountable for accomplishing team objectives.
+complementary; all team members
+complementary; team leaders
+differing; all team members
+differing; team leaders
+
+
+a	DIF:	EASY	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		When Toyota was faced with serious quality problems and was forced to recall thousands of vehicles, the company quickly formed a temporary group of employees to brainstorm the problem. This is an example of a(n) _______ team.  
+virtual
+self-managed
+problem-solving
+cross-functional
+
+
+c	DIF:	MEDIUM	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		Jahn is a member of a semi-permanent team that performs the day-to-day functions of the organization. Jahn is a member of a(n) ________ team.
+self-managed
+work
+problem-solving
+cross-functional
+
+
+b	DIF:	MEDIUM	LO:	1 Empowering Employees Pg. 262	AACSB	Analytic	BT:	K
+
+		Danielle belongs to a team that meets using information technology because they are dispersed across the country. Danielle belongs to a ________ team.
+problem-solving
+self-managed
+cross-functional
+virtual
+
+
+d	DIF:	MEDIUM	LO:	2 The Five Types of Teams Pg. 264	AACSB	Analytic	BT:	K
+
+		Javier works for a home electronics store and is a member of a team created to increase communication among various departments. Javier has networked with new people and now has strong contacts for each department when he needs them. Javier is a member of a ________ team.
+work
+problem-solving
+cross-functional
+virtual
+
+
+c	DIF:	MEDIUM	LO:	2 The Five Types of Teams Pg. 264	AACSB	Analytic	BT:	K
+
+		Faith works in the bakery at Whole Foods Market. As part of a ________ team, she shares in the responsibility with other team members of managing her department’s work schedule and ordering baking supplies.
+self-managed
+problem-solving
+virtual
+cross-functional
+
+
+a	DIF:	MEDIUM	LO:	2 The Five Types of Teams Pg. 264	AACSB	Analytic	BT:	K
+
+		All of the following statements concerning team size are correct EXCEPT:
+Small teams make the most demands on team leaders.
+Large teams often suffer from disagreements, absenteeism, and membership turnover.
+Small teams may lack sufficient diversity.
+Large teams tend to work slower than small teams.
+
+
+a	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		According to research on team effectiveness, the ideal team size is ________ members.
+fewer than five
+between five and ten
+between ten and twenty
+more than twenty
+
+
+b	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Teams at Google come from many different countries, with skills ranging from creativity to communication to search engine optimization. This is an example of team ____________. 
+development
+cohesiveness
+diversity
+level
+
+
+c	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic, Diversity	BT:	AP
+
+		During the forming stage, what is the role of the team leader?
+providing time for members to become acquainted
+encouraging participation
+clarifying team roles
+facilitating task accomplishment
+
+
+a	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Which stage of team development is marked by conflicts over the team's mission and the roles of team members?
+norming stage
+forming stage
+performing stage
+storming stage
+
+
+d	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		During which stage of team development does agreement about the role of the team leader and other participants occur?
+Forming stage
+Norming stage
+Storming stage
+Performing stage
+
+
+b	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		During the performing stage, team members ________.
+focus on solving problems
+get to know one another
+ clarify their roles and expectations
+ resolve differences among them
+
+
+a	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Jason’s team has reached agreement about the role each member is expected to play. Jason's team has reached the ________ stage.
+forming
+norming
+storming
+performing
+
+
+b	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Zoe is the leader of a problem-solving team. She is encouraging every member of the team to openly express differences and work through conflicts. Zoe's team is likely in the ________ stage.
+norming
+performing
+storming
+forming
+
+
+c	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Ingrid’s team is engaged in problem solving and appears focused on accomplishing tasks. Ingrid's team is likely in which stage?
+forming stage
+norming stage
+storming stage
+performing stage
+
+
+d	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		At a celebratory gathering in a restaurant, Nicholas presents his team members with personal thank-you notes in appreciation for their hard work on a project. Nicholas and his team are in the ________ stage of team development.
+adjourning
+performing
+norming
+storming
+
+
+a	DIF:	MEDIUM	LO:	3 Team Characteristics Pg. 267	AACSB	Analytic	BT:	K
+
+		Mya’s team members feel attracted to the team and motivated to remain part of it. Mya’s team can be characterized as ________ .
+informal
+formal
+verbal
+cohesive
+
+
+d	DIF:	MEDIUM	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Vanessa wants to encourage interaction among her team members and is planning to move to an open office space without cubicle walls. Vanessa is trying to promote ________.
+empowerment
+team norm
+team cohesiveness
+external communication
+
+
+c	DIF:	MEDIUM	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Pin-yuan is trying to promote the cohesiveness of his team. Which of the following would LEAST likely improve his team's cohesiveness?
+encouraging his team members to work from home
+redesigning their work space
+increasing the interaction between team members
+encouraging team members to socialize during and after working hours
+
+
+a	DIF:	MEDIUM	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Samuel’s company has an unwritten rule that implies all managers must attend team meetings, no matter what projects they’re working on. This informal standard of conduct is an example of team ________. 
+roles
+norm
+cohesiveness
+conflict
+
+
+b	DIF:	MEDIUM	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Greg is an operating room nurse and notices the head surgeon is exhausted and disoriented. Greg decides to speak up, even though his actions defy the team ________ that surgeons outrank nurses.
+theory
+belief
+norm
+standard
+
+
+c	DIF:	MEDIUM	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Team norms are ________ and ________ standards of behavior.
+formal; written
+informal; written
+formal; unwritten
+informal; unwritten
+
+
+d	DIF:	EASY	LO:	4 Team Cohesiveness and Norms Pg. 270	AACSB	Analytic	BT:	K
+
+		Which of the following statements is correct regarding team conflict?
+It should be avoided at all costs.
+It often improves team performance. 
+It will be reduced if the team is diverse. 
+It rarely occurs in most teams.
+
+
+b	DIF:	MEDIUM	LO:	5 Team Conflict Pg. 271	AACSB	Analytic	BT:	K
+
+		Angie’s marketing team disagrees on the way to advertise a product based on their past experiences. However, all members are attempting to reconcile their differences to produce an effective marketing strategy. Angie’s team is experiencing ________ conflict.
+cognitive
+mutual
+internal
+affective
+
+
+a	DIF:	MEDIUM	LO:	5 Team Conflict Pg. 271	AACSB	Analytic	BT:	K
+
+		Steve and Renee are city council members who vehemently disagree over a new zoning ordinance. Their arguments have become personal, and other council members are irritated and avoiding meetings. Steve and Renee need to resolve their ________ conflict.
+cognitive
+mutual
+affective
+internal
+
+
+c	DIF:	MEDIUM	LO:	5 Team Conflict Pg. 271	AACSB	Analytic	BT:	K
+
+		________ percent of the typical manager's day is spent engaged in communications.
+Less than 25
+About 50
+About 75
+More than 75
+
+
+d	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		The communication _______ composes the message.
+sender
+receiver
+channel
+context
+
+
+a	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Jeremy announced to his accounting team that the company’s financial reports should be completed “by next week.” Subsequently, members of his team had completely different ideas about when the reports were due. At which stage of communication are the team members?
+providing feedback
+message encoding
+understanding the context
+message decoding
+
+
+d	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Amanda sends an e-mail to her assistant requesting information for an upcoming meeting. Since her team is working on a variety of projects, Amanda is very specific about the materials she needs in order to avoid confusion. As the sender, is Amanda is ________ .
+providing a context for the message
+encoding the message
+decoding the message
+eliminating the message's noise
+
+
+b	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Lisa works for an advertising agency and has presented her client with ideas for new commercials. After the presentation Lisa asks for ________ to determine if the clients correctly understood her message. 
+a decoded message
+a channel
+feedback
+less noise
+
+
+c	DIF:	MEDIUM	LO: 6The Importance of Effective Communica-tion Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Feedback ________.
+helps determine whether a message was correctly interpreted
+is generally verbal in nature
+is usually ambiguous
+helps lower the noise level
+
+
+a	DIF:	MEDIUM	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Countries like the United States which tend to rely on explicit written and verbal messages are considered ________ cultures 
+external
+diverse
+high-context
+low-context
+
+
+d	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication	BT:	K
+
+		Japan is considered to be a ________ context country and thus, Japanese businesspeople place importance on ________ communications.
+high; both verbal and nonverbal
+low; both verbal and nonverbal
+high; explicit verbal
+low; explicit verbal
+
+
+a	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication BT:	K
+
+		Evan is listening to a voice message left by his manager, but he cannot understand most of it due to his manager’s cell phone breaking up. Evan calls back his manager for the complete message since he cannot effectively communicate with this type of ________.
+grapevine
+noise
+nonverbal communication
+conflict
+
+
+b	DIF:	EASY	LO: 6 The Importance of Effective Communi-cation Pg. 272	AACSB	Analytic, Communication BT:	K
+
+		William is listening to one of his fellow team members speak at a meeting. He believes she is just trying to get the team leader to adopt her idea. William is being a(n) ________ listener.
+offensive
+cynical
+polite
+non
+
+
+b	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication BT:	K
+
+		Deni uses lots of gestures and facial expressions when communicating. These are examples of _____________ communication. 
+informal
+oral
+formal
+nonverbal
+
+
+d	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		Ekisa and Ingrid like to send e-mail back and forth discussing their families and work-related issues. They are engaging in ________ and ________ communication.
+informal; written
+informal; oral
+formal; written
+formal; oral
+
+
+a	DIF:	EASY	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication BT:	K
+
+		________ listening is the basis for effective communication.
+Active
+Cynical
+Polite
+Nonverbal
+
+
+a	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		Office e-mails are a form of ________ communication.
+informal
+written
+formal
+nonverbal
+
+
+b	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		What is considered to be the biggest problem with email as a form of business communication?
+using company email to send personal messages
+e-mail is too informal for companies to convey a professional image
+e-mail technology is still limited
+too much email
+
+
+d	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		All of the following are examples of formal communication EXCEPT ________.
+
+the employee benefits handbook
+ a telephone call with a customer
+the grapevine
+ a letter to a supplier
+
+
+c	DIF:	EASY	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		Lucia is a manager who regularly communicates company news with her employees via e-mail. This is an example of a(n) ________ communication channel.
+formal
+informal
+nonverbal
+oral
+
+
+a	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB    Analytic, Communication	BT:	K
+
+		Concerning the grapevine, all of the following statements are correct EXCEPT:
+The grapevine is a frequent source of information for employees.
+Grapevines convey information rapidly.
+The grapevine is an informal communication channel.
+Information on the grapevine is wrong most of the time.
+
+
+d	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		All of the following are examples of nonverbal communication EXCEPT ________.
+informal speech
+eye contact
+clothing choices
+tone of voice
+
+
+a	DIF:	EASY	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		Which of the following is considered an upward communication channel?
+completing an employee survey
+giving employees policy manuals
+ posting notices on bulletin boards
+reporting news in company newsletters
+
+
+a	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		Two people are having a conversation and are standing about six feet apart. What zone are they in?
+public zone
+social zone
+personal zone
+intimate zone
+
+
+b	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		In the United States, most business conversations occur within which zone?
+intimate zone
+personal zone
+public zone
+social zone
+
+
+d	DIF:	MEDIUM	LO:	7 Basic Forms of Communication Pg. 274	AACSB	Analytic, Communication	BT:	K
+
+		All of the following are examples of external communications EXCEPT:
+annual reports to stockholders
+e-mails sent to sales representatives
+sales presentations
+information presented on a company's Web site
+
+
+b	DIF:	MEDIUM	LO:	8 External Communication and: Crisis Management Pg. 279	AACSB	Analytic, Communication	BT:	K
+
+		________ communication with customers should create goodwill and contribute to customer satisfaction.
+every
+written
+external
+formal
+
+
+a	DIF:	MEDIUM	LO:	8 External Communication and Crisis Management Pg. 279	AACSB	Analytic, Communication	BT:	K
+
+		What is the first step a company should do when responding to a crisis?
+call or email members of the press to deny the story
+issue a “no comment”
+respond quickly with a prepared statement
+arrange a press conference with the compa-ny’s PR representative
+
+
+c	DIF:	MEDIUM	LO:	8 External Communication and Crisis Management Pg. 279	AACSB	Analytic, Communication	BT:	K

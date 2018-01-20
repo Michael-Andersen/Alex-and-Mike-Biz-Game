@@ -64,6 +64,19 @@ if( $stmt === false ) {
         $_SESSION['c2'] = '';
         $_SESSION['c3'] = '';
         $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
     break;
     
         case 'ch2': 
@@ -72,6 +85,19 @@ if( $stmt === false ) {
         $_SESSION['c3'] = '';
         $_SESSION['c1'] = '';
         $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
             break;
     
         case 'ch3':
@@ -80,6 +106,19 @@ if( $stmt === false ) {
         $_SESSION['c2'] = '';
         $_SESSION['c1'] = '';
         $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
             break;
             case 'ch4':
         $_SESSION['file'] = 'ch4.txt';
@@ -87,6 +126,277 @@ if( $stmt === false ) {
         $_SESSION['c2'] = '';
         $_SESSION['c1'] = '';
         $_SESSION['c3'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch5':
+        $_SESSION['file'] = 'ch5.txt';
+        $_SESSION['c5'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch6':
+        $_SESSION['file'] = 'ch6.txt';
+        $_SESSION['c6'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch7':
+        $_SESSION['file'] = 'ch7.txt';
+        $_SESSION['c7'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch8':
+        $_SESSION['file'] = 'ch8.txt';
+        $_SESSION['c8'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';   
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch9':
+        $_SESSION['file'] = 'ch9.txt';
+        $_SESSION['c9'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch10':
+        $_SESSION['file'] = 'ch10.txt';
+        $_SESSION['c10'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch11':
+        $_SESSION['file'] = 'ch11.txt';
+        $_SESSION['c11'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch12':
+        $_SESSION['file'] = 'ch12.txt';
+        $_SESSION['c12'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch13':
+        $_SESSION['file'] = 'ch13.txt';
+        $_SESSION['c13'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+        case 'ch14':
+        $_SESSION['file'] = 'ch14.txt';
+        $_SESSION['c14'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+        case 'ch15':
+        $_SESSION['file'] = 'ch15.txt';
+        $_SESSION['c15'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch16':
+        $_SESSION['file'] = 'ch16.txt';
+        $_SESSION['c16'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c12'] = '';
+        $_SESSION['c17'] = '';
+            break;
+            case 'ch17':
+        $_SESSION['file'] = 'ch17.txt';
+        $_SESSION['c17'] = 'selected ="selected"';
+        $_SESSION['c2'] = '';
+        $_SESSION['c1'] = '';
+        $_SESSION['c3'] = '';
+        $_SESSION['c4'] = '';
+        $_SESSION['c5'] = '';
+        $_SESSION['c6'] = '';
+        $_SESSION['c7'] = '';
+        $_SESSION['c8'] = '';
+        $_SESSION['c9'] = '';
+        $_SESSION['c10'] = '';
+        $_SESSION['c11'] = '';
+        $_SESSION['c13'] = '';
+        $_SESSION['c14'] = '';
+        $_SESSION['c15'] = '';
+        $_SESSION['c16'] = '';
+        $_SESSION['c12'] = '';
             break;
     
     }
@@ -103,6 +413,19 @@ if( $stmt === false ) {
   <option value="ch2"'.$_SESSION['c2'].'>Chapter 2</option>
   <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option>
   <option value="ch4"'.$_SESSION['c4'].'>Chapter 4</option>
+  <option value="ch5"'.$_SESSION['c5'].'>Chapter 5</option>
+  <option value="ch6"'.$_SESSION['c6'].'>Chapter 6</option>
+  <option value="ch7"'.$_SESSION['c7'].'>Chapter 7</option>
+  <option value="ch8"'.$_SESSION['c8'].'>Chapter 8</option>
+  <option value="ch9"'.$_SESSION['c9'].'>Chapter 9</option>
+  <option value="ch10"'.$_SESSION['c10'].'>Chapter 10</option>
+  <option value="ch11"'.$_SESSION['c11'].'>Chapter 11</option>
+  <option value="ch12"'.$_SESSION['c12'].'>Chapter 12</option>
+  <option value="ch13"'.$_SESSION['c13'].'>Chapter 13</option>
+  <option value="ch14"'.$_SESSION['c14'].'>Chapter 14</option>
+  <option value="ch15"'.$_SESSION['c15'].'>Chapter 15</option>
+  <option value="ch16"'.$_SESSION['c16'].'>Chapter 16</option>
+  <option value="ch17"'.$_SESSION['c17'].'>Chapter 17</option>
   </select>'
                             ;?>
                     <button class="btn btn-info btn-xs" name="chpselect" type="submit">Select Chapter</button>
@@ -112,7 +435,7 @@ if( $stmt === false ) {
                 
                                                if(isset($_POST['submit'])){
                                     $o = strtolower(trim($_POST['guess']));
-                                    if ($o==$_POST['answer']){
+                                    if ($o==strtolower($_POST['answer'])){
                                                 echo '<span class="victory">Correct! </span>';
                                                 $_SESSION['count']++;
                                                 $_SESSION['score']++;

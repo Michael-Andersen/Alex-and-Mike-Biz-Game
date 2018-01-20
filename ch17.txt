@@ -1,0 +1,316 @@
+	The financial manager for a typical corporation is responsible for ________.
+designing the accounting system
+ gathering, recording, and reporting financial information
+determining the most appropriate sources and uses of funds
+
+preparing operating budgets for various departments
+
+
+c	DIF:	MEDIUM	REF:	Chapter Introduction
+
+
+	The senior financial manager has the title of ________.
+chief financial officer
+chief operations officer
+Treasurer
+Controller
+
+
+a	DIF:	EASY	REF:	17.1 The Role of the Financial Manager
+
+
+	Which of the following individuals has the direct responsibility for shareholder relations?
+controller
+chief financial officer
+chief executive officer
+treasurer
+
+
+d	DIF:	MEDIUM	REF:	17.1 The Role of the Financial Manager
+
+
+	In the typical firm, the ________ is the chief accounting manager.
+chief executive officer
+controller
+treasurer
+chief financial officer
+
+
+b	DIF:	MEDIUM	REF:	17.1 The Role of the Financial Manager
+
+
+	Jasmine works in the financial division of her company and is responsible for preparing monetary forecasts and analyzing major investment decisions. What is Jasmine’s title?
+treasurer
+CFO
+vice president for financial management
+controller
+
+
+c	DIF:	MEDIUM	REF:	17.1 The Role of the Financial Manager
+
+
+	Which of the following is the best definition of financial risk?
+Risk is the uncertainty regarding the gain or loss from an investment.
+
+Risk is the possibility that an investment's actual return will be less than its expected return.
+
+ Risk is the possibility that an investment will earn a negative return.
+ Risk is the possibility that an investment will lose money.
+
+
+a	DIF:	MEDIUM	REF:	17.1 The Role of the Financial Manager
+
+
+	The gain or loss that results from an investment over a specified period of time is known as ________.
+Risk
+Return
+uncertainty
+expected value
+
+
+b	DIF:	EASY	REF:	17.1 The Role of the Financial Manager
+
+
+	The process that periodically checks actual revenues and expenses against forecast values is ________.
+strategic planning
+financial planning
+budgeting
+financial control
+
+
+d	DIF:	MEDIUM	REF:	17.2 Financial Planning
+
+
+	A(n) ________ is a document that specifies the funds a firm will need for a period of time, the timing of inflows and outflows, and the most appropriate sources and uses of funds.
+asset management plan
+Budget
+strategic plan
+financial plan
+
+
+d	DIF:	EASY	REF:	17.2 Financial Planning
+
+
+	A company’s financial plan should answer all of the following questions EXCEPT ________.
+What is the contingency plan in case of bankruptcy?
+What funds will the firm require during the appropriate period of operations?
+How will it obtain the necessary money?
+When will it need more cash?
+
+
+a	DIF:	MEDIUM	REF:	17.2 Financial Planning
+
+
+	Major current assets include all of the following EXCEPT________. 
+accounts receivable 
+stockholders’ equity
+
+ marketable securities
+Cash
+
+
+b	DIF:	MEDIUM	REF: 17.3 Managing Assets
+
+
+	All of the following actions result in equity capital EXCEPT ________.
+issuing bonds
+liquidating assets 
+issuing stock
+reinvesting earnings
+
+
+a	DIF:	EASY	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	Kaitlyn’s company needs to obtain funds in order to keep the business going; however, she does not want stockholders influencing the direction of her company. What type of financing should Kaitlyn acquire?
+angel investor
+combination of debt and equity capital
+debt capital
+equity capital
+
+
+c	DIF:	DIFFICULT	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	Central Valley Pharmaceuticals needs to raise funds to buy new production equipment. The financial manager would probably suggest that his company raise debt capital by ________.
+using accumulated earnings
+selling stock
+selling marketable securities
+borrowing money from a bank
+
+
+d	DIF:	MEDIUM	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	Grace is the financial manager for Empire State Fabrication and has decided to raise additional funds for the company by raising equity capital. She might do so by ________.
+selling a bond
+persuading existing owners to contribute additional funds
+
+ selling marketable securities
+establishing a line of credit with a local bank
+
+
+b	DIF:	MEDIUM	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	Leverage ________ the return to shareholders and ________ the risk of their investment.
+lowers; lowers
+lowers; increases
+increases; lowers
+increases; increases
+
+
+d	DIF:	DIFFICULT	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	Borrowing money ________.
+creates leverage
+increases financial flexibility
+decreases risk to shareholders
+decreases expected returns to shareholders due to interest payments
+
+
+a	DIF:	MEDIUM	REF:	17.4 Sources of Funds and Capital Structure
+
+
+	All of the following are sources of short-term funds EXCEPT ________.
+commercial paper
+trade credit
+Bonds
+bank loans
+
+
+c	DIF:	EASY	REF:	17.5 Short-Term Funding Options
+
+
+	A company would most likely finance ________ using short-term sources.
+inventory
+buildings
+another company
+machinery
+
+
+a	DIF:	MEDIUM	REF:	17.5 Short-Term Funding Options
+
+
+	When a firm receives goods or services from a supplier and agrees to pay for them at a later date, this arrangement is called ________.
+a short-term loan
+a repurchase agreement
+trade credit
+commercial credit
+
+
+c	DIF:	MEDIUM	REF:	17.5 Short-Term Funding Options
+
+
+	Short-term assets are expected to be converted into cash within _____.
+a month
+a year
+a week
+six months
+
+
+b	DIF:	MEDIUM	REF:	17.5 Short-Term Funding Options
+
+
+	Which of the following assets would a firm most likely finance using long-term sources?
+inventory
+accounts receivable
+marketable securities
+another company
+
+
+d	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing
+
+
+	________ would be the LEAST likely to obtain a private placement.
+Small individual investors
+Life insurance companies
+Commercial banks
+Pension fund managers
+
+
+a	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing
+
+
+	Most private placements are ________.
+U.S. government securities
+corporate debt issues
+corporate equity issues
+municipal debt issues
+
+
+b	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing
+
+
+	Mitch raises money from wealthy individuals and institutional investors for a variety of promising new companies. In exchange, he will become part owner of those businesses. Mitch is a(n) ________.
+angel investor
+underwriter
+entrepreneur
+venture capitalist
+
+
+d	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing
+
+
+	_____ are investment companies that raise funds from wealthy individuals and institutional investors and use the funds to make investments in both public and private companies. 
+Venture capitalists
+Private placements
+Hedge funds
+Private equity funds
+
+
+d	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing 
+
+
+	The sovereign wealth fund is a variation of _____.
+market securities
+the private equity fund
+private placements
+debt capital
+
+
+b	DIF:	MEDIUM	REF:	17.6 Sources of Long-Term Financing
+
+
+	The term used to describe the benefits produced by a merger or acquisition is _____.
+partnership
+leverage
+Synergy
+Profit
+
+
+c	DIF:	EASY	REF:	17.7 Mergers, Acquisitions, Buyouts, and Divestitures 
+
+
+	A(n) _____ is a transaction in which one company buys another.
+acquisition
+Merger
+takeover
+Synergy
+
+
+a	DIF:	MEDIUM	REF:	17.7 Mergers, Acquisitions, Buyouts, and Divestitures 
+
+
+	Two types of divestitures are _____.
+sell-offs and trade-offs
+trade-offs and spin-offs
+buy-offs and spin-offs
+sell-offs and spin-offs
+
+
+d	DIF:	MEDIUM	REF:	17.7 Mergers, Acquisitions, Buyouts, and Divestitures 
+
+
+	In a sense, a(n) ________ is the reverse of a merger. 
+tender offer
+LBO
+divestiture
+acquisition
+
+
+c	DIF:	MEDIUM	REF:	17.7 Mergers, Acquisitions, Buyouts, and Divestitures 
+
+
+

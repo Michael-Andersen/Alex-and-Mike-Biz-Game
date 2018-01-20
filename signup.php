@@ -21,6 +21,7 @@
                         <label for="password">Password:</label><input class="form-control" type="password" name="password"><br/>
                         <button type="submit" class="btn btn-info btn-group-justified" name="submit">Submit</button>
                     </form>
+                    <?php echo '<span class="warning">'.$_GET['error'].'</span>';?>
                 </div>
             </div>
         </div>

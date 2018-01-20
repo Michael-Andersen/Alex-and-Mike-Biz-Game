@@ -1,0 +1,594 @@
+		The want-satisfying power of a good or service is called ________.
+quality
+ownership
+worth
+utility
+
+
+d	DIF:	MEDIUM	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		Trucks, personnel, buildings, fuel, goods to be shipped, truck parts, and packaged supplies are examples of: 
+inputs
+outputs
+conversion
+transformation
+ 
+a	DIF:	MEDIUM	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		________ is the use of people and machinery to convert materials into finished goods or services.
+Manufacturing
+Production
+Distribution
+Marketing
+
+
+b	DIF:	MEDIUM	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		When a cabinet maker combines wood, tools, and skill to create finished kitchen cabinets for a new home, the cabinet maker is engaging in  ________.
+distribution
+time utility
+process utility
+production
+
+
+d	DIF:	MEDIUM	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		What is the task of production and operations management?
+To determine the most economical routes for transporting the firms' products
+To manage the use of people and machinery in converting materials and resources into finished goods and services
+To manage the use of people and other resources in the development of distribution channels and promotional strategies
+To design systems that will provide managers with information useful for decision making
+
+
+b	DIF:	EASY	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		When the editors of Contemporary Business use computers, paper, and human effort to create the new edition of a text, they are engaged in ________.
+creating time utility
+creating possession utility
+production
+marketing
+
+
+c	DIF:	MEDIUM	LO:	Overview Pg. 290	AACSB	Analytic	BT:	K
+
+		Which of the following are combined to result in mass production?
+Mechanization, specialized labor, and robots
+Standardization, job-order production, and specialized labor
+Analytic systems, synthetic systems, and continuous processes
+Mechanization, specialized labor, and standardization
+
+
+d	DIF:	MEDIUM	LO:	1 The Strategic Importance of Produc-tion Pg. 291	AACSB	Analytic	BT:	K
+
+		The production manager in a manufacturing company divides employee work into small segments so each employee can concentrate on just a few tasks. This manager is involved in ________.
+mechanization
+specialization
+quality management
+standardization
+
+
+b	DIF:	MEDIUM	LO:	1 The Strategic Importance of Produc-tion Pg. 291	AACSB	Analytic	BT:	K
+
+		Which of the following statements about standardization is NOT correct?
+Standardization is used as the basis for custom-made machinery.
+The availability of standardized parts makes possible the replacement of defective and worn-out components.
+Standardized parts can reduce the cost of repairs.
+Standardized parts can be produced in quantity and assembled later.
+
+
+a	DIF:	MEDIUM	LO:	1 The Strategic Importance of Produc-tion Pg. 291	AACSB	Analytic	BT:	K
+
+		Which of the following is a disadvantage of assembly lines?
+Workers perform specialized tasks.
+
+It takes fewer hours to produce products.
+ It is inefficient for producing small batches.
+ It moves the product along a conveyor belt past a number of workstations.
+
+
+c	DIF:	MEDIUM	LO:	1 The Strategic Importance of Produc-tion Pg. 291	AACSB	Analytic	BT:	K
+
+		Grocery stores use scanners not only for faster check-out times, but as a tool to obtain merchandise sales data and create short-term forecasts. This system is known as ________ production.
+product-focused
+quality control
+data marketing
+customer-driven
+
+
+d	DIF:	MEDIUM	LO:	1 The Strategic Importance of Produc-tion Pg.291		AACSB	Analytic,  Technology	BT:	K
+
+		A production system that reduces a raw material to its component parts in order to extract one or more marketable products is a(n) ________ production system.
+analytic
+flexible
+intermittent
+synthetic
+
+
+a	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		A production system that combines a number of raw materials or parts into a finished product or changes raw materials into completely different finished products is known as
+extractive
+intermittent
+unified
+synthetic
+
+
+d	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		Which production system is Smith-Kline Beecham using when it combines calcium carbonate, simethicone, corn syrup, and other ingredients to make Tums Plus?
+analytic
+synthetic
+extractive
+service
+
+
+b	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		Which production process describes a manufacturing operation in which long production runs generate finished products over a period of time?
+Continuous
+Intermittent
+Customized
+Periodic
+
+
+a	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		A steel company whose blast furnaces never completely shut down except for malfunctions is an example of a(n) ________ production system.
+intermittent
+synthetic
+analytic
+continuous
+
+
+d	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		The ABC Accountants do not standardize their service to customers because each customer has different needs. This is an example of _______ production.
+intermittent
+continuous
+custom
+job-order
+
+
+a	DIF:	MEDIUM	LO:	2 Production Processes Pg. 292	AACSB	Analytic	BT:	K
+
+		A(n) ________can repeat the same tasks numerous times without varying its movement.
+assembly line
+robot
+personal computers
+continuous process
+
+
+b	DIF:	MEDIUM	LO:	3 Technology and the Production Process Pg.293	AACSB	Technology	BT:	K
+
+		All of the following statements concerning robots are correct EXCEPT:
+The use of robots is only beneficial in manufacturing settings.
+A variety of industries are now using robot technology.
+Robots have freed people from boring, dangerous assignments.
+Robots can move finished goods from one place to another. 
+
+
+a	DIF:	MEDIUM	LO:	3 Technology and the Production Process Pg. 293	AACSB	Technology	BT:	K
+
+		Engineers at Ford Motor Company use computers to build new car models in the virtual world before they are ever built in automobile plants. These engineers are using ________.
+flexible manufacturing systems
+computer-aided manufacturing
+ computer-integrated manufacturing
+
+computer-aided design
+
+
+d	DIF:	EASY	LO:	3 Technology and the Production Process Pg. 293	AACSB	Analytic, Technology	BT:	K
+
+		The process that enables manufacturers to use computers to analyze the steps a machine must take to produce a product or part is ________.
+computer-aided manufacturing
+Program Evaluation and Review Technique
+computer-aided design
+computer-integrated manufacturing
+
+
+a	DIF:	EASY	LO:	3 Technology and the Production Process Pg. 293	AACSB	Technology	BT:	K
+
+		Yusted's company uses a computer to control its production process. The computer transmits signals to machines for performing the appropriate steps in the correct order. This is an example of ___________
+computer-aided design
+computer-aided manufacturing
+flexible manufacturing
+computer-integrated manufacturing
+
+
+b	DIF:	EASY	LO:	3 Technology and the Production Process Pg. 293	AACSB	Analytic, Technology	BT:	K
+
+		Boca Bearing Company produces 30 basic types of ball bearings. Its manufacturing system uses computer-controlled machining centers, robots, and remote-controlled carts to deliver materials. In addition, the system can be modified quickly to produce the different ball bearings. The manufacturing system that is described is a ________ system.
+flexible manufacturing
+synthetic manufacturing
+static manufacturing
+computer-aided design
+
+
+a	DIF:	EASY	LO:	3 Technology and the Production Process Pg. 293	AACSB	Analytic, Technology	BT:	K
+
+		Florida Fixtures uses a computer system that controls the entire production function from designing products to ordering raw materials. What kind of production system is Florida Fixtures using?
+Flexible manufacturing system
+Computer-aided design
+Computer-integrated manufacturing
+Computer-aided manufacturing
+
+
+c	DIF:	EASY	LO:	3 Technology and the Production Process Pg. 293	AACSB	Analytic, Technology	BT:	K
+
+		Which of the following would probably be the most important consideration in determining where to locate a mill for Hefferin Paper Company?
+Labor supply
+Location of customers
+Physical characteristics
+Proximity to raw materials
+
+
+d	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		In selecting a production facility location, labor supply would be most important to which of the following?
+Steel manufacturer
+Jewelry manufacturer
+Paper mill
+Software developer
+
+
+d	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		Which type of company would be most interested in locating in an area close to its market?
+Dry cleaners
+Pharmaceutical companies
+Automobile manufacturers
+Shipbuilding companies
+
+
+a	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		Tamara is the owner of Baker's Dozen, a bakery with all perishable products. What will be her primary consideration in regard to location?
+Proximity to raw materials
+Proximity to her market
+Availability of transportation alternatives
+Proximity to labor supply
+
+
+b	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		Computer chip manufacturers, such as Intel, must be primarily concerned with ________.
+availability to energy 
+proximity to markets
+community living conditions 
+available  water supply 
+
+
+d	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		State and local governments may offer ___ to encourage businesses to locate in their area. 
+proximity to suppliers
+tax incentives
+proximity to raw materials
+physical factors such as energy
+
+
+b	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		What is the main reason some companies have set up offshore assembly plants?
+Available marketing opportunities
+Nearness to raw materials
+In search of low wages
+Inexpensive energy
+
+
+c	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		Grey Water Disposal wants to build a landfill outside Cincinnati. . The company must conduct a(n) ________ study, which includes analyzing the effect the landfill might have on the water supply, air conditions, and wildlife.
+market impact
+consumer behavior
+location feasibility
+environmental impact
+
+
+d	DIF:	MEDIUM	LO:	4 The Location Decision Pg. 296	AACSB	Analytic	BT:	K
+
+		Which of the following is not a primary task of production managers? 
+Determining what products to produce
+Controlling the production process
+ Selecting the most appropriate layout
+ Planning the production process
+
+
+a	DIF:	EASY	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Juan is a production manager. Which of the following tasks would Juan complete first?
+Selecting the appropriate layout
+Determining what products to produce
+Planning the production process
+Implementing the production process
+
+
+c	DIF:	EASY	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Sakura is a production manager and has decided that grouping machinery and equipment according to their functions works best at her company. What layout would be her company be using?
+Fixed
+Process
+Customer oriented
+Product
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic, Analytic	BT:	K
+
+		Hospital rooms are typically set up with a ________ layout.
+product
+process
+fixed-position
+customer-oriented
+
+
+d	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		The production facility for a space shuttle would probably be organized according to a ________ layout.
+fixed-position
+product
+process
+customer-oriented
+
+
+a	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		A firm that produces a variety of nonstandard products in relatively small quantities would probably use a ________ layout.
+customer-oriented
+process
+product
+fixed-position
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Which of the following layouts would be appropriate for manufacturers of bulky, heavy, or fragile products?
+Product layout
+Customer-oriented layout
+Fixed-position layout
+Process layout
+
+
+c	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Which of the following layouts would be appropriate for a manufacturer who needs to produce large numbers of a single product?
+Product layout
+Process layout
+Fixed-position layout
+Customer-oriented layout
+
+
+a	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		A plant where plastic 2-liter bottles are manufactured probably uses a ________ layout.
+customer-oriented
+product
+process
+fixed-position
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Banks most likely utilize a ________ layout.
+product
+fixed-position
+process
+customer-oriented
+
+
+d	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Implementing a production plan involves all of the following steps EXCEPT ________.
+creating a feasible budget
+controlling inventory
+selecting the best suppliers for materials
+deciding whether to make, buy or lease components
+
+
+a	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		How can a firm best protect itself against an interruption in the supply of parts?
+ Select suppliers through a competitive bidding process.
+Use suppliers from the city where the firm is located.
+ Maintain more than one supply source.
+Transport the parts in its own transportation vehicles.
+
+
+c	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Which of the following would least likely be purchased on a long-term contractual basis?
+Component parts for mass production 
+Office supplies purchased for a small office
+Continuous supply products 
+Raw materials
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		When choosing an appropriate vendor, production managers consider all of the following EXCEPT ________.
+ services from competing companies
+delivery dependability
+ warranties on purchases
+dispatching
+
+
+d	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		The suppler for Omega Corporation has offered the company a 5 percent discount if it will order more units less frequently. If Omega accepts the supplier's offer, the cost of carrying inventory will ________ and the cost of running out of inventory will ________.
+rise; stay the same
+fall; decrease
+rise; decrease
+fall; stay the same
+
+
+c	DIF:	EASY	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		All of the following are expenses involved in storing inventory EXCEPT ________.
+maintenance
+acquisition
+insurance
+warehouse rent
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Snyder Industries uses 100,000 widgets each year. If Snyder decides to place more orders each year, ordering fewer widgets each time, Snyder will be carrying ________ inventory on average and the risk of running out of inventory will ________.
+less; rise
+less; fall
+more; fall
+more; rise
+
+
+a	DIF:	EASY	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Tidewater Company uses 100,000 pounds of fresh flowers each year. Because of rising energy costs, it has become more expensive for Tidewater to store flowers. All other factors being equal, Tidewater should ________ its inventory of fresh flowers, which would ________ the risk of running out of inventory
+reduce; have no effect on
+increase; have no effect on
+reduce; increase
+increase; increase
+
+
+c	DIF:	EASY	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Which of the following situations would present a challenge for a just-in-time (JIT) investment system?
+Increase in the number of suppliers
+ Long-term relationships with suppliers
+ Vendor managed inventory
+Sudden increase in demand
+
+
+d	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		Harriet uses a computer-based production planning system by which a firm can ensure that it has needed parts and materials available at the right time and place and in the correct amounts. Harriet uses: 
+materials requirement planning
+just-in-time inventory system
+computer-aided manufacturing
+vendor-managed inventory
+
+
+b	DIF:	MEDIUM	LO:	5 The Job of Production Managers Pg. 299	AACSB	Analytic	BT:	K
+
+		When Best Buy vendors ship merchandise directly to stores instead of distribution centers, the company is utilizing ________.
+perpetual inventory
+ inventory control
+ production control
+vendor-managed inventory
+
+
+d	DIF:	MEDIUM	LO:	5 The Job of Production Managers   Pg. 299	AACSB	Analytic	BT:	K
+
+		Isaac's job involves setting up well-designed procedures for coordinating people, materials, and machinery for the production of mesh filters. Isaac is involved in ________.
+inventory control
+facility design
+production control
+manufacturing resource planning (MRP II)
+
+
+c	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		Which phase of production control determines the amount of all resources needed to produce a certain amount of goods and services?
+Production planning
+Routing
+Dispatching
+Scheduling
+
+
+a	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		________ is the phase of production control that determines the sequence of work and specifies where and by whom each aspect of production will be performed.
+Follow-up
+Routing
+Scheduling
+Dispatching
+
+
+b	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		A Gantt chart is associated with which step in production control?
+Routing
+Scheduling
+Dispatching
+Follow-up
+
+
+b	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		Elijah is a warehouse production manager and has been assigned a complex project that might result in lengthy delays. In order to coordinate all aspects of the production process, Elijah has created a(n) ________ chart.
+ISO
+FMS
+Gantt
+PERT
+ 
+
+d	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		The critical path in a PERT chart represents the ________.
+sequence of operations that involves outside suppliers
+sequence of operations that requires the longest time for completion
+ areas of operations that require the least amount of technical support
+ areas of operations that have abundant and extra time
+
+
+b	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		Part of Vicky’s job as a production supervisor is to instruct each department on what work to do and the time in which they have to complete their work assignments. This part of her job is known as ________.
+routing
+dispatching
+scheduling
+planning
+
+
+b	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	AP
+
+		The last step in production control is to spot problems in the production process and inform management of needed adjustments. This phase is called ________.
+evaluation
+dispatching
+follow-up
+process control
+
+
+c	DIF:	MEDIUM	LO:	6 Controlling the Production Process Pg. 305	AACSB	Analytic	BT:	K
+
+		A firm can monitor quality level output in all of the following ways EXCEPT ________.
+customer surveys
+electronic sensors
+visual inspections
+share of marketplace
+
+
+d	DIF:	MEDIUM	LO:	7 Importance of Quality Pg. 308	AACSB	Analytic	BT:	K
+
+		Which of the following is NOT part of the mission of ISO?
+Enforce quality standards
+Provide a framework for continual improve-ment
+Promote international standards for business, government, and society
+ Facilitate global trade and cooperation
+ 
+d	DIF:	MEDIUM	LO:	7 Importance of Quality Pg. 308	AACSB	Analytic	BT:	K
+
+		When a company looks to an established, superlative product as a guide for its new product, it is ________.
+implementing quality control
+forecasting
+implementing quality standards
+benchmarking
+
+
+d	DIF:	MEDIUM	LO:	7 Importance of Quality Pg. 308	AACSB	Analytic	BT:	K
+
+		The goal of ________ is for companies to eliminate virtually all defects in output, processes, and transactions.
+European Economic Community
+Six Sigma
+WTO
+NATO Business Alliance
+ 
+b	DIF:	MEDIUM	LO:	7 Importance of Quality Pg. 308	AACSB	Analytic	BT:	K
+
+		Owen is a factory manager for Gateway Computers and is conducting a visual inspection of component hardware and comparing against established quality standards. Owen is measuring ________.
+production planning
+critical path
+quality control
+benchmarking
+
+
+c	DIF:	MEDIUM	LO:	7 Importance of Quality Pg. 308	AACSB	Analytic	BT:	K
+
+

@@ -1,0 +1,714 @@
+	In the U.S. financial system, which of the following is a net saver?
+households
+business
+ the government
+financial institutions
+
+
+a	DIF:	EASY	REF:	16.1 Understanding the Financial System
+
+
+	Zachary buys a bond issued by the city of Atlanta. This is an example of funds being transferred from a saver to a user ________.
+through a financial institution
+ through the financial markets
+Directly
+through the government
+
+
+b	DIF:	MEDIUM	REF:	16.1 Understanding the Financial System
+
+
+	One of the most important variables that determine how much a person saves is _____.
+what country he or she is from
+the person’s gender
+the person’s race
+ the person’s age
+
+
+d	DIF:	MEDIUM	REF:	16.1 Understanding the Financial System 
+
+
+	The difference between what you own and what you owe is called _____.
+net worth
+gross worth
+net value
+debt factor
+
+
+a	DIF:	MEDIUM	REF:	16.1 Understanding the Financial System 
+
+
+	Funds can be transferred between savers and users in two ways:_____________.
+individually and groups
+in person and electronically
+ directly and indirectly
+free and not free
+
+
+c	DIF:	EASY	REF:	16.1 Understanding the Financial System 
+
+
+	Indirect transfer of funds occurs through _____.
+personal checks
+cash payments
+ financial institutions
+consumer purchases
+
+
+c	DIF:	MEDIUM	REF:	16.1 Understanding the Financial System 
+
+
+	Securities are also called _____.
+Cash
+savings accounts
+financial institutions 
+financial  instruments
+
+
+d	DIF:	MEDIUM	REF:	16.2 Types of Securities 
+
+
+	All of the following are types of securities EXCEPT _____.
+money market instruments
+Stock
+Bonds
+ Cash
+
+
+d	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	____ are short-term debt securities issued by governments, financial institutions, and corporations.
+Stock
+Bonds
+Checks
+ Money market instruments
+
+
+d	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	Alex buys a money market instrument. It will mature within, at most, ____.
+10 years
+2 years
+1 year
+6 months
+
+
+c	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	___ are short-term securities issued by the U.S. Treasury and backed by the full faith and credit of the U.S. government.
+Treasury bills
+CDs
+Commercial paper
+Bonds
+
+
+a	DIF:	MEDIUM	REF:	16.2 Types of Securities 	
+
+
+	Treasury bills have a minimum denomination of ____.
+$100,000
+$10,000
+$1,000
+$100
+
+
+c	DIF:	DIFFICULT	REF:	16.2 Types of Securities 
+
+
+	_____ is a form of short-term financing sold by corporations, such as Salton Brands, that mature from 1 to 270 days after the date of issue.
+Bonds
+CDs
+Treasury bills
+ Commercial paper
+
+
+d	DIF:	EASY	REF:	16.2 Types of Securities
+
+
+	A _____ is a time deposit at a financial institution, such as a commercial bank, savings bank, or credit union.
+commercial paper
+Treasury bill
+ CD
+Bond
+
+
+c	DIF:	EASY	REF:	16.2 Types of Securities 	
+
+
+	_____ are creditors of a corporation or government body.
+Commercial paper holders
+Bondholders
+Treasury bills holders
+CD holders
+
+
+b	DIF:	EASY	REF:	16.2 Types of Securities 	
+
+
+	The U.S. Department of Treasury sells what type of bonds?
+Corporate bonds 
+ Government bonds
+Treasury bills bonds
+Municipal bonds
+
+
+b	DIF:	EASY	REF:	16.2 Types of Securities
+
+
+	Two types of municipal bonds exist. What are they? 
+government bonds and mortgage pass-through security bonds
+corporate bonds and general obligation bonds
+revenue bonds and  government bonds
+revenue bonds and general obligation bonds
+
+
+d	DIF:	DIFFICULT	REF:	16.2 Types of Securities
+
+
+	Corporate bonds are a diverse group and often vary based on the ____ that backs it.
+Market
+Value
+ collateral
+company
+
+
+c	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	Tom just bought a bond from United Pet Group. This bond is only backed by the financial reputation of the company. What type of bond did Tom buy?
+debenture
+ secured bond
+CD
+commercial paper
+
+
+a	DIF:	DIFFICULT	REF:	16.2 Types of Securities
+
+
+	These securities are backed by a pool of mortgage loans purchased from lenders, such as savings banks. 
+mortgage pass-through security
+mortgage  bond
+commercial paper
+corporate bond
+
+
+a	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	In recent years, mortgage pass-through securities consist of pools of _____, loans made to borrowers with poor credit ratings.
+low value mortgages
+prime mortgages
+ corporate mortgages
+subprime mortgages
+
+
+d	DIF:	MEDIUM	REF:	16.2 Types of Securities 	
+
+
+	Two factors determine the price of a bond: ____ and ____.
+risk; interest rate
+ market; risk
+interest rate; discount rate
+price of other bonds; the company selling the bond
+
+
+a	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	Bonds with ratings of BBB and above are classified as ____.
+ speculative bonds
+investment-grade bonds
+junk bonds
+corporate bonds
+
+
+b	DIF:	EASY	REF:	16.2 Types of Securities
+
+
+	Other things being equal, as interest rate rises, the price of a bond _____.
+stays the same
+will also rise 
+ cannot be determined
+decreases
+
+
+b	DIF:	EASY	REF:	16.2 Types of Securities 	
+
+
+	What provision allows the issuer to redeem the bond before its maturity at a specified price?
+bond provision
+convertible provision
+ call provision
+redeem provision
+
+
+c	DIF:	EASY	REF:	16.2 Types of Securities
+
+
+	The basic form of corporate ownership is ____.
+preferred stock
+ standard stock
+convertible securities 
+common stock
+
+
+d	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+   	Which of the following is a depository financial institution?
+life insurance company
+ credit union
+pension fund
+mutual fund
+
+
+b	DIF:	EASY	REF:	16.5 Financial Institutions
+
+
+	An owner of which form of stock would receive dividend payments first?
+convertible securities
+common stock
+preferred stock
+standard stock
+
+
+c	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	What feature gives the bondholder or preferred stockholder the right to exchange the bond or preferred stock for a fixed number of shares of common stock?
+bond rating
+convertible securities
+pass-through securities
+standard stock
+
+
+b	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+	Securities are issued and traded in the____.
+government market
+securities market
+ financial market
+super market
+
+
+c	DIF:	MEDIUM	REF:	16.2 Types of Securities
+
+
+When a company needs capital to purchase inventory, expand a plant, make major investments, acquire another firm, or pursue other business goals, it may sell a bond or stock issue to the investing public. This is done which market?
+primary market
+secondary market
+government market
+super market
+
+
+a	DIF:	MEDIUM	REF:	16.3 Financial Markets
+
+
+	The ____ is a collection of financial markets in which previously issued securities are traded among investors. 
+primary market
+secondary market
+government market
+super market
+
+
+b	DIF:	MEDIUM	REF:	16.3 Financial Markets
+
+
+	The two largest stock markets in the world are the ____ and the ____.
+New York Stock Exchange; SP 500
+Tokyo Stock Exchange; New York Stock Exchange
+ Tokyo Stock Exchange; London Stock Exchange
+New York Stock Exchange; Nasdaq stock market
+
+
+d	DIF:	MEDIUM	REF:	16.4 Understanding Stock Markets
+
+
+	Daily trading on the AMEX market is ____ shares.
+ over 10 billion
+over 2 billion
+about 1 billion
+less than 100 million
+
+
+d	DIF:	MEDIUM	REF:	16.4 Understanding Stock Markets
+
+
+	The ______ is perhaps the most international of all stock markets. 
+New York Stock Exchange
+London Stock Exchange
+ Nasdaq stock market
+ Tokyo Stock Exchange
+
+
+b	DIF:	DIFFICULT	REF:	16.4 Understanding Stock Markets
+
+
+
+
+
+
+
+
+
+
+In ____ buyers and sellers meet in a virtual stock market and trade directly with one another.
+online communications networks 
+ the Tokyo Stock Exchange
+the Nasdaq stock market
+electronic communications networks
+
+
+d	DIF:	DIFFICULT	REF:	16.4 Understanding Stock Markets
+
+
+	The most common type of order is called a ___. It instructs the broker to obtain the best possible price—the highest price when selling and the lowest price when buying. 
+fast order
+ stock order
+market order
+ limit order
+
+
+c	DIF:	EASY	REF:	16.4 Understanding Stock Markets
+
+
+	Which of the following statements is incorrect? 
+The number of commercial banks is declining each year.
+ Commercial banks are the most important financial institution.
+Commercial banks are prohibited from selling securities or insurance.
+Banks offer the widest range of services of any financial institution.
+
+
+c	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+	Commercial banks obtain most of their funds from ________.
+the government
+the sale of securities
+ depositors
+stockholders
+
+
+c	DIF:	EASY	REF:	16.5 Financial Institutions
+
+
+	Sean made a purchase at his local Walmart. Instead of writing a check, Sean used a card issued by his bank with a Visa logo on the front. He entered his PIN and the purchase was automatically deducted from his checking account. Sean used his ________ card.
+Credit
+ Debit
+ATM
+point-of-sale
+
+
+b	DIF:	EASY	REF:	16.5 Financial Institutions
+
+ 
+
+	With the prominence of online banking, ________ of U.S. consumers of all ages currently prefer Internet banking.
+more than one third
+less than one-fourth
+more than one-half
+approximately three-fifth
+
+
+d	DIF:	DIFFICULT	REF:	16.5 Financial Institutions
+
+
+	Deposit insurance shifts most of the financial risk of bank failures from depositors to ________.
+ the bank's creditors
+the bank's stockholders
+borrowers
+the federal government
+
+
+d	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+	Which of the following financial institutions is organized as a not-for-profit cooperative?
+commercial bank
+credit union
+life insurance company
+ savings bank
+
+
+b	DIF:	EASY	REF:	16.5 Financial Institutions
+
+
+	Which of the following financial institutions would typically invest the largest portions of its funds in home mortgage loans?
+savings bank
+credit union
+ commercial bank
+life insurance company
+
+
+a	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+	Savings banks were originally established to make ________ loans.
+home mortgage
+ business
+agricultural
+automobile
+
+
+a	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+ 
+
+	Nina’s financial institution has an office next to where she works. Everyone who uses the financial institution's services either works for Nina’s employer or is related to someone who does. Nina’s financial institution is a ________.
+state chartered bank
+savings bank
+commercial bank
+ credit union
+
+
+d	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+   	Which of the following is a nondepository financial institution?
+life insurance company
+savings bank
+ commercial bank
+credit union
+
+
+a	DIF:	EASY	REF:	16.5 Financial Institutions
+
+
+	The process used by an insurance company to determine whom to insure and how much to charge is called ________.
+a premium
+underwriting
+ a insuring agreement
+indemnity
+
+
+b	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+	Which of the following financial institutions would invest the greatest percentage of its assets in common stocks and other long-term investments?
+commercial bank
+pension fund
+credit union
+ property and liability insurance company
+
+
+b	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+
+	What type of financial institution raises money from investors by selling shares?
+credit union
+property and liability insurance company
+ mutual fund
+pension fund
+
+
+c	DIF:	MEDIUM	REF:	16.5 Financial Institutions
+
+ 
+
+	There are ________ Federal Reserve districts.
+5
+8
+12
+15
+
+
+c	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	Which of the following statements concerning the Fed is incorrect? 
+The Fed is the nation's central bank.
+The Fed acts as the banker's bank.
+ Credit unions and savings banks must belong to the Fed.
+Virtually all large commercial banks are Fed members.
+
+
+c	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+	All of the following are included in M1 EXCEPT ________.
+money market mutual funds
+total value of coins
+checking accounts
+currency in circulation 
+
+
+a	DIF:	EASY	REF:	16.6 The Role of the Federal Reserve
+
+
+	M2 includes ________ M
+all of
+none of
+some of
+half of
+
+
+a	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	Which of the following is not one of the four major policy tools the Fed has for controlling the growth in the supply of money and credit?
+reserve requirements
+check clearing
+term auction facility loans
+ open market operations
+
+
+b	DIF:	DIFFICULT	REF:	16.6 The Role of the Federal Reserve
+
+
+	The rate the Fed charges member banks for short-term loans is called the ________.
+discount rate
+margin rate
+ federal funds rate
+reserve requirement
+
+
+a	DIF:	EASY	REF:	16.6 The Role of the Federal Reserve
+
+ 
+
+	Which of the following interest rates does the Federal Reserve actually set?
+federal funds rate
+ discount rate
+government bond rate
+commercial paper rate
+
+
+b	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	If the Fed reduced reserve requirements, ________.
+banks would have less money to lend businesses and consumers
+economic growth would decline
+inflation would decline
+ banks would have more money to lend out
+
+
+d	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	Which of the following actions would have the effect of increasing the supply of money and credit and lowering interest rates?
+The Fed buys government securities.
+The Fed raises the margin requirement.
+The Fed raises the reserve requirement.
+The Fed raises the discount rate.
+
+
+a	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	When the Fed sells government securities, banks have ________ money to lend and economic growth ________.
+less; will slow
+less; will accelerate
+more; will slow
+more; will accelerate
+
+
+a	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	Which of the following policy tools does the Fed use most frequently?
+open market operations
+changes to the reserve requirement
+changes to margin requirements
+ changes to the discount rate
+
+
+a	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+ 
+
+	The chairman of the Federal Reserve Board can accelerate economic activity by lowering interest rates. What primary method does the Federal Reserve use to accomplish this?
+selling margin requirements
+increasing the discount rate
+increasing reserve requirements
+ open market operations
+
+
+d	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	This new monetary policy tool makes extra funds available to banks at low interest rates. 
+open market operations
+ discount rate
+term auction facility
+reserve requirement
+
+
+a	DIF:	MEDIUM	REF:	16.6 The Role of the Federal Reserve
+
+
+	Which of the following agencies regulates both state and federally chartered commercial banks?
+the Federal Reserve
+federal comptroller
+ state banking agencies
+FDIC
+
+
+d	DIF:	MEDIUM	REF:	16.7 Regulation of the Financial System
+
+
+	The SEC requires virtually all new public issues of corporate securities to be registered. As part of the registration process for a new security issue, the issuer must prepare a(n) ____.
+Essay
+prospectus
+ application
+financial report
+
+
+b	DIF:	EASY	REF:	16.7 Regulation of the Financial System
+
+
+	_____ is defined as the use of material nonpublic information about a company to make investment profits. 
+Outsider trading
+ Insider trading
+Cheating
+Poor regulation
+
+
+b	DIF:	EASY	REF:	16.7 Regulation of the Financial System
+
+ 
+
+	The ___ establishes and updates rules to ensure that member brokers perform their basic functions honestly and fairly.
+NASD
+Nasdaq 
+NYSE
+ FDIC
+
+
+a	DIF:	MEDIUM	REF:	16.7 Regulation of the Financial System
+
+
+	All market participants must keep detailed records of every aspect of every trade. What is this called?
+paper trail
+audit trail
+ trade record
+prospectus
+
+
+b	DIF:	MEDIUM	REF:	16.7 Regulation of the Financial System
+
+
+	Out of the 20 largest banks in the world, ________ are U.S. banks.
+ Half
+5
+only 2
+None
+
+
+c	DIF:	MEDIUM	REF:	16.8 The Financial System: A Global Perspective
+
+
+	If the Fed pushes interest rates lower, policymakers at other nations’ central banks will most likely ____.
+follow suit, and drop their rates as well
+ increase their rates
+do nothing; the Fed’s actions have no influence on other countries’ central banks
+keep their rates the same because a drop in U.S. rates will help their economy
+
+
+a	DIF:	MEDIUM	REF:	16.8 The Financial System: A Global Perspective
+
+
+

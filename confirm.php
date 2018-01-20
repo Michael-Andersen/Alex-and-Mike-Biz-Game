@@ -1,3 +1,9 @@
+<?php if(empty($_POST['username'])){
+    header("Location: signup.php?error=Username must contain characters"); die();
+}
+if(empty($_POST['password'])){
+    header("Location: signup.php?error=Password must contain characters"); die();
+}?>
 <html lang="en"> 
 <head> 
     <title>Math Game - Confirmation</title> 
