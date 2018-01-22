@@ -409,7 +409,7 @@ if( $stmt === false ) {
                 <form action="index.php" method="post">
                     <select name="chapter"><?php
                         echo
-  '<option value="ch1"'.$_SESSION['c1'].'>Chapter 1</option>
+  '<option value="ch1"'.$_SESSION['c1'].'>1 - Business in a Global Environment</option>
   <option value="ch2"'.$_SESSION['c2'].'>Chapter 2</option>
   <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option>
   <option value="ch4"'.$_SESSION['c4'].'>Chapter 4</option>

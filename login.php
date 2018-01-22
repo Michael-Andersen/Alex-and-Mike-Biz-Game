@@ -35,6 +35,7 @@
                         <button class="btn btn-success btn-group-justified" name="topscores" type="submit">Top Scores</button></form>
                 </div>
                 <?php echo '<span class="warning">'.$_GET['error'].'</span>';?>
+                
             </div>
         </div>
     </div>
