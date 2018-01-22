@@ -410,22 +410,22 @@ if( $stmt === false ) {
                     <select name="chapter"><?php
                         echo
   '<option value="ch1"'.$_SESSION['c1'].'>1 - Business in a Global Environment</option>
-  <option value="ch2"'.$_SESSION['c2'].'>Chapter 2</option>
-  <option value="ch3"'.$_SESSION['c3'].'>Chapter 3</option>
-  <option value="ch4"'.$_SESSION['c4'].'>Chapter 4</option>
-  <option value="ch5"'.$_SESSION['c5'].'>Chapter 5</option>
-  <option value="ch6"'.$_SESSION['c6'].'>Chapter 6</option>
-  <option value="ch7"'.$_SESSION['c7'].'>Chapter 7</option>
-  <option value="ch8"'.$_SESSION['c8'].'>Chapter 8</option>
-  <option value="ch9"'.$_SESSION['c9'].'>Chapter 9</option>
-  <option value="ch10"'.$_SESSION['c10'].'>Chapter 10</option>
-  <option value="ch11"'.$_SESSION['c11'].'>Chapter 11</option>
-  <option value="ch12"'.$_SESSION['c12'].'>Chapter 12</option>
-  <option value="ch13"'.$_SESSION['c13'].'>Chapter 13</option>
-  <option value="ch14"'.$_SESSION['c14'].'>Chapter 14</option>
-  <option value="ch15"'.$_SESSION['c15'].'>Chapter 15</option>
-  <option value="ch16"'.$_SESSION['c16'].'>Chapter 16</option>
-  <option value="ch17"'.$_SESSION['c17'].'>Chapter 17</option>
+  <option value="ch2"'.$_SESSION['c2'].'>2 - Business Ethics and Social Responsibility</option>
+  <option value="ch3"'.$_SESSION['c3'].'>3 - Economic Challenges Facing Contemporary Business</option>
+  <option value="ch4"'.$_SESSION['c4'].'>4 - Competing in World Markets</option>
+  <option value="ch5"'.$_SESSION['c5'].'>5 -Forms of Business Ownership and Organization</option>
+  <option value="ch6"'.$_SESSION['c6'].'>6 - Starting Your Own Business: The Entrepreneurship Alternative</option>
+  <option value="ch7"'.$_SESSION['c7'].'>7 - Management, Leaders, and Internal Organization</option>
+  <option value="ch8"'.$_SESSION['c8'].'>8 - Human Resource Management: From Recruitment to Labour Relations</option>
+  <option value="ch9"'.$_SESSION['c9'].'>9 - Top Performance through Empowerment, Teamwork, and Communication</option>
+  <option value="ch10"'.$_SESSION['c10'].'>10 - Production and Operations Management</option>
+  <option value="ch11"'.$_SESSION['c11'].'>11 - Customer-Driven Marketing</option>
+  <option value="ch12"'.$_SESSION['c12'].'>12 - Product and Distribution Strategies</option>
+  <option value="ch13"'.$_SESSION['c13'].'>13 - Promotion and Pricing Strategies</option>
+  <option value="ch14"'.$_SESSION['c14'].'>14 - Using Technology to Manage Information</option>
+  <option value="ch15"'.$_SESSION['c15'].'>15 - Understanding Accounting and Financial Statements</option>
+  <option value="ch16"'.$_SESSION['c16'].'>16 - The Financial System</option>
+  <option value="ch17"'.$_SESSION['c17'].'>17 - Financial Management</option>
   </select>'
                             ;?>
                     <button class="btn btn-info btn-xs" name="chpselect" type="submit">Select Chapter</button>
