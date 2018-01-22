@@ -1,6 +1,6 @@
  <html lang="en"> 
 <head> 
-    <title>Math Game - Sign Up</title> 
+    <title>ALEX &amp; MIKE'S BIZ GAME - Top Scores</title> 
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="Styles/bootstrap.css">
     <link rel="stylesheet" href="Styles/mathgame.css">

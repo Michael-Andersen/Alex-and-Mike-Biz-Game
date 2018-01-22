@@ -35,7 +35,9 @@
                         <button class="btn btn-success btn-group-justified" name="topscores" type="submit">Top Scores</button></form>
                 </div>
                 <?php echo '<span class="warning">'.$_GET['error'].'</span>';?>
-                
+
+                <br /><small><b>Disclaimer:</b><br />Alex and Mike's Biz Game uses questions sourced from the Contemporary Business textbook purely for educational purposes only. We do not own this content and if there are any issues regarding the use of the material please contact us and we will remove it promptly.</small>
+
             </div>
         </div>
     </div>
