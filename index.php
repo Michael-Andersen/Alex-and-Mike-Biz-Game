@@ -60,6 +60,7 @@ if( $stmt === false ) {
    <script type="text/javascript">
 							var score = 0;
 							var counter = 0;
+							var baseurl = "https://michael-andersen.github.io/Alex-and-Mike-Biz-Game/";
 							var url = "";
 							
 							$(function() {
@@ -75,9 +76,8 @@ if( $stmt === false ) {
 		$("#chpsl option[value='']").remove();
 		response();
       });
-								var response = function() {
-									 
-							$.getJSON( url, function( data ) {
+								var response = function() { 
+							$.getJSON(baseurl + url, function( data ) {
 								var rand = Math.floor(Math.random()*(data.length));
   var question = data[rand].question;
   var a  = data[rand].a;
