@@ -1,0 +1,641 @@
+[  
+   {  
+      "question":"A company removes a profitable product from the market because it may be dangerous. This company is demonstrating ________.",
+      "number":0,
+      "a":"ethical behavior",
+      "b":"green marketing",
+      "c":"conflict of interest",
+      "d":"social welfare",
+      "ans":"a"
+   },
+   {  
+      "question":"Business ethics begins with ________.",
+      "number":1,
+      "a":"a firm’s investors",
+      "b":"the individual employee",
+      "c":"the government",
+      "d":"a firm’s customers",
+      "ans":"b"
+   },
+   {  
+      "question":"When management considers social and economic issues in decision making, the company is practicing ________.",
+      "number":2,
+      "a":"business ethics",
+      "b":"consumerism",
+      "c":"social responsibility",
+      "d":"social welfare",
+      "ans":"c"
+   },
+   {  
+      "question":"Businesses have responsibilities to ________.",
+      "number":3,
+      "a":"investors and customers",
+      "b":"investors, customers, employees, and society",
+      "c":"investors, customers, and employees",
+      "d":"investors only",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements best justifies why a company should act in an ethical manner?",
+      "number":4,
+      "a":"The government will take action if a firm fails to act ethically.",
+      "b":"Acting ethically always maximizes profits in the short run.",
+      "c":"Acting ethically will help a company to prosper in the long run.",
+      "d":"The right thing to do is always the least expensive alternative.",
+      "ans":"c"
+   },
+   {  
+      "question":"Businesses should ________.",
+      "number":5,
+      "a":"do what is right regardless of profits",
+      "b":"find the balance between doing what is right and doing what is profitable",
+      "c":"do whatever is profitable",
+      "d":"do whatever is in the company’s best interests",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements is correct?",
+      "number":6,
+      "a":"Doing what is right can sometimes be difficult. Social and ethical problems affect only a few companies.",
+      "b":"Setting ethical standards is always clear-cut.",
+      "c":"Ethical conflicts never arise in trying to serve the needs of separate constituents.",
+      "d":"Setting ethical standards is easy.",
+      "ans":"a"
+   },
+   {  
+      "question":"In today’s business environment, who can make the difference in ethical expectations and behavior?",
+      "number":7,
+      "a":"everyone",
+      "b":"no one",
+      "c":"only top-level managers",
+      "d":"only the CEO",
+      "ans":"a"
+   },
+   {  
+      "question":"Despite the recession, the ethical climate seems to be ___________.",
+      "number":8,
+      "a":"declining",
+      "b":"staying the same",
+      "c":"improving",
+      "d":"becoming less confusing",
+      "ans":"c"
+   },
+   {  
+      "question":"________ are responsible for conducting employee training programs that help spot potential fraud and abuse within a firm.",
+      "number":9,
+      "a":"Department supervisors.",
+      "b":"Ethics compliance officers",
+      "c":"Human Resource managers",
+      "d":"Social behaviorists",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following is not a minimum requirement for ethics compliance programs?",
+      "number":10,
+      "a":"high-level personnel responsible for compli-ance",
+      "b":"government regulation",
+      "c":"consistent enforcement",
+      "d":"consistent improvement",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is not an example of unethical or illegal acts in the workplace?",
+      "number":11,
+      "a":"misreporting time on the job",
+      "b":"Internet abuse",
+      "c":"whistle-blowing",
+      "d":"safety violations",
+      "ans":"c"
+   },
+   {  
+      "question":"Technology has ________ ethical issues.",
+      "number":12,
+      "a":"expanded the range of",
+      "b":"reduced the range of",
+      "c":"made little difference on the range of",
+      "d":"eliminated most",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is not a factor in determining an individual’s ethical development?",
+      "number":13,
+      "a":"experiences",
+      "b":"religion",
+      "c":"culture",
+      "d":"social audit",
+      "ans":"d"
+   },
+   {  
+      "question":"Many people rationalize unethical acts because they ________.",
+      "number":14,
+      "a":"feel pressured on their jobs to meet perfor-mance goals",
+      "b":"know they can get away with it",
+      "c":"have no personal or moral values",
+      "d":"are fundamentally unethical",
+      "ans":"a"
+   },
+   {  
+      "question":"Roberto decides not to cheat on his exam because he fears he will be caught and receive no credit if he is caught. In which stage of ethical development is Roberto?",
+      "number":15,
+      "a":"postconventional",
+      "b":"preconventional",
+      "c":"traditional",
+      "d":"conventional",
+      "ans":"b"
+   },
+   {  
+      "question":"When an individual moves beyond his or her own needs and desires and takes the needs of society into consideration when making decisions, in which stage of ethical development is this individual?",
+      "number":16,
+      "a":"preconventional",
+      "b":"conventional",
+      "c":"postconventional",
+      "d":"traditional",
+      "ans":"c"
+   },
+   {  
+      "question":"Individuals who focus only on their own interests when making decisions are at the ________ stage of ethical development.",
+      "number":17,
+      "a":"preconventional",
+      "b":"conventional",
+      "c":"postconventional",
+      "d":"concentrations",
+      "ans":"a"
+   },
+   {  
+      "question":"Sean avoids using his office computer for personal use, even though his company does not have a specific policy forbidding it. Sean is at the ________ stage of ethical development.",
+      "number":18,
+      "a":"preconventional",
+      "b":"concentrations",
+      "c":"postconventional",
+      "d":"conventional",
+      "ans":"d"
+   },
+   {  
+      "question":"If an individual follows personal principles for resolving ethical dilemmas and considers personal, group, and societal interests, he or she is at the ________ stage of ethical development.",
+      "number":19,
+      "a":"preconventional",
+      "b":"conventional",
+      "c":"postconventional",
+      "d":"concentrations",
+      "ans":"c"
+   },
+   {  
+      "question":"Linda does not make personal long-distance phone calls at work because it will cost her employer money. Which stage of ethical development is Linda in?",
+      "number":20,
+      "a":"conventional",
+      "b":"traditional",
+      "c":"postconventional",
+      "d":"preconventional",
+      "ans":"a"
+   },
+   {  
+      "question":"Al makes a point of turning off the lights in his office when he is not using it because it saves his company money and saves energy for the environment. Which stage of ethical development is Al in?",
+      "number":21,
+      "a":"conventional",
+      "b":"postconventional",
+      "c":"preconventional",
+      "d":"traditional",
+      "ans":"b"
+   },
+   {  
+      "question":"Brianna focuses on her duty to family and work and bases her actions on the expectations of various groups in her life. At which stage of individual ethics is Brianna?",
+      "number":22,
+      "a":"postconventional",
+      "b":"code of conduct",
+      "c":"conventional",
+      "d":"preconventional",
+      "ans":"c"
+   },
+   {  
+      "question":"Jeffrey Wigand, a former executive of Brown & Williamson who exposed his company’s practice of intentionally manipulating the effect of nicotine in cigarettes on the CBS news program 60 Minutes, had moved beyond self-interest and company duty to which stage of individual ethics?",
+      "number":23,
+      "a":"preconventional",
+      "b":"postconventional",
+      "c":"conflict of interest",
+      "d":"conventional",
+      "ans":"b"
+   },
+   {  
+      "question":"Sofia is an investment advisor and wants to recommend a stock she happens to own. How should Sofia best deal with this potential conflict of interest?",
+      "number":24,
+      "a":"She should not make the recommendation.",
+      "b":"She should make a negative recommendation.",
+      "c":"She should make a positive recommendation and then sell the stock.",
+      "d":"She should disclose the fact that she owns the stock while making the recommendation.",
+      "ans":"d"
+   },
+   {  
+      "question":"Tanisha is a diabetes educator at a local clinic. Recently, she was offered a lavish trip by a sales representative who has been pushing the clinic to use his company’s diabetes supplies. Tanisha declined the gift. Which ethical challenge did she face?",
+      "number":25,
+      "a":"whistle-blowing",
+      "b":"honesty and integrity",
+      "c":"cultural consequences",
+      "d":"conflict of interest",
+      "ans":"d"
+   },
+   {  
+      "question":"How should a businessperson deal with a conflict of interest?",
+      "number":26,
+      "a":"ignore it",
+      "b":"send an email to his/her manager",
+      "c":"disclose it or avoid it",
+      "d":"report it only to close friends",
+      "ans":"c"
+   },
+   {  
+      "question":"Outside auditors are examining your company’s financial records. You know there may be an error and will tell them about it but only if they ask. They do not ask. In this scenario, your ________ could be questioned.",
+      "number":27,
+      "a":"integrity",
+      "b":"social responsibility",
+      "c":"truthfulness",
+      "d":"loyalty",
+      "ans":"a"
+   },
+   {  
+      "question":"During a meeting with government regulators, Nicole voluntarily points out a potential problem with a new product her company is testing. Nicole has shown ________.",
+      "number":28,
+      "a":"honesty",
+      "b":"loyalty",
+      "c":"truthfulness",
+      "d":"integrity",
+      "ans":"d"
+   },
+   {  
+      "question":"Bob takes responsibility for an error made by his assistant on a project. Bob has shown ________.",
+      "number":29,
+      "a":"loyalty",
+      "b":"honesty",
+      "c":"integrity",
+      "d":"truthfulness",
+      "ans":"c"
+   },
+   {  
+      "question":"Embellishing your résumé shows a lack of ______ and ______.",
+      "number":30,
+      "a":"honesty and loyalty",
+      "b":"honesty and integrity",
+      "c":"integrity and loyalty",
+      "d":"competence and loyalty",
+      "ans":"b"
+   },
+   {  
+      "question":"________ goes beyond truthfulness.",
+      "number":31,
+      "a":"Honesty",
+      "b":"Loyalty",
+      "c":"Integrity",
+      "d":"Competence",
+      "ans":"c"
+   },
+   {  
+      "question":"Harold knows of a defect in a product his company sells. He will disclose the defect but only if the customer specifically asks about it. Harold’s ________ could be called into question.",
+      "number":32,
+      "a":"whistle-blowing",
+      "b":"integrity",
+      "c":"loyalty",
+      "d":"truthfulness",
+      "ans":"b"
+   },
+   {  
+      "question":"Mica learns that her company is secretly dumping untreated waste into the city sewer systems, and she informs the local EPA office. All of the following describe Mica’s ethical situation EXCEPT:",
+      "number":33,
+      "a":"She is acting as a whistle-blower.",
+      "b":"She has a conflict of interest.",
+      "c":"She is showing integrity.",
+      "d":"She is showing loyalty.",
+      "ans":"d"
+   },
+   {  
+      "question":"Your supervisor asks you to conceal information from outside auditors examining the company’s financial records. What is your ethical challenge?",
+      "number":34,
+      "a":"loyalty versus truth",
+      "b":"conflict of interest",
+      "c":"honesty and integrity",
+      "d":"You have no ethical challenge.",
+      "ans":"a"
+   },
+   {  
+      "question":"Mike was a foreman at Hi-Way Construction and discovered his company was deliberately using faulty materials for a project. Although Mike was worried about his family’s financial security if he lost his job, he went to authorities and informed them of the potentially dangerous construction. Mike’s action is called ________.",
+      "number":35,
+      "a":"ethical compliance",
+      "b":"whistle-blowing",
+      "c":"ethical allegations",
+      "d":"good intentions",
+      "ans":"b"
+   },
+   {  
+      "question":"Development of a corporate culture to support business ethics occurs on each of the following levels EXCEPT ethical ________.",
+      "number":36,
+      "a":"success",
+      "b":"awareness",
+      "c":"reasoning",
+      "d":"leadership",
+      "ans":"a"
+   },
+   {  
+      "question":"___________ requires that firms in the private sector provide procedures for anonymous reporting of accusations of fraud.",
+      "number":37,
+      "a":"Americans with Disabilities Act",
+      "b":"Sarbanes-Oxley Act",
+      "c":"Consumer Rights Act",
+      "d":"Title VII",
+      "ans":"b"
+   },
+   {  
+      "question":"A formal statement that defines how the organization expects and requires employees to resolve ethical questions is ________.",
+      "number":38,
+      "a":"social responsibility statement",
+      "b":"an organizational culture",
+      "c":"a code of conduct",
+      "d":"an ethical environmental statement",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following can improve ethical reasoning in a company?",
+      "number":39,
+      "a":"whistle-blowing",
+      "b":"practical training sessions",
+      "c":"mission statement",
+      "d":"organizational culture",
+      "ans":"b"
+   },
+   {  
+      "question":"Online simulation training such as the Ethics Challenge can help to improve ethical ________.",
+      "number":40,
+      "a":"awareness",
+      "b":"reasoning",
+      "c":"leadership",
+      "d":"action",
+      "ans":"b"
+   },
+   {  
+      "question":"Macrohard, Inc. provides support for employees faced with ethical dilemmas. An ethics officer is available in the Human Resources office or through an employee hotline. This is an example of ethical ________.",
+      "number":41,
+      "a":"reasoning",
+      "b":"awareness",
+      "c":"whistle-blowing",
+      "d":"action",
+      "ans":"d"
+   },
+   {  
+      "question":"After meeting with employees, a manager realizes she has set performance goals unrealistically high for her department’s employees. If she makes employee performance goals more realistic, what will likely happen to the department’s ethical climate?",
+      "number":42,
+      "a":"It will stay about the same.",
+      "b":"It will improve.",
+      "c":"Not enough information is provided to determine the effect.",
+      "d":"It will deteriorate.",
+      "ans":"b"
+   },
+   {  
+      "question":"Ethical __________ charges each employee personally to uphold the company’s core values and be willing to base their actions on them.",
+      "number":43,
+      "a":"leadership",
+      "b":"awareness",
+      "c":"action",
+      "d":"reasoning",
+      "ans":"a"
+   },
+   {  
+      "question":"The sales manager decides to double each salesperson’s monthly quota. What impact is this action likely to have on the company’s ethical climate?",
+      "number":44,
+      "a":"It will improve.",
+      "b":"It will remain the same.",
+      "c":"It will deteriorate.",
+      "d":"Not enough information is provided to determine the effect.",
+      "ans":"c"
+   },
+   {  
+      "question":"Jack Welch, former CEO of General Electric, is respected in business circles for focusing his company on the welfare of its customers and investors, and for ensuring GE would thrive in the long run. This type of environment is an example of ethical ________.",
+      "number":45,
+      "a":"action",
+      "b":"reasoning",
+      "c":"awareness",
+      "d":"leadership",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following would be LEAST likely to be a factor in evaluating a firm’s social performance?",
+      "number":46,
+      "a":"providing a safe, healthy workplace",
+      "b":"respecting the cultural diversity of employees",
+      "c":"holding company-sponsored social events",
+      "d":"producing safe, high-quality products",
+      "ans":"c"
+   },
+   {  
+      "question":"Businesses exercise social responsibility for all of the following reasons EXCEPT ________.",
+      "number":47,
+      "a":"stakeholders expect it",
+      "b":"profits are guaranteed",
+      "c":"the company’s image is enhanced",
+      "d":"management believes it is the ethical course of action",
+      "ans":"b"
+   },
+   {  
+      "question":"When Target donates 5 percent of its federally taxable income to nonprofit groups, the company is highlighting its ________.",
+      "number":48,
+      "a":"social responsibility",
+      "b":"code of conduct",
+      "c":"social audit",
+      "d":"business ethics",
+      "ans":"a"
+   },
+   {  
+      "question":"A formal procedure that identifies and evaluates all company activities relating to social issues is known as a(n) ________.",
+      "number":49,
+      "a":"ethical profile",
+      "b":"social audit",
+      "c":"social inventory",
+      "d":"mission analysis",
+      "ans":"b"
+   },
+   {  
+      "question":"In addition to financial assessments, Dominic has arranged for his company to conduct a(n) ________ to evaluate activities that relate to social issues, such as employment practices, environmental protection, and philanthropy.",
+      "number":50,
+      "a":"EEOC evaluation",
+      "b":"code of conduct",
+      "c":"social audit",
+      "d":"social responsibility inventory",
+      "ans":"c"
+   },
+   {  
+      "question":"The Wright Tire Co. uses a company-wide team of employees to identify company activities related to social issues, report on how the firm is responding to those issues, and evaluate how effectively the firm has met those issues. The Wright Tire team is conducting a(n) ________.",
+      "number":51,
+      "a":"environmental impact audit",
+      "b":"government-mandated audit",
+      "c":"internal accounting audit",
+      "d":"social audit",
+      "ans":"d"
+   },
+   {  
+      "question":"The ____________ of a coffee-growing company include its employees, customers, suppliers, and the community members where the company is located.",
+      "number":52,
+      "a":"social responsibility",
+      "b":"corporate philanthropy",
+      "c":"social audit",
+      "d":"stakeholders",
+      "ans":"d"
+   },
+   {  
+      "question":"Reprocessing used materials so that they can be reused is known as ________.",
+      "number":53,
+      "a":"rotation",
+      "b":"conversation",
+      "c":"recycling",
+      "d":"ecology",
+      "ans":"c"
+   },
+   {  
+      "question":"A strategy that promotes environmentally friendly products and production methods is called ________.",
+      "number":54,
+      "a":"consumerism",
+      "b":"recycling",
+      "c":"ethical awareness",
+      "d":"green marketing",
+      "ans":"d"
+   },
+   {  
+      "question":"Timberland Company allows its employees to take paid six-month sabbatical leaves to work for nonprofit organizations. This is an example of ____________.",
+      "number":55,
+      "a":"corporate philanthropy",
+      "b":"green marketing",
+      "c":"whistle-blowing",
+      "d":"consumerism",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are examples of corporate philanthropy EXCEPT ________.",
+      "number":56,
+      "a":"supporting the local public radio station",
+      "b":"sponsoring a Red Cross blood drive",
+      "c":"paying local property taxes",
+      "d":"giving employees release time to participate in volunteer activities",
+      "ans":"c"
+   },
+   {  
+      "question":"During the Olympics, several Nike ads were aired that demonstrated the company’s sponsorship of various events. Nike was using ________ to align their marketing efforts with charitable giving.",
+      "number":57,
+      "a":"business ethics",
+      "b":"cause-related marketing",
+      "c":"social responsibility",
+      "d":"ethical awareness",
+      "ans":"b"
+   },
+   {  
+      "question":"The public demand that businesses give proper consideration to consumer wants and needs in making its decisions is known as ________.",
+      "number":58,
+      "a":"conservation",
+      "b":"political activism",
+      "c":"ethics",
+      "d":"consumerism",
+      "ans":"d"
+   },
+   {  
+      "question":"Consumer Rights include all of the following EXCEPT the right to ________.",
+      "number":59,
+      "a":"boycott",
+      "b":"choose",
+      "c":"be heard",
+      "d":"be informed",
+      "ans":"a"
+   },
+   {  
+      "question":"According to ________ standards, when a drug company purchases a television ad, the company is required to describe potential side effects of the drug, or at least provide a phone number or Web site address for additional information.",
+      "number":60,
+      "a":"Occupational Safety and Health Administra-tion (OSHA)",
+      "b":"Food and Drug Administration (FDA)",
+      "c":"Consumer Compliance",
+      "d":"Securities and Exchange Commission (SEC)",
+      "ans":"b"
+   },
+   {  
+      "question":"Which federal agency is responsible for ensuring the safety of prescription drugs?",
+      "number":61,
+      "a":"FDA",
+      "b":"FTC",
+      "c":"SEC",
+      "d":"Federal Communications Commission (FCC)",
+      "ans":"a"
+   },
+   {  
+      "question":"The doctrine of “the right to be heard” would be best reflected by ________.",
+      "number":62,
+      "a":"product safety",
+      "b":"disclosure of true annual interest rates on revolving charge accounts",
+      "c":"disclosure of sodium content on labels of processed foods",
+      "d":"a firm establishing a consumer appeals board",
+      "ans":"d"
+   },
+   {  
+      "question":"Which federal agency is responsible for setting workplace health and safety standards?",
+      "number":63,
+      "a":"FCC",
+      "b":"FDA",
+      "c":"FTC",
+      "d":"OSHA",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are current social issues related to business’s responsibilities to employees EXCEPT ________.",
+      "number":64,
+      "a":"sexual harassment",
+      "b":"discrimination against workers over 40 years of age",
+      "c":"discrimination against workers under 40 years of age",
+      "d":"quality of life issues",
+      "ans":"c"
+   },
+   {  
+      "question":"Matt was diagnosed with a serious illness that requires aggressive treatment. Because his company employs 50 or more people, it must allow Matt up to 12 weeks unpaid time off in one year, as granted by the ________.",
+      "number":65,
+      "a":"Family and Medical Leave Act",
+      "b":"Equal Employment Opportunity Commission",
+      "c":"Occupational Safety and Health Administra-tion",
+      "d":"Vocational Rehabilitation Act",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following groups are specifically identified by federal equal employment opportunity laws EXCEPT ________.",
+      "number":66,
+      "a":"women",
+      "b":"obese persons",
+      "c":"people with disabilities",
+      "d":"people over age 40",
+      "ans":"b"
+   },
+   {  
+      "question":"Rene’s boss has offered him a raise if Rene agrees to spend the night with her. This is an example of:",
+      "number":67,
+      "a":"social responsibility",
+      "b":"sexual harassment",
+      "c":"sexism",
+      "d":"whistle-blowing",
+      "ans":"b"
+   },
+   {  
+      "question":"On average, women with a college degree earn less money than men with a college degree. This is an example of:",
+      "number":68,
+      "a":"social responsibility",
+      "b":"sexual harassment",
+      "c":"sexism",
+      "d":"whistle-blowing",
+      "ans":"c"
+   },
+   {  
+      "question":"Companies that adhere to high ethical standards ________.",
+      "number":69,
+      "a":"often make poorer investments in the long run",
+      "b":"always make higher profits",
+      "c":"often make better investments in the long run",
+      "d":"always make lower profits",
+      "ans":"c"
+   },
+   {  
+      "question":"At the federal level, the _________________ investigates suspicions of unethical or illegal behavior by publicly traded firms. I",
+      "number":70,
+      "a":"SEC",
+      "b":"EEOC",
+      "c":"FDA",
+      "d":"OSHA",
+      "ans":"a"
+   }
+]

@@ -1,0 +1,785 @@
+[  
+   {  
+      "question":"A bundle of physical, service, and symbolic attributes designed to satisfy customer wants is called ________.",
+      "number":0,
+      "a":"the marketing mix",
+      "b":"packaging",
+      "c":"a product",
+      "d":"a brand name",
+      "ans":"c"
+   },
+   {  
+      "question":"A marketer focuses on a product's ________.",
+      "number":1,
+      "a":"benefits",
+      "b":"symbolic attributes",
+      "c":"service attributes",
+      "d":"physical characteristics",
+      "ans":"a"
+   },
+   {  
+      "question":"Goods and services are classified as either consumer or business, depending on the ________.",
+      "number":2,
+      "a":"amount of service required on the item",
+      "b":"buying motives of the purchasers",
+      "c":"cost of the particular item",
+      "d":"purchasers of the particular item as consumers or businesses",
+      "ans":"d"
+   },
+   {  
+      "question":"Consumer products are usually classified as ________.",
+      "number":3,
+      "a":"capital items, convenience items, and specialty products",
+      "b":"convenience products, shopping products, and specialty products",
+      "c":"convenience products and expense items",
+      "d":"expense items and capital items",
+      "ans":"b"
+   },
+   {  
+      "question":"Items that consumers purchase frequently, immediately, and with little effort are ________ products.",
+      "number":4,
+      "a":"convenience",
+      "b":"shopping",
+      "c":"specialty",
+      "d":"Capital",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is a specialty product?",
+      "number":5,
+      "a":"Armani designer clothing",
+      "b":"Dining room set",
+      "c":"Insurance policy",
+      "d":"Gallon of milk",
+      "ans":"a"
+   },
+   {  
+      "question":"Products purchased only after the consumer has compared competing products in competing stores on the basis of price, quality, style, and color would be classified as ________.",
+      "number":6,
+      "a":"supplies",
+      "b":"shopping products",
+      "c":"specialty products",
+      "d":"convenience products",
+      "ans":"b"
+   },
+   {  
+      "question":"A new refrigerator falls into which of the following classifications of goods?",
+      "number":7,
+      "a":"Accessory equipment",
+      "b":"Specialty products",
+      "c":"Convenience products",
+      "d":"Shopping products",
+      "ans":"d"
+   },
+   {  
+      "question":"Only a few Jaguar dealers are located in the Chicago metropolitan area. For buyers who will accept no substitute, Jaguar automobiles are ________.",
+      "number":8,
+      "a":"specialty products",
+      "b":"convenience products",
+      "c":"shopping products",
+      "d":"capital items",
+      "ans":"a"
+   },
+   {  
+      "question":"Maria owns a store that prepares gourmet chocolates, which are hand-made and sold on the premises. What type of product is Maria selling?",
+      "number":9,
+      "a":"Accessory",
+      "b":"Specialty",
+      "c":"Shopping",
+      "d":"Convenience",
+      "ans":"b"
+   },
+   {  
+      "question":"Travis wants to replace his old mattress with a new soft-foam mattress, and has spent almost a week researching different brands and prices. When he’s ready to buy, Travis will be purchasing a(n) ________ product.",
+      "number":10,
+      "a":"Convenience",
+      "b":"Shopping",
+      "c":"Specialty",
+      "d":"Accessory",
+      "ans":"b"
+   },
+   {  
+      "question":"Jan takes her car to Oil Express for an oil change. This is an example of a(n) ________.",
+      "number":11,
+      "a":"business service",
+      "b":"convenience product",
+      "c":"specialty product",
+      "d":"consumer service",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following classifications of products apply to business goods and services?",
+      "number":12,
+      "a":"Supplies and specialty products",
+      "b":"Specialty products and convenience products",
+      "c":"Installation and accessory equipment",
+      "d":"Shopping products and expense items",
+      "ans":"c"
+   },
+   {  
+      "question":"The purchase of a new jet by Delta Airlines is an example of a(n) ________ purchase.",
+      "number":13,
+      "a":"specialty good",
+      "b":"component part",
+      "c":"installation",
+      "d":"Supply",
+      "ans":"c"
+   },
+   {  
+      "question":"Which classification of business goods is usually consumed over a long period and usually involves large sums of money?",
+      "number":14,
+      "a":"Convenience items",
+      "b":"Capital items",
+      "c":"Installations",
+      "d":"Expense items",
+      "ans":"b"
+   },
+   {  
+      "question":"A portable drill is classified as which of the following?",
+      "number":15,
+      "a":"Accessory equipment",
+      "b":"Shopping products",
+      "c":"Specialty products",
+      "d":"Capital items",
+      "ans":"a"
+   },
+   {  
+      "question":"An example of supply items would be ________.",
+      "number":16,
+      "a":"computers",
+      "b":"paper clips",
+      "c":"Cotton",
+      "d":"hand tools",
+      "ans":"b"
+   },
+   {  
+      "question":"The tires built by Michelin that appear on Formula 1 race cars are classified as ________.",
+      "number":17,
+      "a":"supplies",
+      "b":"specialty products",
+      "c":"accessory equipment",
+      "d":"component parts and materials",
+      "ans":"d"
+   },
+   {  
+      "question":"When Smith Glass Factory purchases light bulbs for everyday use, it is purchasing ________.",
+      "number":18,
+      "a":"expense items",
+      "b":"component parts",
+      "c":"raw materials",
+      "d":"supplies",
+      "ans":"d"
+   },
+   {  
+      "question":"Natural resources, such as iron ore used in producing finished goods, are classified as ________.",
+      "number":19,
+      "a":"accessory equipment",
+      "b":"supplies",
+      "c":"raw materials",
+      "d":"component parts and materials",
+      "ans":"c"
+   },
+   {  
+      "question":"A combination of product lines represents a company's ________.",
+      "number":20,
+      "a":"product mix",
+      "b":"product cluster",
+      "c":"product lifecycle",
+      "d":"distribution strategy",
+      "ans":"a"
+   },
+   {  
+      "question":"General Mills products include Betty Crocker, Pillsbury, Häagen-Dazs, Green Giant, Hamburger Helper, and Progresso. These examples constitute General Mills' ________.",
+      "number":21,
+      "a":"distribution strategy",
+      "b":"product mix",
+      "c":"product cluster",
+      "d":"product line",
+      "ans":"b"
+   },
+   {  
+      "question":"A product line is a group of ________ products marked by physical ________.",
+      "number":22,
+      "a":"related; similarities",
+      "b":"unrelated; similarities",
+      "c":"related; differences",
+      "d":"unrelated; differences",
+      "ans":"a"
+   },
+   {  
+      "question":"Coke, Diet Coke, Cherry Coke, Coke Zero, and Coke with Lime constitute Coca Cola's ________ of soft drinks.",
+      "number":23,
+      "a":"product mix",
+      "b":"distribution strategy",
+      "c":"product cluster",
+      "d":"product line",
+      "ans":"d"
+   },
+   {  
+      "question":"Coppertone manufactures sunscreens with various SPF factors, which constitutes the company’s ________.",
+      "number":24,
+      "a":"product line",
+      "b":"product cluster",
+      "c":"distribution strategy",
+      "d":"product mix",
+      "ans":"a"
+   },
+   {  
+      "question":"A retailer’s collection of high-tech gadgets and electronic equipment encompasses the company’s ________.",
+      "number":25,
+      "a":"product cluster",
+      "b":"distribution strategy",
+      "c":"product mix",
+      "d":"product line",
+      "ans":"c"
+   },
+   {  
+      "question":"In a process called ________, products pass through a series of stages from their initial appearance to their decline.",
+      "number":26,
+      "a":"wheel of retailing",
+      "b":"promotional cycle",
+      "c":"pricing cycle",
+      "d":"product life cycle",
+      "ans":"d"
+   },
+   {  
+      "question":"Since potential customers are unaware of a product during its introductory stage, initial promotion concentrates on ________.",
+      "number":27,
+      "a":"reducing the size of an available market through selective advertising",
+      "b":"informing the market about the item and explaining its features, uses, and benefits",
+      "c":"communicating new uses for the product",
+      "d":"word-of-mouth referrals",
+      "ans":"b"
+   },
+   {  
+      "question":"In which stage of the product life cycle do profits generally first appear?",
+      "number":28,
+      "a":"Decline stage",
+      "b":"Introductory stage",
+      "c":"Growth stage",
+      "d":"Maturity stage",
+      "ans":"c"
+   },
+   {  
+      "question":"In which stage of the product life cycle do competitors enter the field with similar offerings?",
+      "number":29,
+      "a":"Introductory stage",
+      "b":"Decline stage",
+      "c":"Maturity stage",
+      "d":"Growth stage",
+      "ans":"d"
+   },
+   {  
+      "question":"In which stage of the product life cycle do sales reach a saturation level, making further sales expansion difficult?",
+      "number":30,
+      "a":"Maturity stage",
+      "b":"Growth stage",
+      "c":"Introductory stage",
+      "d":"Decline stage",
+      "ans":"a"
+   },
+   {  
+      "question":"Greta has been analyzing the competitive standings of one of her products. Since she began her operation, 20 similar products have appeared, forcing her to change distribution strategies. Greta has also needed to change pricing strategies in order to remain competitive. Sales volume has dipped, and she suspects sales of her product have reached a saturation level. At what stage of the product life cycle is this item?",
+      "number":31,
+      "a":"Decline stage",
+      "b":"Growth stage",
+      "c":"Maturity stage",
+      "d":"Introductory stage",
+      "ans":"c"
+   },
+   {  
+      "question":"Cell phones are an example of a product in the _________ stage.",
+      "number":32,
+      "a":"Growth",
+      "b":"introductory",
+      "c":"Decline",
+      "d":"maturity",
+      "ans":"d"
+   },
+   {  
+      "question":"The combination of industry saturation and intense competition indicates that a product has reached the ________ stage of its product life cycle.",
+      "number":33,
+      "a":"Growth",
+      "b":"maturity",
+      "c":"decline",
+      "d":"Early",
+      "ans":"b"
+   },
+   {  
+      "question":"e-readers were introduced with great success. Additional companies have entered the market, and sales have continued steadily. e-readers are an example of a product in the ________ stage of the product life cycle.",
+      "number":34,
+      "a":"Growth",
+      "b":"introduction",
+      "c":"maturity",
+      "d":"Decline",
+      "ans":"a"
+   },
+   {  
+      "question":"Genuine Products has been involved in intensive price competition with one of its products. Profits are low and market researchers are concerned that losses will soon occur due to a reduced market for the item. This product has reached the ________ stage of the product life cycle.",
+      "number":35,
+      "a":"Growth",
+      "b":"introductory",
+      "c":"maturity",
+      "d":"Decline",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is inconsistent with a product in its decline stage?",
+      "number":36,
+      "a":"Producers are beginning to leave the industry.",
+      "b":"Prices begin to decline sharply.",
+      "c":"Few changes occur in the product features.",
+      "d":"Promotion activities are kept to a minimum.",
+      "ans":"b"
+   },
+   {  
+      "question":"The new-product development stage that deals with the elimination of ideas that do not mesh with overall company objectives is ________.",
+      "number":37,
+      "a":"screening",
+      "b":"commercialization",
+      "c":"Testing",
+      "d":"product development",
+      "ans":"a"
+   },
+   {  
+      "question":"Rachael is developing a new product and is working with specialists from her organization to eliminate ideas that cannot be developed within the company’s resources. Rachael is in what stage of product development?",
+      "number":38,
+      "a":"Test marketing",
+      "b":"Product development",
+      "c":"Screening",
+      "d":"Commercialization",
+      "ans":"c"
+   },
+   {  
+      "question":"Deshauna is assessing a new product’s potential sales and competitive strengths and will obtain initial consumer reaction before the product is sold. Deshauna is in what stage of product development?",
+      "number":39,
+      "a":"Commercialization",
+      "b":"Test marketing",
+      "c":"Concept development and business analysis",
+      "d":"Screening",
+      "ans":"c"
+   },
+   {  
+      "question":"Charles works for Whirlpool and is producing a new washer/dryer unit. He is collaborating with the marketing staff to arrange for a series of designs, tests, and functioning prototypes. Charles is working in which stage of new-product development?",
+      "number":40,
+      "a":"Test marketing",
+      "b":"Screening",
+      "c":"Commercialization",
+      "d":"Product development",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is a reason why some firms skip test marketing?",
+      "number":41,
+      "a":"Test marketing can alert competitors to a company's strategies.",
+      "b":"Test marketing is conducted only in selected regions.",
+      "c":"Competitors can skew results by lowering prices or running special promotions.",
+      "d":"Test marketing allows a company to determine the product's performance in full-scale production.",
+      "ans":"a"
+   },
+   {  
+      "question":"While marketing a new wireless phone, Mobile Media Corporation decided to skip the ________ stage of product development due to the expense of developing a limited production run, as well as concern over revealing product strategies to the competition.",
+      "number":42,
+      "a":"concept development and business analysis",
+      "b":"test marketing",
+      "c":"product development",
+      "d":"screening",
+      "ans":"b"
+   },
+   {  
+      "question":"A brand that has been given legal protection is known as a ________.",
+      "number":43,
+      "a":"Patent",
+      "b":"copyright",
+      "c":"trademark",
+      "d":"Royalty",
+      "ans":"c"
+   },
+   {  
+      "question":"American Express is an effective brand name because it ________.",
+      "number":44,
+      "a":"accurately describes the product",
+      "b":"has been around for decades",
+      "c":"is easy to pronounce, recognize, and remember",
+      "d":"is trademarked",
+      "ans":"c"
+   },
+   {  
+      "question":"When Kroger's grocery store puts its own line of detergent on the shelf next to Tide, the store is promoting its ________ brand.",
+      "number":45,
+      "a":"individual",
+      "b":"Private",
+      "c":"manufacturer",
+      "d":"Family",
+      "ans":"b"
+   },
+   {  
+      "question":"Advertising slogans, such as “Just Do It” or “Obey Your Thirst,” are ________ that are given legal protection solely to the brand’s owner.",
+      "number":46,
+      "a":"catchphrases",
+      "b":"registered phrases",
+      "c":"brand names",
+      "d":"trademarks",
+      "ans":"d"
+   },
+   {  
+      "question":"Dole Food Company uses a(n) ________ brand to market the company’s entire line of food products, including canned fruits and packaged salads.",
+      "number":47,
+      "a":"Family",
+      "b":"Private",
+      "c":"individual",
+      "d":"distribution",
+      "ans":"a"
+   },
+   {  
+      "question":"Procter & Gamble markets laundry soap with the brand names of Tide, Cheer, and Dash. Each brand targets a specific market segment. Procter & Gamble is utilizing ________ branding.",
+      "number":48,
+      "a":"individual",
+      "b":"generic",
+      "c":"Family",
+      "d":"Private",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is a benefit of family branding?",
+      "number":49,
+      "a":"Each product within the line is given a different name.",
+      "b":"It builds competition within the firm.",
+      "c":"Each brand markets to a unique target market.",
+      "d":"When a new product is introduced, consumers and retailers recognize the brand name.",
+      "ans":"d"
+   },
+   {  
+      "question":"Customers who choose one brand over another are displaying __________.",
+      "number":50,
+      "a":"brand awareness",
+      "b":"brand recognition",
+      "c":"brand preference",
+      "d":"brand comprehension",
+      "ans":"c"
+   },
+   {  
+      "question":"Luis wants a particular brand of golf ball, but his local pro shop is out of stock. Instead of buying a substitute, Luis goes home and orders his preferred brand online. Luis is at which stage of brand loyalty?",
+      "number":51,
+      "a":"Brand awareness",
+      "b":"Brand insistence",
+      "c":"Brand preference",
+      "d":"Brand recognition",
+      "ans":"b"
+   },
+   {  
+      "question":"Roberta stops at the grocery store to purchase detergent. Tide is her favorite brand, but if another detergent is less expensive, she buys it. This is an example of:",
+      "number":52,
+      "a":"Brand recognition",
+      "b":"Brand preference",
+      "c":"Brand awareness",
+      "d":"Brand insistence",
+      "ans":"b"
+   },
+   {  
+      "question":"Mercedes-Benz is an example of a company that benefits from the added value of its successful name. This brand ________ can result in financial gain due to large market shares and less price sensitivity.",
+      "number":53,
+      "a":"Awareness",
+      "b":"Recognition",
+      "c":"Equity",
+      "d":"Association",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is not a role of packaging and labeling?",
+      "number":54,
+      "a":"Comply with government regulations",
+      "b":"Protect the product from damage",
+      "c":"Identify products and communicate usage",
+      "d":"To control costs",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is NOT a benefit of using Universal Product Codes (UPCs)?",
+      "number":55,
+      "a":"Control inventory",
+      "b":"Speed up retail transactions",
+      "c":"Provide caloric and nutrition information",
+      "d":"Evaluate customer purchases",
+      "ans":"c"
+   },
+   {  
+      "question":"________ is responsible for moving goods and services from producers to buyers.",
+      "number":56,
+      "a":"Production",
+      "b":"Distribution",
+      "c":"Marketing",
+      "d":"Logistics",
+      "ans":"b"
+   },
+   {  
+      "question":"Raoul's job is to make sure that his company's goods get from the warehouse to retailers in a timely fashion. Raoul's job involves the ________ function.",
+      "number":57,
+      "a":"distribution",
+      "b":"production",
+      "c":"finance",
+      "d":"management",
+      "ans":"a"
+   },
+   {  
+      "question":"The two major distribution channels are ________.",
+      "number":58,
+      "a":"production scheduling and inventory control",
+      "b":"selling and advertising",
+      "c":"direct and marketing intermediary",
+      "d":"branding and customer service",
+      "ans":"c"
+   },
+   {  
+      "question":"Marketing intermediaries include ________.",
+      "number":59,
+      "a":"manufacturers and agents",
+      "b":"retailers and customers",
+      "c":"producers and service providers",
+      "d":"wholesalers and retailers",
+      "ans":"d"
+   },
+   {  
+      "question":"The use of direct distribution channels is most common in the ________ market.",
+      "number":60,
+      "a":"business-to-business (B2B)",
+      "b":"automobile",
+      "c":"business-to-consumer (B2C)",
+      "d":"professional services",
+      "ans":"a"
+   },
+   {  
+      "question":"Lee purchased a new PC from Dell Computer's Web site. He purchased his product via a(n) ________.",
+      "number":61,
+      "a":"direct distribution channel",
+      "b":"indirect distribution channel",
+      "c":"wholesaler",
+      "d":"Retailer",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is NOT a benefit of marketing intermediaries?",
+      "number":62,
+      "a":"Costs of buying and selling are decreased.",
+      "b":"Makers of a product can contact customers cost effectively.",
+      "c":"Marketing utility is created.",
+      "d":"Services such as transporting merchandise to convenient locations are performed.",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following is not a category of wholesaling intermediaries?",
+      "number":63,
+      "a":"Manufacturer owned",
+      "b":"industrial",
+      "c":"independent",
+      "d":"Retail owned",
+      "ans":"b"
+   },
+   {  
+      "question":"________ stock the products they distribute and fill orders from their inventories.",
+      "number":64,
+      "a":"Merchant wholesalers",
+      "b":"Manufacturers' reps",
+      "c":"Sales offices",
+      "d":"Sales branches",
+      "ans":"d"
+   },
+   {  
+      "question":"A food producer's goods are carried by thousands of grocery stores across the country. Which of the following distribution channels is the manufacturer most likely to use?",
+      "number":65,
+      "a":"Producer to retailer to consumer",
+      "b":"Producer to wholesaler to retailer to consumer",
+      "c":"Producer to wholesaler to wholesaler to retailer to consumer",
+      "d":"Producer to consumer",
+      "ans":"b"
+   },
+   {  
+      "question":"The Pampered Chef sells gourmet cooking supplies to consumers through the use of cooking parties at the homes of its salespeople. The Pampered Chef is a ________ retailer and uses ________.",
+      "number":66,
+      "a":"store; direct selling",
+      "b":"store; direct-response retailing",
+      "c":"non-store; direct selling",
+      "d":"non-store; direct-response retailing",
+      "ans":"c"
+   },
+   {  
+      "question":"Vending machines are an example of ________.",
+      "number":67,
+      "a":"direct selling",
+      "b":"direct-response retailing",
+      "c":"automatic merchandising",
+      "d":"indirect selling",
+      "ans":"c"
+   },
+   {  
+      "question":"Ordering merchandise from eBay or Amazon.com is a ________ form of non-store retailing.",
+      "number":68,
+      "a":"direct-response selling",
+      "b":"Internet retailing",
+      "c":"automatic merchandising",
+      "d":"direct selling",
+      "ans":"c"
+   },
+   {  
+      "question":"Stores like Costco which sell to members only are an example of a ________.",
+      "number":69,
+      "a":"warehouse club",
+      "b":"discount store",
+      "c":"supercenter",
+      "d":"factory outlet",
+      "ans":"a"
+   },
+   {  
+      "question":"The first step in developing a competitive retailing strategy is to ________.",
+      "number":70,
+      "a":"decide on general product categories",
+      "b":"decide on the best location",
+      "c":"identify a target market",
+      "d":"identify the necessary level of customer service",
+      "ans":"c"
+   },
+   {  
+      "question":"Peapod is an online grocery service that saves customers time by selecting, packing, and delivering groceries to customers. Peapod is utilizing a ________ retail strategy.",
+      "number":71,
+      "a":"Pricing",
+      "b":"promotional",
+      "c":"customer service",
+      "d":"product",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is not a consideration when deciding which distribution channel is most efficient?",
+      "number":72,
+      "a":"producer",
+      "b":"logistics",
+      "c":"competition",
+      "d":"product",
+      "ans":"b"
+   },
+   {  
+      "question":"If a company’s target market is small and buyers are concentrated in a specific geographical area, which distribution channel would be most effective?",
+      "number":73,
+      "a":"Direct channel",
+      "b":"Use of multiple market intermediaries",
+      "c":"Long distribution channel",
+      "d":"Producer to wholesaler to retailer to consumer",
+      "ans":"a"
+   },
+   {  
+      "question":"Media companies that consider entering into satellite radio will carefully monitor the progress of XM and Sirius for ________ before choosing the market as a distribution channel.",
+      "number":74,
+      "a":"management performance",
+      "b":"marketing effectiveness",
+      "c":"product innovation",
+      "d":"competitive performance",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following approach is used by computer manufacturers such as Hewlett-Packard?",
+      "number":75,
+      "a":"Intensive distribution",
+      "b":"Selective distribution",
+      "c":"Exclusive distribution",
+      "d":"Scrambled distribution",
+      "ans":"b"
+   },
+   {  
+      "question":"Newspapers and magazines use which approach to distribution intensity?",
+      "number":76,
+      "a":"Exclusive distribution",
+      "b":"Scrambled distribution",
+      "c":"Intensive distribution",
+      "d":"Selective distribution",
+      "ans":"c"
+   },
+   {  
+      "question":"Intensive distribution is a strategy used by the marketers of which of the following products?",
+      "number":77,
+      "a":"Honda Accords",
+      "b":"Gateway computers",
+      "c":"Pepsi",
+      "d":"Cartier watches",
+      "ans":"c"
+   },
+   {  
+      "question":"Exclusive distribution is well suited for ________.",
+      "number":78,
+      "a":"luxury automobiles",
+      "b":"low-priced convenience goods",
+      "c":"products sold at superstores",
+      "d":"franchised specialty goods",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following approaches would result in the fewest number of intermediaries?",
+      "number":79,
+      "a":"Intensive distribution",
+      "b":"Selective distribution",
+      "c":"Exclusive distribution",
+      "d":"Scrambled distribution",
+      "ans":"c"
+   },
+   {  
+      "question":"The complete sequence of suppliers that contribute to creating and delivering a good or service is called the ________.",
+      "number":80,
+      "a":"production cycle",
+      "b":"chain of command",
+      "c":"supply chain",
+      "d":"physical distribution process",
+      "ans":"c"
+   },
+   {  
+      "question":"Where does the supply chain begin?",
+      "number":81,
+      "a":"Creation of the good or service",
+      "b":"Delivery of the good or service to a marketing intermediary",
+      "c":"Producer",
+      "d":"Delivery of raw materials",
+      "ans":"d"
+   },
+   {  
+      "question":"Where does the supply chain end?",
+      "number":82,
+      "a":"Producer",
+      "b":"Wholesaler",
+      "c":"Customer",
+      "d":"Physical distribution system",
+      "ans":"c"
+   },
+   {  
+      "question":"Yvonne's job is to coordinate the flow of raw materials from suppliers to her company's various production facilities. Which of the following best describes what Yvonne does?",
+      "number":83,
+      "a":"Logistics",
+      "b":"Inventory management",
+      "c":"Supply chain",
+      "d":"Physical distribution",
+      "ans":"a"
+   },
+   {  
+      "question":"The activities involved with the actual movement of goods from the producer to the user are part of the ________.",
+      "number":84,
+      "a":"atmospherics",
+      "b":"physical distribution",
+      "c":"product strategy",
+      "d":"channels of distribution",
+      "ans":"b"
+   },
+   {  
+      "question":"What method of transportation accounts for the majority of finished goods finding their way to consumers?",
+      "number":85,
+      "a":"Air freight",
+      "b":"Water",
+      "c":"Railroads",
+      "d":"Trucks",
+      "ans":"d"
+   },
+   {  
+      "question":"A building contractor is creating a southwestern-style restaurant in Manhattan. Which method of transportation would be best for shipping ceramic tile from New Mexico to New York?",
+      "number":86,
+      "a":"Truck",
+      "b":"Air",
+      "c":"Railroad",
+      "d":"Water",
+      "ans":"a"
+   }
+]

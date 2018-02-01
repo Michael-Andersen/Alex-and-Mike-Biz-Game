@@ -2,8 +2,6 @@
     if(isset($_SESSION['username'])){
         header("location:index.php");die;
     }
-    $_SESSION['count']=0;
-    $_SESSION['score']=0;
 ?>
 <!DOCTYPE html>
 <html lang="en">

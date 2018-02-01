@@ -1,0 +1,632 @@
+[  
+   {  
+      "question":"The function of attracting, developing, and retaining enough qualified employees to perform the activities necessary to accomplish organizational objectives is part of ________.",
+      "number":0,
+      "a":"human resource management",
+      "b":"human asset accounting",
+      "c":"management objectives",
+      "d":"management development",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are core responsibilities of human resource managers EXCEPT ________.",
+      "number":1,
+      "a":"employee recruitment",
+      "b":"employee training and performance evaluation",
+      "c":"employee compensation and benefits",
+      "d":"company budget forecasts",
+      "ans":"d"
+   },
+   {  
+      "question":"Pham is a human resource manager. His responsibilities might include all of the following activities EXCEPT ________.",
+      "number":2,
+      "a":"developing employee training programs",
+      "b":"administering employee benefit programs",
+      "c":"projecting sales for the coming six-month period",
+      "d":"administering compensation plans",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is an overall objective of the human resource management department?",
+      "number":3,
+      "a":"maximizing employee effectiveness in the organization",
+      "b":"forecasting anticipated sales",
+      "c":"determining sources of operating funds",
+      "d":"daily supervision of hourly employees",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is the first step in the employee recruitment process?",
+      "number":4,
+      "a":"review applications and résumés",
+      "b":"interview candidates",
+      "c":"conduct employment tests",
+      "d":"identify job requirements",
+      "ans":"d"
+   },
+   {  
+      "question":"The purpose of the EEOC is to ________.",
+      "number":5,
+      "a":"provide health insurance to uninsured employees",
+      "b":"guarantee companies pay social security for all employees",
+      "c":"investigate claims of discrimination",
+      "d":"enforce the Family and Medical Leave Act of 1993",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following statements about Title VII of the Civil Rights Act is NOT correct?",
+      "number":6,
+      "a":"It created the EEOC.",
+      "b":"It prohibits discrimination based on age, religion, or gender.",
+      "c":"It helps employers set up affirmative action programs to increase job opportunities for women, minorities, people with disabilities, and other protected groups.",
+      "d":"It includes the right to a jury trial for victims of employment discrimination.",
+      "ans":"b"
+   },
+   {  
+      "question":"The Americans with Disabilities Act makes it illegal for a company to ask about a job applicant’s health when that applicant is applying for a position, unless ________.",
+      "number":7,
+      "a":"A company is never allowed to ask about a job applicant’s health.",
+      "b":"the condition requires an extended leave of absence",
+      "c":"the company cannot afford higher-than-average medical costs",
+      "d":"the condition directly affects the person’s ability to perform the job",
+      "ans":"d"
+   },
+   {  
+      "question":"Derek runs the finance department for a software company and wants to measure a job candidate’s ability in numerical aptitude, general reasoning, and verbal comprehension. According to experts, which test would be ideal for this situation?",
+      "number":8,
+      "a":"certified public accounting exam",
+      "b":"associative learning comprehension",
+      "c":"cognitive ability test",
+      "d":"personality type indicator",
+      "ans":"c"
+   },
+   {  
+      "question":"The orientation program is typically administered jointly by the ________.",
+      "number":9,
+      "a":"human resource department and the department in which the employee will work",
+      "b":"appropriate vice president and the human resource department",
+      "c":"payroll department and the human resource department",
+      "d":"employee training instructor and the management development office",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is an example of on-the-job training?",
+      "number":10,
+      "a":"online training programs",
+      "b":"conferences",
+      "c":"classroom lectures",
+      "d":"apprenticeship programs",
+      "ans":"d"
+   },
+   {  
+      "question":"Some companies are replacing classroom training with computer-based and online training programs because these programs offer all of the following advantages EXCEPT ________.",
+      "number":11,
+      "a":"reduced travel costs",
+      "b":"online training programs are less difficult",
+      "c":"online training offers consistent presentations",
+      "d":"employees can learn at their own pace",
+      "ans":"b"
+   },
+   {  
+      "question":"Amy is a promising middle manager for a large company. She is taking part in a training program designed to improve her skills and broaden her knowledge of the company and entire industry. Amy is taking part in a(n) ________.",
+      "number":12,
+      "a":"management development program",
+      "b":"on-the-job training program",
+      "c":"apprenticeship program",
+      "d":"360-degree review",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is a concern about performance appraisals?",
+      "number":13,
+      "a":"They are held too frequently.",
+      "b":"They may be skewed in favor of a single manager’s subjective opinion.",
+      "c":"They are based on objective criteria.",
+      "d":"They take place in the form of two-way communication.",
+      "ans":"b"
+   },
+   {  
+      "question":"Based on employee performance appraisals, managers make objective decisions about all of the following EXCEPT ________.",
+      "number":14,
+      "a":"additional training needs",
+      "b":"compensation",
+      "c":"corporate outsourcing",
+      "d":"promotion",
+      "ans":"c"
+   },
+   {  
+      "question":"Robert is a middle manager for All Dogs Food Co. He has requested an evaluation by a panel to include coworkers, superiors, subordinates, and several of the company’s clients. This type of evaluation is called a ________.",
+      "number":15,
+      "a":"management development program",
+      "b":"Professional Analysis, Inc. (PAI) review",
+      "c":"status performance appraisal",
+      "d":"360-degree performance review",
+      "ans":"d"
+   },
+   {  
+      "question":"Demitrius is scheduled for a 360-degree performance review at UPS. What advantage can he and the company gain from this review?",
+      "number":16,
+      "a":"less work for employees and managers",
+      "b":"feedback from multiple perspectives",
+      "c":"outcomes untainted by personal disputes",
+      "d":"less paperwork than a traditional review",
+      "ans":"b"
+   },
+   {  
+      "question":"Omar, an electrician for Quality Builders, is paid $35 for each hour he works during the day. After 5 p.m. and on weekends, he is paid the overtime rate of one and one-half times the regular hourly rate. Omar is paid a ________.",
+      "number":17,
+      "a":"wage",
+      "b":"bonus",
+      "c":"commission",
+      "d":"salary",
+      "ans":"a"
+   },
+   {  
+      "question":"Antonio is paid $55,000 per year as a research analyst. This type of compensation is called a(n) ________.",
+      "number":18,
+      "a":"salary",
+      "b":"wage",
+      "c":"time wage",
+      "d":"employee benefit",
+      "ans":"a"
+   },
+   {  
+      "question":"Most companies base their compensation policies on all of the following factors EXCEPT ________.",
+      "number":19,
+      "a":"government legislation",
+      "b":"cost of living",
+      "c":"worker’s previous salary",
+      "d":"worker productivity",
+      "ans":"c"
+   },
+   {  
+      "question":"Joanne performed substantially better than her supervisor had expected on predetermined department goals. Because of her excellent productivity, she received an extra $1,500 at the end of the year. Joanne was ________.",
+      "number":20,
+      "a":"paid an additional salary",
+      "b":"granted incentive compensation based on her knowledge",
+      "c":"given overtime pay",
+      "d":"awarded a gain-sharing bonus",
+      "ans":"d"
+   },
+   {  
+      "question":"Gain sharing is an employee benefit that provides ________.",
+      "number":21,
+      "a":"increased stock options if the company is doing well",
+      "b":"bonuses for recruiting new employees for needed positions",
+      "c":"bonuses based on surpassing performance goals",
+      "d":"salary increases based on learning new job skills",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is NOT a trend in employee benefits?",
+      "number":22,
+      "a":"Employers are offering incentives for employees to live better lives.",
+      "b":"Employers are paying a greater percentage of health care costs.",
+      "c":"Companies are shrinking the matching contributions made to workers’ retirement programs.",
+      "d":"Employee benefits amount to approximately 30 percent of total compensation.",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following employee benefits are required by law with the exception of ________.",
+      "number":23,
+      "a":"health insurance",
+      "b":"Social Security",
+      "c":"unemployment insurance",
+      "d":"Medicare",
+      "ans":"a"
+   },
+   {  
+      "question":"Antonio is able to select the type of benefits he receives by choosing from a list of possibilities including health insurance, dental and vision plans, and life and disability. This type of “cafeteria” plan is called a ________ benefits plan.",
+      "number":24,
+      "a":"flexible",
+      "b":"supplemental",
+      "c":"volunteer",
+      "d":"legally mandated",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are examples of flexible working arrangements EXCEPT ________.",
+      "number":25,
+      "a":"paid time off",
+      "b":"compressed workweeks",
+      "c":"job sharing plans",
+      "d":"401(k) plans",
+      "ans":"d"
+   },
+   {  
+      "question":"Jana’s firm allows her to work four 10-hour days each week. This type of flexible work arrangement is known as ________.",
+      "number":26,
+      "a":"job sharing program",
+      "b":"compressed workweek",
+      "c":"telecommuter",
+      "d":"flextime",
+      "ans":"b"
+   },
+   {  
+      "question":"Kate is a full-time nurse and would like to vary her starting and ending time to better accommodate her children’s school hours. Which flexible work plan would be ideal for her situation?",
+      "number":27,
+      "a":"flextime",
+      "b":"job sharing program",
+      "c":"telecommuter",
+      "d":"compressed workweek",
+      "ans":"a"
+   },
+   {  
+      "question":"Chaya’s firm allows her to complete most of her work tasks from her home. Which flexible work plan is Chaya using?",
+      "number":28,
+      "a":"job sharing program",
+      "b":"compressed workweek",
+      "c":"telecommuting",
+      "d":"flextime",
+      "ans":"c"
+   },
+   {  
+      "question":"Rose was recently let go from her position at an insurance agency as a result of downsizing. This is an example of ________.",
+      "number":29,
+      "a":"voluntary separation",
+      "b":"involuntary separation",
+      "c":"involuntary turnover",
+      "d":"voluntary turnover",
+      "ans":"b"
+   },
+   {  
+      "question":"Darren decided to change jobs. Before he left the company, he talked to someone in the human resources department about the reasons why he was leaving. Darren went through a(n) ________ interview.",
+      "number":30,
+      "a":"termination",
+      "b":"exit",
+      "c":"downsizing",
+      "d":"outsourcing",
+      "ans":"b"
+   },
+   {  
+      "question":"Hailey manages the finance department at her company, and she discovers that one of her employees is performing poorly and letting coworkers pick up the slack. Hailey knows that resentment is building, so after an initial write-up, she proceeds with a(n) ________ of the employee.",
+      "number":31,
+      "a":"downsizing",
+      "b":"voluntary turnover",
+      "c":"outsourcing",
+      "d":"involuntary turnover",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is often a negative result of downsizing?",
+      "number":32,
+      "a":"employee morale declines",
+      "b":"product quality drops",
+      "c":"competitive position deteriorates",
+      "d":"customer service quality declines",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following tasks are NOT typically outsourced?",
+      "number":33,
+      "a":"accounting",
+      "b":"core business",
+      "c":"noncore business",
+      "d":"production",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following is NOT a reason for outsourcing?",
+      "number":34,
+      "a":"avoiding long-term resource costs",
+      "b":"enabling a firm to focus on functions it does best",
+      "c":"improving internal management controls",
+      "d":"gaining flexibility to change vendors at the end of contract periods",
+      "ans":"c"
+   },
+   {  
+      "question":"Robert’s company contracted with an outside business to provide technical and computer support. This is an example of ________.",
+      "number":35,
+      "a":"restructuring the whole organization",
+      "b":"downsizing",
+      "c":"employee empowerment",
+      "d":"outsourcing",
+      "ans":"d"
+   },
+   {  
+      "question":"A need produces ________, which leads to ________.",
+      "number":36,
+      "a":"motivation; goal-directed behavior",
+      "b":"goal-directed behavior; rewards",
+      "c":"responsibility; satisfaction",
+      "d":"stress-directed behavior; motivation",
+      "ans":"a"
+   },
+   {  
+      "question":"According to Herzberg, job factors that are essential to job satisfaction although they cannot motivate employees include which of the following?",
+      "number":37,
+      "a":"recognition",
+      "b":"advancement",
+      "c":"growth opportunities",
+      "d":"job security",
+      "ans":"A"
+   },
+   {  
+      "question":"A key premise of Maslow’s hierarchy of needs theory is that ________.",
+      "number":38,
+      "a":"people’s needs are based on their wants",
+      "b":"people’s needs are based on an order of importance",
+      "c":"not all people have basic needs",
+      "d":"a satisfied need is a motivator",
+      "ans":"b"
+   },
+   {  
+      "question":"According to Maslow, an individual’s first priority is given to which level of need?",
+      "number":39,
+      "a":"esteem",
+      "b":"self-actualization",
+      "c":"physiological",
+      "d":"safety",
+      "ans":"c"
+   },
+   {  
+      "question":"Helène, an industrial sales representative, bought a cellular phone to use if she ever had car trouble while traveling between appointments. Which level of Maslow’s need hierarchy is Helène addressing?",
+      "number":40,
+      "a":"safety",
+      "b":"physiological",
+      "c":"self-actualization",
+      "d":"esteem",
+      "ans":"a"
+   },
+   {  
+      "question":"The desire to be accepted by family members and other individuals is what Maslow called ________ needs.",
+      "number":41,
+      "a":"physiological",
+      "b":"esteem",
+      "c":"social",
+      "d":"self-actualization",
+      "ans":"c"
+   },
+   {  
+      "question":"According to Maslow, the desire to be valued and recognized by others is a(n) ________ need.",
+      "number":42,
+      "a":"safety",
+      "b":"self-actualization",
+      "c":"physiological",
+      "d":"esteem",
+      "ans":"d"
+   },
+   {  
+      "question":"Juanita is the captain of her college basketball team. Her long-term goal is to be named to the All American women’s basketball team. Juanita is motivated by ________.",
+      "number":43,
+      "a":"esteem needs",
+      "b":"social needs",
+      "c":"self-actualization needs",
+      "d":"physiological needs",
+      "ans":"c"
+   },
+   {  
+      "question":"An example of a job factor that is important to job satisfaction though it does not contribute directly to motivation is ________.",
+      "number":44,
+      "a":"company policies",
+      "b":"opportunity for growth",
+      "c":"achievement",
+      "d":"job responsibility",
+      "ans":"a"
+   },
+   {  
+      "question":"_________ is concerned with an individual’s perception of fair and equitable treatment.",
+      "number":45,
+      "a":"Expectancy theory",
+      "b":"Maslow’s hierarchy of needs theory",
+      "c":"Equity theory",
+      "d":"Goal-setting theory",
+      "ans":"c"
+   },
+   {  
+      "question":"Vroom’s expectancy theory states that ________.",
+      "number":46,
+      "a":"people’s needs are arranged on a hierarchy of importance",
+      "b":"employees compare their results with those of coworkers and decrease their efforts if they feel they are underrewarded for similar work",
+      "c":"people are motivated to the extent to which they accept challenging goals and receive feedback on their progress",
+      "d":"employees assess the probability of accomplishing a task, the value of the reward, and the likelihood that successful performance leads to a desirable reward",
+      "ans":"d"
+   },
+   {  
+      "question":"The basic components of goal-setting theory include all of the following EXCEPT ________.",
+      "number":47,
+      "a":"goal difficulty",
+      "b":"performance feedback",
+      "c":"goal acceptance",
+      "d":"time management",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is not a key principle of MBO?",
+      "number":48,
+      "a":"specific objectives for each individual",
+      "b":"performance evaluation and feedback",
+      "c":"autocratic decision making",
+      "d":"specific time period to accomplish goals",
+      "ans":"A"
+   },
+   {  
+      "question":"Claire announces to her staff that she intends to lower costs in their department by 5 percent. Which component of goal setting is Claire utilizing?",
+      "number":49,
+      "a":"goal specificity",
+      "b":"time management",
+      "c":"goal acceptance",
+      "d":"performance review",
+      "ans":"a"
+   },
+   {  
+      "question":"The goal of ________ is to increase employees’ interest in their jobs and allow them to learn more about different jobs in the company.",
+      "number":50,
+      "a":"enlargement",
+      "b":"management",
+      "c":"rotation",
+      "d":"enrichment",
+      "ans":"c"
+   },
+   {  
+      "question":"David is the head chef in a restaurant and has decided to increase the number of tasks performed by the kitchen staff. The added tasks do not result in increased challenge or authority. David’s efforts are called job ________.",
+      "number":51,
+      "a":"sharing",
+      "b":"enrichment",
+      "c":"management",
+      "d":"enlargement",
+      "ans":"d"
+   },
+   {  
+      "question":"Malcolm, manager of a purchasing department, keeps a close watch on his employees to make sure they don’t extend their work breaks beyond the 15-minute time allotment. Malcolm would be described as a ________ manager.",
+      "number":52,
+      "a":"traditional",
+      "b":"Theory Y",
+      "c":"Theory X",
+      "d":"Theory Z",
+      "ans":"c"
+   },
+   {  
+      "question":"Gloria, a supervisor of data entry clerks, includes her subordinates in decision making when possible. She believes that most people can think of creative ways to solve work-related problems. Gloria’s assumption about worker behavior is based on ________.",
+      "number":53,
+      "a":"Theory Y",
+      "b":"management by objectives (MBO)",
+      "c":"Theory X",
+      "d":"Maslow’s hierarchy of needs",
+      "ans":"a"
+   },
+   {  
+      "question":"Carlos, a management trainee, completed a leadership profile in which he was identified as having Theory Y assumptions about people. Therefore, Carlos would believe that ________.",
+      "number":54,
+      "a":"workers can exercise self-control and direction toward organization goals",
+      "b":"the average person has relatively little ambition and wants security above all",
+      "c":"the average worker will, under proper conditions, not only accept but also actually seek responsibility",
+      "d":"the expenditure of physical and mental effort in work is as natural as play or rest",
+      "ans":"c"
+   },
+   {  
+      "question":"Eric is a supervisor and he works hard to involve his employees in all aspects of the operation believing that employee involvement is a key to improving productivity. Eric is a ________ manager.",
+      "number":55,
+      "a":"Theory Y",
+      "b":"Theory X",
+      "c":"Theory C",
+      "d":"Theory Z",
+      "ans":"d"
+   },
+   {  
+      "question":"Approximately what percentage of private-sector American workers currently belongs to a labor union?",
+      "number":56,
+      "a":"less than 5 percent",
+      "b":"between 8 and 9 percent",
+      "c":"between 20 percent and 30 percent",
+      "d":"over 40 percent",
+      "ans":"b"
+   },
+   {  
+      "question":"Local unions are typically organized by ________.",
+      "number":57,
+      "a":"affiliation with the national union",
+      "b":"affiliation with the international union",
+      "c":"geographic area",
+      "d":"occupation",
+      "ans":"c"
+   },
+   {  
+      "question":"The National Labor Relations Act of 1935 (Wagner Act) required employers to ________.",
+      "number":58,
+      "a":"limit the amount of hours worked per week",
+      "b":"negotiate with elected representatives of their employees",
+      "c":"establish open shops where unions are free to organize",
+      "d":"bargain with union organizers in “good faith”",
+      "ans":"b"
+   },
+   {  
+      "question":"The Fair Labor Standards Act ________.",
+      "number":59,
+      "a":"established the federal minimum wage",
+      "b":"outlawed union shops",
+      "c":"outlawed secondary boycotts",
+      "d":"legalized collective bargaining",
+      "ans":"a"
+   },
+   {  
+      "question":"Union contracts typically cover a time period of ________.",
+      "number":60,
+      "a":"less than one year",
+      "b":"two to three years",
+      "c":"five years",
+      "d":"more than five years",
+      "ans":"b"
+   },
+   {  
+      "question":"Collective bargaining encompasses all of the following issues EXCEPT ________.",
+      "number":61,
+      "a":"employee wages",
+      "b":"hours",
+      "c":"working conditions",
+      "d":"investor relations",
+      "ans":"d"
+   },
+   {  
+      "question":"Beatrice is trying to resolve a labor dispute. She meets with both sides, makes a number of recommendations, and suggests a compromise. Beatrice is acting as a(n) ________ and ________ force a settlement.",
+      "number":62,
+      "a":"mediator; cannot",
+      "b":"mediator; can",
+      "c":"arbitrator; cannot",
+      "d":"arbitrator; can",
+      "ans":"a"
+   },
+   {  
+      "question":"A complaint that management is violating a provision of a union contract often results in ________.",
+      "number":63,
+      "a":"mediation",
+      "b":"a work slowdown",
+      "c":"the filing of a grievance",
+      "d":"a strike",
+      "ans":"c"
+   },
+   {  
+      "question":"Evan is working on a labor dispute. He meets with both sides, listens to their proposals, and makes a decision on a new contract. Evan is acting as a(n) ________ and ________ force a settlement.",
+      "number":64,
+      "a":"mediator; cannot",
+      "b":"mediator; can",
+      "c":"arbitrator; cannot",
+      "d":"arbitrator; can",
+      "ans":"d"
+   },
+   {  
+      "question":"Who must approve the person selected as an arbitrator?",
+      "number":65,
+      "a":"the federal government",
+      "b":"management and labor",
+      "c":"labor-only",
+      "d":"management only",
+      "ans":"b"
+   },
+   {  
+      "question":"A union’s ultimate tactic is a ________.",
+      "number":66,
+      "a":"strike",
+      "b":"boycott",
+      "c":"picket line",
+      "d":"slowdown",
+      "ans":"a"
+   },
+   {  
+      "question":"Nonviolent picketing is ________.",
+      "number":67,
+      "a":"legal only if workers are on strike",
+      "b":"generally less effective than a strike since workers usually cross picket lines",
+      "c":"legally protected free speech",
+      "d":"legal only in states without right-to-work laws",
+      "ans":"c"
+   },
+   {  
+      "question":"Cesar Chavez and the United Farm Workers Union used a ________ to encourage the public not to buy grapes grown with pesticides.",
+      "number":68,
+      "a":"strike",
+      "b":"walkout",
+      "c":"lockout",
+      "d":"boycott",
+      "ans":"d"
+   },
+   {  
+      "question":"Union workers at an auto parts plant go out on strike. In response, management closes the plant. This tactic is a ________.",
+      "number":69,
+      "a":"lockout",
+      "b":"cooling-off period",
+      "c":"secondary boycott",
+      "d":"strikebreaker",
+      "ans":"a"
+   }
+]

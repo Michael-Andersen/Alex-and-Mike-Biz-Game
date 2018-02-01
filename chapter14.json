@@ -1,0 +1,398 @@
+[  
+   {  
+      "question":"Raw facts and figures are ________.",
+      "number":0,
+      "a":"data",
+      "b":"information",
+      "c":"a management information system",
+      "d":"the basis for business decision making",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is considered information rather than data?",
+      "number":1,
+      "a":"projected population growth in a target market",
+      "b":"a measure of the effectiveness of a promotional strategy",
+      "c":"income distribution in a target market",
+      "d":"product sales in various categories",
+      "ans":"b"
+   },
+   {  
+      "question":"Hannah is a television executive whose team conducted demographic research for new programs. Hannah will be expected to write a detailed ________ report about the impact of this study and the effect of the network’s marketing strategy.",
+      "number":2,
+      "a":"Data",
+      "b":"groupware",
+      "c":"database",
+      "d":"information",
+      "ans":"d"
+   },
+   {  
+      "question":"The person who directs a firm's management information systems and related computer operations is often called the ________.",
+      "number":3,
+      "a":"financial advisor",
+      "b":"chief information officer",
+      "c":"executive information manager",
+      "d":"chief executive officer",
+      "ans":"b"
+   },
+   {  
+      "question":"A database can best be described as ________.",
+      "number":4,
+      "a":"data that has been converted into information",
+      "b":"data gathered at random from a variety of sources",
+      "c":"a centralized integrated collection of the organization's data resources",
+      "d":"a loose collection of ideas",
+      "ans":"c"
+   },
+   {  
+      "question":"One of the largest online databases is owned by ________.",
+      "number":5,
+      "a":"IBM",
+      "b":"the U.S. Census Bureau",
+      "c":"the Federal Trade Commission (FTC)",
+      "d":"Microsoft",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements best describes the purpose of a management information system?",
+      "number":6,
+      "a":"assist the human resources department with research on employee benefit costs",
+      "b":"provide management with feedback from sales meetings",
+      "c":"provide information on internal operations and external intelligence for use in decision making",
+      "d":"provide the accounting department with budget information",
+      "ans":"c"
+   },
+   {  
+      "question":"An information system that provides relevant data to help businesspeople choose the appropriate course of action is called a(n) ________.",
+      "number":7,
+      "a":"decision support system",
+      "b":"expert system",
+      "c":"executive information system",
+      "d":"database",
+      "ans":"a"
+   },
+   {  
+      "question":"Sean is a salesperson and is visiting one of his largest clients. Before the visit, he reviewed the client's past purchases. Sean used the firm's ________ system.",
+      "number":8,
+      "a":"executive information",
+      "b":"decision support",
+      "c":"expert",
+      "d":"enterprise resource planning",
+      "ans":"b"
+   },
+   {  
+      "question":"William is trying to close a particularly difficult sale. He uses his PDA (personal digital assistant) and a special program to access information within his company's database on pricing. William is using an ________.",
+      "number":9,
+      "a":"expert system",
+      "b":"enterprise resource planning system",
+      "c":"executive support system",
+      "d":"application service provider",
+      "ans":"c"
+   },
+   {  
+      "question":"Megan, a chief executive officer, reviews the internal performance of her company's stock, as well as market trends for the industry. To access this information, Megan uses a(n) ________.",
+      "number":10,
+      "a":"enterprise planning resources",
+      "b":"executive support system",
+      "c":"expert system",
+      "d":"decision support system",
+      "ans":"b"
+   },
+   {  
+      "question":"A computer program that imitates human thinking is a(n) ________.",
+      "number":11,
+      "a":"information interface",
+      "b":"decision support system",
+      "c":"enterprise resource planning system",
+      "d":"expert system",
+      "ans":"d"
+   },
+   {  
+      "question":"Hans works in the mortgage loan department of a bank. He enters information on credit applications into the bank's computer system. The system has a program that evaluates the loan application and gives it a score. Hans is using a(n) ________.",
+      "number":12,
+      "a":"expert system",
+      "b":"enterprise resource planning system",
+      "c":"decision support system",
+      "d":"information interface",
+      "ans":"a"
+   },
+   {  
+      "question":"An expert system would most likely be used to ________.",
+      "number":13,
+      "a":"retrieve sales data",
+      "b":"determine the status of a customer's order",
+      "c":"determine the optimal layout of a plant",
+      "d":"access relevant data from the company's database",
+      "ans":"c"
+   },
+   {  
+      "question":"On Realtor.com, homebuyers enter information regarding their preferred home location, price, and features. Using an ________, the Web site will automatically display real estate properties that match the homebuyer’s criteria.",
+      "number":14,
+      "a":"executive information system",
+      "b":"encryption",
+      "c":"application service provider",
+      "d":"expert system",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following devices are computer hardware EXCEPT a ________.",
+      "number":15,
+      "a":"monitor",
+      "b":"printer driver",
+      "c":"fax machine",
+      "d":"mouse",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following is a storage device?",
+      "number":16,
+      "a":"flash memory card",
+      "b":"modem",
+      "c":"monitor",
+      "d":"scanner",
+      "ans":"a"
+   },
+   {  
+      "question":"The largest type of computer system with the most extensive storage capacity and the fastest processing speeds is a ________.",
+      "number":17,
+      "a":"hand held device",
+      "b":"personal computer",
+      "c":"mainframe computer",
+      "d":"midrange system",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is a reason for the increasing popularity of notebook computers?",
+      "number":18,
+      "a":"more computing capacity than midrange systems",
+      "b":"limited displays",
+      "c":"faster processing speeds",
+      "d":"higher prices",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is the most recent development in notebook computers?",
+      "number":19,
+      "a":"PDA",
+      "b":"tablet PC",
+      "c":"Minicomputer",
+      "d":"netbook",
+      "ans":"d"
+   },
+   {  
+      "question":"The  software which controls the basic workings of the computer system is called.",
+      "number":20,
+      "a":"Expert",
+      "b":"Executive information system",
+      "c":"Database",
+      "d":"Operating system",
+      "ans":"d"
+   },
+   {  
+      "question":"Angelo purchases a new game for his computer. He will load the program onto the computer's hard drive. Angelo is buying ________.",
+      "number":21,
+      "a":"an output device",
+      "b":"A warranty",
+      "c":"application software",
+      "d":"an operating system",
+      "ans":"c"
+   },
+   {  
+      "question":"A program that performs specific tasks that the user wants to carry out is called ________.",
+      "number":22,
+      "a":"software",
+      "b":"the operating system",
+      "c":"a management information system",
+      "d":"application software",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is an application program?",
+      "number":23,
+      "a":"UNIX",
+      "b":"Java",
+      "c":"Microsoft Windows",
+      "d":"Microsoft Excel",
+      "ans":"d"
+   },
+   {  
+      "question":"Brian is sitting at his computer preparing a new sales brochure. The brochure combines high-quality type, graphics, and photographs. What type of software is Brian likely using to create the brochure?",
+      "number":24,
+      "a":"word processing program",
+      "b":"desktop publishing program",
+      "c":"presentation graphics program",
+      "d":"spreadsheet program",
+      "ans":"b"
+   },
+   {  
+      "question":"Electronic spreadsheets ________.",
+      "number":25,
+      "a":"are a special software used to create graphics",
+      "b":"can replace managerial judgment in decision making",
+      "c":"are used for numeric and statistical data",
+      "d":"are very difficult to use",
+      "ans":"c"
+   },
+   {  
+      "question":"Carmen is sitting at her computer analyzing the financial impact of an increase in her company's sales growth rate. Carmen is probably using a ________ program.",
+      "number":26,
+      "a":"spreadsheet",
+      "b":"presentation",
+      "c":"word processor",
+      "d":"desktop publishing",
+      "ans":"a"
+   },
+   {  
+      "question":"Kyle is putting together a presentation for senior management analyzing a potential new market. He is using his computer to create charts or graphs that he will then show as slides. Which of the following software programs is Kyle most likely using to create his presentation?",
+      "number":27,
+      "a":"Microsoft Word",
+      "b":"Microsoft Excel",
+      "c":"Microsoft Windows",
+      "d":"Microsoft PowerPoint",
+      "ans":"d"
+   },
+   {  
+      "question":"Chloe would like her company to fund a worthwhile project and has accumulated valuable charts and graphs regarding market shares, territories, and projected sales. In order to achieve maximum impact, Chloe should communicate her information using ________.",
+      "number":28,
+      "a":"staging software",
+      "b":"desktop publishing",
+      "c":"presentation software",
+      "d":"production software",
+      "ans":"c"
+   },
+   {  
+      "question":"________ tie geographic regions together using long-distance telephone lines or satellite transmissions.",
+      "number":29,
+      "a":"Local area networks",
+      "b":"Executive information systems",
+      "c":"Databases",
+      "d":"Wide area networks",
+      "ans":"d"
+   },
+   {  
+      "question":"All Walmart stores have satellite dishes that link stores together with the company's headquarters. Walmart is using a(n) ________.",
+      "number":30,
+      "a":"wide area network",
+      "b":"enterprise resource system",
+      "c":"expert system",
+      "d":"local area network",
+      "ans":"a"
+   },
+   {  
+      "question":"Mari is on a business trip. From her hotel, she uses her computer to access her company's network, checking her e-mail and calendar. Mari's company has a(n) ________.",
+      "number":31,
+      "a":"Internet",
+      "b":"virtual private network",
+      "c":"intranet",
+      "d":"extranet",
+      "ans":"c"
+   },
+   {  
+      "question":"A new wireless standard called ________ has the potential to bring high-speed Internet access to rural areas where traditional forms of broadband access are too expensive or impractical.",
+      "number":32,
+      "a":"intranet",
+      "b":"VPN",
+      "c":"Wi-Max",
+      "d":"VoIP",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following statements is true about intranets?",
+      "number":33,
+      "a":"Intranets require a Windows operation system.",
+      "b":"Intranets may be accessed by anyone with an Internet connection.",
+      "c":"Intranets provide secure connections between two points on the Internet.",
+      "d":"Intranets allow information sharing within a company network.",
+      "ans":"d"
+   },
+   {  
+      "question":"Caleb’s company has installed a system to make data transmission secure. Therefore, he can use the Internet to send and receive sensitive data. Caleb’s company has installed a(n) ________.",
+      "number":34,
+      "a":"virtual private network",
+      "b":"wide area network",
+      "c":"Intranet",
+      "d":"extranet",
+      "ans":"a"
+   },
+   {  
+      "question":"Diego purchased a company and discovered that his employees were using different operating systems. Instead of spending considerable time and expense getting everyone on the same system, Diego established a(n) ________ to create company bulletin boards, share documents, and conduct online conferencing.",
+      "number":35,
+      "a":"extranet",
+      "b":"intranet",
+      "c":"virtual private network",
+      "d":"Internet",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following are advantages of VoIP EXCEPT ________.",
+      "number":36,
+      "a":"increased flexibility",
+      "b":"increased security",
+      "c":"lower cost",
+      "d":"additional features",
+      "ans":"b"
+   },
+   {  
+      "question":"A program that attaches itself to other programs and changes programs or destroys data is a(n) ________.",
+      "number":37,
+      "a":"computer virus",
+      "b":"purge program",
+      "c":"inoculation program",
+      "d":"immunity deficiency program",
+      "ans":"a"
+   },
+   {  
+      "question":"Jennifer belongs to several online card clubs. When she downloaded a recommended bridge game, she unknowingly received a ________, which ultimately damaged the hard drive on her computer.",
+      "number":38,
+      "a":"worm",
+      "b":"software application",
+      "c":"Trojan horse",
+      "d":"firewall",
+      "ans":"c"
+   },
+   {  
+      "question":"Mario downloaded some company information into a spreadsheet so that he could work on it at home. When he returned to work, he inserted his memory card into his company computer. Within minutes, all of his hard drive files were corrupted. The most likely cause was a(n) ________.",
+      "number":39,
+      "a":"malfunctioning computer",
+      "b":"intranet failure",
+      "c":"computer virus",
+      "d":"bad operating system",
+      "ans":"c"
+   },
+   {  
+      "question":"Deciding how to prevent system failures along with the ability to continue operating if computer systems fail is called ________.",
+      "number":40,
+      "a":"disaster recovery planning",
+      "b":"information systems management",
+      "c":"advanced computer security",
+      "d":"virus protection",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is an unreasonable response to potential computer problems? ________.",
+      "number":41,
+      "a":"using online storage services",
+      "b":"limiting computer access to only a handful of senior managers",
+      "c":"installing extra hardware in a secure location",
+      "d":"routinely backing up software and data",
+      "ans":"b"
+   },
+   {  
+      "question":"Courtney’s office in south Florida was destroyed by a hurricane last year, and she lost numerous company documents. After relocating, Courtney took no chances and implemented ________, in which she backed up her data in a secure online storage service.",
+      "number":42,
+      "a":"enterprise resource planning",
+      "b":"firewall",
+      "c":"encryption",
+      "d":"disaster recovery planning",
+      "ans":"d"
+   },
+   {  
+      "question":"An outside supplier used to provide computer and application support for managing an information system is known as ________.",
+      "number":43,
+      "a":"an application service provider",
+      "b":"an application maintenance provider",
+      "c":"utility computing",
+      "d":"on-demand computing",
+      "ans":"a"
+   }
+]

@@ -1,0 +1,650 @@
+[  
+   {  
+      "question":"Computers that are manufactured in the United States and sold in Norway are categorized as U.S. ________.",
+      "number":0,
+      "a":"exports",
+      "b":"countertrades",
+      "c":"imports",
+      "d":"outsourcing",
+      "ans":"a"
+   },
+   {  
+      "question":"During the past decade, the value of U.S. imports and exports has ________.",
+      "number":1,
+      "a":"decreased",
+      "b":"remained about the same",
+      "c":"more than doubled",
+      "d":"risen slightly",
+      "ans":"c"
+   },
+   {  
+      "question":"AusterTech, a U.S. company, produces computer parts and sells them to South American countries. AusterTech is engaging in the international business activity known as ________.",
+      "number":2,
+      "a":"importing",
+      "b":"dumping",
+      "c":"countertrade",
+      "d":"exporting",
+      "ans":"d"
+   },
+   {  
+      "question":"Los Angeles-based PMI Telecom purchases cell phones manufactured in Asia and sells them in the United States. PMI is engaging in the international business activity known as ________.",
+      "number":3,
+      "a":"exporting",
+      "b":"importing",
+      "c":"countertrade",
+      "d":"dumping",
+      "ans":"b"
+   },
+   {  
+      "question":"A large part of the U.S. economy’s growth comes from ________.",
+      "number":4,
+      "a":"petroleum exports",
+      "b":"computer technology",
+      "c":"the export and import of goods and services",
+      "d":"production of consumer electronic products",
+      "ans":"c"
+   },
+   {  
+      "question":"When a company operates in other countries, it ________ risk.",
+      "number":5,
+      "a":"has no impact on",
+      "b":"eliminates",
+      "c":"increases",
+      "d":"spreads out",
+      "ans":"d"
+   },
+   {  
+      "question":"Many developing nations have lower per capita incomes than highly developed countries. This fact ________.",
+      "number":6,
+      "a":"indicates that they represent an insignificant market for most products",
+      "b":"means that the developing nations are unlikely to experience much economic growth",
+      "c":"does not mean there is little opportunity for sales. Their sheer numbers may still represent significant and growing markets.",
+      "d":"means that they are only likely to purchase low-tech merchandise",
+      "ans":"c"
+   },
+   {  
+      "question":"Although people in developing nations have lower per capita incomes than more highly developed nations, their __________ represents a lucrative market for global trade.",
+      "number":7,
+      "a":"technology",
+      "b":"political stability",
+      "c":"huge populations",
+      "d":"infrastructure",
+      "ans":"c"
+   },
+   {  
+      "question":"All of the following are included in the top five nations the United States trades with EXCEPT ________.",
+      "number":8,
+      "a":"China",
+      "b":"Spain",
+      "c":"Mexico",
+      "d":"Canada",
+      "ans":"b"
+   },
+   {  
+      "question":"During the past decade, which of the following countries has experienced the greatest annual rate of GDP growth?",
+      "number":9,
+      "a":"United States",
+      "b":"China",
+      "c":"Canada",
+      "d":"Japan",
+      "ans":"b"
+   },
+   {  
+      "question":"Because of its climate and terrain, Guatemala possesses a ___________ over Canada in coffee production.",
+      "number":10,
+      "a":"absolute advantage",
+      "b":"higher standard of living",
+      "c":"higher GDP",
+      "d":"comparative advantage",
+      "ans":"d"
+   },
+   {  
+      "question":"An absolute advantage occurs when a country can maintain ________.",
+      "number":11,
+      "a":"a monopoly by outlawing foreign imports",
+      "b":"a monopoly by levying high taxes on imports",
+      "c":"a monopoly by being the lowest-cost producer of a good or service",
+      "d":"its advantage by producing a good or service more efficiently",
+      "ans":"c"
+   },
+   {  
+      "question":"Even though the United States manufactures textiles, China is able to produce them more efficiently. Thus, China has a ________________ in manufacturing textiles.",
+      "number":12,
+      "a":"tariff",
+      "b":"Quota",
+      "c":"trade restriction",
+      "d":"comparative advantage",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements is true regarding comparative advantage?",
+      "number":13,
+      "a":"Comparative advantage is becoming more rare these days.",
+      "b":"Factors like education and wellness can help ensure a comparative advantage in human resources.",
+      "c":"Developing countries possess no comparative advantage.",
+      "d":"A nation must first possess an absolute advantage in a particular area before it can gain a comparative advantage.",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements is true regarding absolute advantage?",
+      "number":14,
+      "a":"Absolute advantage is becoming more rare these days.",
+      "b":"Every country possesses an absolute advantage.",
+      "c":"Developing countries possess no absolute advantage.",
+      "d":"A nation must first possess a comparative advantage before it can possess an absolute advantage.",
+      "ans":"a"
+   },
+   {  
+      "question":"The country Artesia exported products totaling $86 billion last year. During the year, Artesia imported products valued at $43 billion. Artesia has a(n) ________.",
+      "number":15,
+      "a":"exchange rate of 2 to 1",
+      "b":"trade deficit of $43 billion",
+      "c":"trade surplus of $43 billion",
+      "d":"unfavorable balance of payments",
+      "ans":"c"
+   },
+   {  
+      "question":"A trade deficit occurs when ________.",
+      "number":16,
+      "a":"imports are sold at low profits",
+      "b":"foreign-aid payments exceed exports",
+      "c":"imports exceed exports",
+      "d":"there is a net flow of money into a country",
+      "ans":"c"
+   },
+   {  
+      "question":"Last year, the United States imported less from Switzerland than it exported to Switzerland. Which of the following statements is true?",
+      "number":17,
+      "a":"The United States has a balance of payments deficit with Switzerland.",
+      "b":"The United States has a trade surplus with Switzerland.",
+      "c":"The United States has a trade deficit with Switzerland.",
+      "d":"The United States has a negative balance of trade with Switzerland.",
+      "ans":"b"
+   },
+   {  
+      "question":"The United States has a trade surplus with which of the following items?",
+      "number":18,
+      "a":"oil",
+      "b":"textiles",
+      "c":"technology products",
+      "d":"services",
+      "ans":"d"
+   },
+   {  
+      "question":"A country with a balance of payments surplus means ________.",
+      "number":19,
+      "a":"monetary inflow exceeds monetary outflow",
+      "b":"monetary outflow exceeds monetary inflow",
+      "c":"imports exceed exports",
+      "d":"exports exceed imports",
+      "ans":"a"
+   },
+   {  
+      "question":"A balance of payments deficit occurs when ________.",
+      "number":20,
+      "a":"the net inflow of money from abroad exceeds the net outflows of money to other countries",
+      "b":"imports exceed exports",
+      "c":"the net outflow of money from a country exceeds the net inflow of money from abroad",
+      "d":"exports exceed imports",
+      "ans":"c"
+   },
+   {  
+      "question":"Allison, a U.S. citizen, travels to Europe and spends $2,000 on souvenirs. She is contributing to the ________.",
+      "number":21,
+      "a":"U.S. trade surplus",
+      "b":"growing exchange rate",
+      "c":"U.S. balance of payments surplus",
+      "d":"U.S. balance of payments deficit",
+      "ans":"d"
+   },
+   {  
+      "question":"A Japanese insurance company purchases U.S. government securities. From the perspective of the United States, the balance of trade with Japan will ________ and the balance of payments with Japan will ________.",
+      "number":22,
+      "a":"not change; improve",
+      "b":"not change; get worse",
+      "c":"improve; improve",
+      "d":"improve; get worse",
+      "ans":"a"
+   },
+   {  
+      "question":"A country’s exchange rate is based on ________.",
+      "number":23,
+      "a":"the rate at which its currency can be ex-changed for currencies of other countries",
+      "b":"the number of foreign banks it has",
+      "c":"tariffs and related trade restrictions",
+      "d":"the relationship between its imports and exports",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following groups is likely to be hurt economically if the value of the U.S. dollar rises relative to the euro?",
+      "number":24,
+      "a":"American firms with euro-dominated loans",
+      "b":"American farmers exporting goods to Europe",
+      "c":"European firms exporting goods to the United States",
+      "d":"American tourists visiting Europe",
+      "ans":"b"
+   },
+   {  
+      "question":"A country has a good chance of selling more of its goods abroad if it ________.",
+      "number":25,
+      "a":"increases the value of its currency",
+      "b":"more tourists decide to travel abroad",
+      "c":"devalues its currency",
+      "d":"sets high tariffs on imported goods",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following would result from devaluation of the U.S. dollar?",
+      "number":26,
+      "a":"Foreign goods would be less expensive for American consumers.",
+      "b":"Foreign firms would have to pay more to purchase U.S. assets.",
+      "c":"The cost of foreign vacations for U.S. citizens would be reduced.",
+      "d":"U.S. goods would sell for less abroad.",
+      "ans":"d"
+   },
+   {  
+      "question":"In recent years, the value of the dollar relative to the euro has declined. What does this mean for European businesses exporting to the United States?",
+      "number":27,
+      "a":"European countries are more likely to import U.S. goods or services.",
+      "b":"The U.S. trade deficit will most likely become greater.",
+      "c":"The United States is more likely to increase imports from European countries.",
+      "d":"European countries are more likely to avoid trade with the United States.",
+      "ans":"a"
+   },
+   {  
+      "question":"Assume a nation has a comparative advantage in the production of clothing. If the value of this country’s currency rises, ________.",
+      "number":28,
+      "a":"its comparative advantage will decrease",
+      "b":"its comparative advantage will stay the same",
+      "c":"its comparative advantage will increase",
+      "d":"an absolute advantage will be created",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following statements is true regarding hard currencies?",
+      "number":29,
+      "a":"Countries with hard currency typically use the barter system when exporting goods.",
+      "b":"The U.S. dollar is an example of hard currency, which is easily converted into other currencies.",
+      "c":"Hard currency is difficult to convert into other currency.",
+      "d":"A country with hard currency is likely to have a trade deficit.",
+      "ans":"b"
+   },
+   {  
+      "question":"An understanding of religious holidays is essential in order to overcome ________ international trade barriers.",
+      "number":30,
+      "a":"political",
+      "b":"physical",
+      "c":"cultural",
+      "d":"legal",
+      "ans":"c"
+   },
+   {  
+      "question":"Goto, Inc. is trying to establish a supplier relationship with a parts manufacturer in a small Asian country. Filipe, the purchasing manager, is attempting to get to know the general manager and staff of the company to help finalize the agreement. Filipe is attempting to overcome what type of barrier?",
+      "number":31,
+      "a":"physical barrier",
+      "b":"tariff restriction",
+      "c":"exchange controls",
+      "d":"cultural barrier",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are social and cultural barriers EXCEPT ________.",
+      "number":32,
+      "a":"language",
+      "b":"currency shifts",
+      "c":"religious attitudes",
+      "d":"gift-giving traditions",
+      "ans":"b"
+   },
+   {  
+      "question":"Maria is the Middle Eastern sales manager for a large company. She avoids giving pork products and wine to Arab customers as gifts. Maria is being sensitive to ________.",
+      "number":33,
+      "a":"religious differences",
+      "b":"language differences",
+      "c":"differences in consumer habits",
+      "d":"differences in business practices",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following constitute a country’s infrastructure EXCEPT ________.",
+      "number":34,
+      "a":"political climate",
+      "b":"communication",
+      "c":"energy facilities",
+      "d":"transportation",
+      "ans":"a"
+   },
+   {  
+      "question":"Patents, trademarks, and intellectual property are important concerns in the ___________ environment.",
+      "number":35,
+      "a":"economic",
+      "b":"political",
+      "c":"cultural",
+      "d":"legal",
+      "ans":"d"
+   },
+   {  
+      "question":"The Foreign Corrupt Practices Act:",
+      "number":36,
+      "a":"prescribes fines and jail times for U.S. managers who are aware of bribe activity",
+      "b":"funds projects that build or expand a nation’s infrastructure",
+      "c":"mediates trade disputes among trade agreement member nations",
+      "d":"promotes trade through financial cooperation",
+      "ans":"a"
+   },
+   {  
+      "question":"The hypothetical country of Eurica is experiencing severe competition to its domestic auto industry in the form of foreign imports. Many jobs are threatened. Eurica places a 25 percent tariff on the price of imported cars. This type of tariff is known as a(n) ________ tariff.",
+      "number":37,
+      "a":"revenue",
+      "b":"quota",
+      "c":"infant industry",
+      "d":"protective",
+      "ans":"d"
+   },
+   {  
+      "question":"The purpose of __________ is to make imports more expensive for domestic buyers.",
+      "number":38,
+      "a":"exchange controls",
+      "b":"embargos",
+      "c":"dumping",
+      "d":"tariffs",
+      "ans":"d"
+   },
+   {  
+      "question":"A country raises the tariff on imported cheese in order to increase its price above the price of domestically produced cheese. This is an example of ________.",
+      "number":39,
+      "a":"an exchange control",
+      "b":"an import quota",
+      "c":"a protective tariff",
+      "d":"dumping",
+      "ans":"c"
+   },
+   {  
+      "question":"Tyra spent a two-week vacation in Italy and purchased more than $1,000 worth of Venetian glass. Upon returning to the United States, she was required to pay a ________ on the items.",
+      "number":40,
+      "a":"protective tariff",
+      "b":"revenue tariff",
+      "c":"customs tax",
+      "d":"exchange rate tax",
+      "ans":"b"
+   },
+   {  
+      "question":"_________ are a common trade restriction imposed by the government on agricultural products.",
+      "number":41,
+      "a":"Exchange controls devaluation",
+      "b":"Embargos",
+      "c":"Quotas",
+      "d":"Foreign trade zone",
+      "ans":"c"
+   },
+   {  
+      "question":"The objective of an import quota is to ________.",
+      "number":42,
+      "a":"prevent dumping",
+      "b":"raise revenue for the government",
+      "c":"ban the importation of certain goods",
+      "d":"protect domestic industries",
+      "ans":"a"
+   },
+   {  
+      "question":"A foreign-made household appliance is popular and is highly competitive with the same product manufactured domestically. To give the domestic industry a better chance to operate profitably, the government restricts the number of these appliances that can be imported by applying a(n) ________.",
+      "number":43,
+      "a":"import quota",
+      "b":"embargo",
+      "c":"protective tariff",
+      "d":"revenue tariff",
+      "ans":"a"
+   },
+   {  
+      "question":"If a foreign company offers steel in the United States below the company’s cost of production, the company might be accused of ________.",
+      "number":44,
+      "a":"protective tariffs",
+      "b":"dumping",
+      "c":"a managed trade agreement",
+      "d":"an import quota",
+      "ans":"b"
+   },
+   {  
+      "question":"Dumping _________ domestic consumers and _________ domestic producers.",
+      "number":45,
+      "a":"harms, benefits",
+      "b":"harms, harms",
+      "c":"benefits, harms",
+      "d":"benefits, benefits",
+      "ans":"c"
+   },
+   {  
+      "question":"The hypothetical country of Austrica requires foreign companies that buy and sell Austrica products to use only Austrica currency in these transactions. Austrica is using ________ as a means of controlling international trade.",
+      "number":46,
+      "a":"governmentally granted rights",
+      "b":"exchange control",
+      "c":"international currency trading",
+      "d":"local banks",
+      "ans":"b"
+   },
+   {  
+      "question":"Decisions made by the ___________ regarding trade disputes are binding on the parties involved.",
+      "number":47,
+      "a":"North American Free Trade Agreement (NAFTA)",
+      "b":"International Monetary Fund (IMF)",
+      "c":"World Bank",
+      "d":"General Agreement on Tariffs and Trade (GATT)",
+      "ans":"d"
+   },
+   {  
+      "question":"A less-developed country wants to build new port facilities, which will allow it to increase agricultural exports. Financing for this project could come from the ________.",
+      "number":48,
+      "a":"International Monetary Fund",
+      "b":"World Trade Organization",
+      "c":"World Bank",
+      "d":"United Nations",
+      "ans":"c"
+   },
+   {  
+      "question":"A less-developed nation is facing a financial crisis due to the rapid devaluation of its currency. Which of the following might aid this country?",
+      "number":49,
+      "a":"International Monetary Fund",
+      "b":"World Bank",
+      "c":"United Nations",
+      "d":"World Trade Organization",
+      "ans":"a"
+   },
+   {  
+      "question":"One effect of the North American Free Trade Agreement (NAFTA) is:",
+      "number":50,
+      "a":"an increase in trade among the NAFTA member nations",
+      "b":"an increase in the number of low-wage jobs in the United States",
+      "c":"a decrease in trade among NAFTA member nations",
+      "d":"an increase in trade restrictions among the member nations",
+      "ans":"a"
+   },
+   {  
+      "question":"The ________ promotes trade by providing financial assistance and waiving debt payments.",
+      "number":51,
+      "a":"United Nations",
+      "b":"European Union",
+      "c":"World Bank",
+      "d":"International Monetary Fund",
+      "ans":"d"
+   },
+   {  
+      "question":"A major concern of labor unions regarding trade agreements is:",
+      "number":52,
+      "a":"loss of U.S. jobs",
+      "b":"higher prices on imported goods",
+      "c":"a decrease in U.S. exports",
+      "d":"a decrease in U.S. imports",
+      "ans":"c"
+   },
+   {  
+      "question":"The European Union (EU) ________.",
+      "number":53,
+      "a":"recently became part of the North American Free Trade Agreement",
+      "b":"wants to promote European citizenship as a complement to national citizenship",
+      "c":"made trade with the United States more difficult",
+      "d":"introduced the euro to coincide with each country’s own currency",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following are part of the European community’s plan to eliminate all barriers to free trade among its members with the exception of ________.",
+      "number":54,
+      "a":"legal systems being standardized",
+      "b":"custom checks being eliminated",
+      "c":"trade duties and value-added taxes being standardized",
+      "d":"business regulation and requirements being standardized",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is the first step in the decision for a business to expand globally?",
+      "number":55,
+      "a":"determining which foreign markets to enter",
+      "b":"determining how much it will cost to enter a new market",
+      "c":"deciding how to organize the overseas operations",
+      "d":"applying for special export credits",
+      "ans":"a"
+   },
+   {  
+      "question":"The most common first step in engaging in international business is ____________.",
+      "number":56,
+      "a":"countertrade",
+      "b":"foreign licensing",
+      "c":"indirect exporting",
+      "d":"direct exporting",
+      "ans":"c"
+   },
+   {  
+      "question":"Berry Corp. sells microprocessors to an electronic equipment manufacturer in this country who then sells equipment containing the microprocessors to Japan. Berry Corp. is engaging in ________.",
+      "number":57,
+      "a":"international production",
+      "b":"foreign licensing",
+      "c":"countertrade",
+      "d":"indirect exporting",
+      "ans":"d"
+   },
+   {  
+      "question":"Amit, CEO of Charter Chemical, has recognized the financial opportunities in China. Amit has hired a foreign freight forwarder to coordinate selling Charter Chemical’s products outside the United States. Charter Chemical is now involved in ________.",
+      "number":58,
+      "a":"overseas marketing",
+      "b":"international production",
+      "c":"direct exporting",
+      "d":"foreign licensing",
+      "ans":"c"
+   },
+   {  
+      "question":"A U.S. agricultural producer sells wheat to a small country in Africa. The country pays the U.S. firm in seafood. This is an example of ________.",
+      "number":59,
+      "a":"countertrade",
+      "b":"direct exporting",
+      "c":"foreign licensing",
+      "d":"international production",
+      "ans":"a"
+   },
+   {  
+      "question":"A Canadian software company that specializes in developing computer games enters into an agreement with a Japanese software company. Under this agreement, the Japanese firm has the right to manufacture and sell the Canadian firm’s games in Japan. This agreement is an example of ________.",
+      "number":60,
+      "a":"countertrade",
+      "b":"foreign licensing",
+      "c":"international production",
+      "d":"direct exporting",
+      "ans":"b"
+   },
+   {  
+      "question":"Speedy Lube enters into a contract with a foreign company to produce and distribute its products in a specific geographic area. Speedy Lube is involved in ________.",
+      "number":61,
+      "a":"foreign licensing",
+      "b":"countertrade",
+      "c":"international production",
+      "d":"direct exporting",
+      "ans":"a"
+   },
+   {  
+      "question":"An American company that makes plastic garden furniture wants to market its products in a foreign country that has a high tariff barrier against imported plastic goods. One way the company can get around this problem is to ________.",
+      "number":62,
+      "a":"hire an export management team",
+      "b":"violate the Foreign Corrupt Practices Act",
+      "c":"enter into a licensing agreement with companies within the foreign country to produce the furniture there",
+      "d":"submit a complaint to the U.S. Department of Commerce",
+      "ans":"c"
+   },
+   {  
+      "question":"BMW and Toyota set up a factory in Brazil to produce minivans. Slightly different minivan versions are sold in Brazil—one as a Toyota and one as a BMW. This is an example of ________.",
+      "number":63,
+      "a":"a joint venture",
+      "b":"direct exporting",
+      "c":"foreign licensing",
+      "d":"countertrade",
+      "ans":"a"
+   },
+   {  
+      "question":"A venture capital firm funds promising British and Irish start-up companies. This is an example of ________.",
+      "number":64,
+      "a":"a licensing agreement",
+      "b":"subcontracting",
+      "c":"a direct investment",
+      "d":"a joint venture",
+      "ans":"c"
+   },
+   {  
+      "question":"By allowing a company to purchase another existing firm in the host country, a(n) ________ permits a largely domestic business to gain an international presence very quickly.",
+      "number":65,
+      "a":"joint venture",
+      "b":"foreign licensing agreement",
+      "c":"counter trade",
+      "d":"acquisition",
+      "ans":"d"
+   },
+   {  
+      "question":"Which country features the most multinational corporations?",
+      "number":66,
+      "a":"United States",
+      "b":"Japan",
+      "c":"Britain",
+      "d":"Canada",
+      "ans":"a"
+   },
+   {  
+      "question":"Ford Motor Company is merging its individual operation into one so that it can use a standardized product and marketing strategy worldwide. This strategy can best be described as a(n) ________.",
+      "number":67,
+      "a":"international marketing strategy",
+      "b":"orderly marketing strategy",
+      "c":"global strategy",
+      "d":"multidomestic strategy",
+      "ans":"c"
+   },
+   {  
+      "question":"The Coca-Cola Company designs its ads around the world to emphasize a common theme. These ads are adapted only slightly for local markets. Coca-Cola is using which of the following strategies in its international operations?",
+      "number":68,
+      "a":"global strategy",
+      "b":"host country strategy",
+      "c":"uniform pricing strategy",
+      "d":"multidomestic strategy",
+      "ans":"a"
+   },
+   {  
+      "question":"When firms develop products and marketing strategies that appeal to the customer tastes and buying habits of particular national markets, they are using a ________.",
+      "number":69,
+      "a":"global strategy",
+      "b":"free trade strategy",
+      "c":"uniform strategy",
+      "d":"multidomestic strategy",
+      "ans":"d"
+   },
+   {  
+      "question":"Film distributors sometimes change movie titles when marketing overseas due to language or slang barriers. Studios usually allow modification of its product as part of a ________ strategy.",
+      "number":70,
+      "a":"multinational",
+      "b":"global",
+      "c":"multidomestic business",
+      "d":"uniform",
+      "ans":"c"
+   },
+   {  
+      "question":"Companies such as Dell Computer adapt their Web sites to specific countries. These companies are following a(n) ________ strategy.",
+      "number":71,
+      "a":"international marketing",
+      "b":"orderly marketing",
+      "c":"global",
+      "d":"multidomestic",
+      "ans":"d"
+   }
+]

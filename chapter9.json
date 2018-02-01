@@ -1,0 +1,515 @@
+[  
+   {  
+      "question":"Giving employees responsibility and authority to make decisions about their work is called ________.",
+      "number":0,
+      "a":"communication",
+      "b":"teamwork",
+      "c":"empowerment",
+      "d":"top-down management",
+      "ans":"c"
+   },
+   {  
+      "question":"Rajendra's company uses open book management, where employees can visit the company intranet and look up financial performance, design standards, and photos of coworkers. This sharing of information will ________ in employee empowerment and will have ________ on product quality.",
+      "number":1,
+      "a":"result; no impact",
+      "b":"result; a positive impact",
+      "c":"not result; no impact",
+      "d":"not result; a positive impact",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following are used to empower employees EXCEPT ________.",
+      "number":2,
+      "a":"giving them decision-making authority about company relocation",
+      "b":"rewarding them based on company perfor-mance",
+      "c":"giving them decision-making authority about hiring decisions",
+      "d":"sharing company information",
+      "ans":"a"
+   },
+   {  
+      "question":"In many companies, shared decision-making authority extends to all of the following EXCEPT ________.",
+      "number":3,
+      "a":"purchasing supplies",
+      "b":"determining individual working hours",
+      "c":"overseeing the safety program",
+      "d":"selecting members of the board of directors",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements is correct regarding stock option plans?",
+      "number":4,
+      "a":"They are offered only to top-level executives and members of the board of directors.",
+      "b":"If the stock price increases, employees are likely to exercise their option to purchase the stock.",
+      "c":"The company holds the stock for the benefit of the employees.",
+      "d":"Stock options are provided as a retirement benefit.",
+      "ans":"b"
+   },
+   {  
+      "question":"With __________, employees receive stock shares or the value of the stock upon retiring or leaving the company.",
+      "number":5,
+      "a":"treasury bills",
+      "b":"stock certificates",
+      "c":"ESOPs",
+      "d":"stock options",
+      "ans":"d"
+   },
+   {  
+      "question":"A team consists of a group of people with ________ skills and ________ are responsible and accountable for accomplishing team objectives.",
+      "number":6,
+      "a":"complementary; all team members",
+      "b":"complementary; team leaders",
+      "c":"differing; all team members",
+      "d":"differing; team leaders",
+      "ans":"a"
+   },
+   {  
+      "question":"When Toyota was faced with serious quality problems and was forced to recall thousands of vehicles, the company quickly formed a temporary group of employees to brainstorm the problem. This is an example of a(n) _______ team.",
+      "number":7,
+      "a":"virtual",
+      "b":"self-managed",
+      "c":"problem-solving",
+      "d":"cross-functional",
+      "ans":"c"
+   },
+   {  
+      "question":"Jahn is a member of a semi-permanent team that performs the day-to-day functions of the organization. Jahn is a member of a(n) ________ team.",
+      "number":8,
+      "a":"self-managed",
+      "b":"work",
+      "c":"problem-solving",
+      "d":"cross-functional",
+      "ans":"b"
+   },
+   {  
+      "question":"Danielle belongs to a team that meets using information technology because they are dispersed across the country. Danielle belongs to a ________ team.",
+      "number":9,
+      "a":"problem-solving",
+      "b":"self-managed",
+      "c":"cross-functional",
+      "d":"virtual",
+      "ans":"d"
+   },
+   {  
+      "question":"Javier works for a home electronics store and is a member of a team created to increase communication among various departments. Javier has networked with new people and now has strong contacts for each department when he needs them. Javier is a member of a ________ team.",
+      "number":10,
+      "a":"work",
+      "b":"problem-solving",
+      "c":"cross-functional",
+      "d":"virtual",
+      "ans":"c"
+   },
+   {  
+      "question":"Faith works in the bakery at Whole Foods Market. As part of a ________ team, she shares in the responsibility with other team members of managing her department’s work schedule and ordering baking supplies.",
+      "number":11,
+      "a":"self-managed",
+      "b":"problem-solving",
+      "c":"virtual",
+      "d":"cross-functional",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following statements concerning team size are correct EXCEPT:",
+      "number":12,
+      "a":"Small teams make the most demands on team leaders.",
+      "b":"Large teams often suffer from disagreements, absenteeism, and membership turnover.",
+      "c":"Small teams may lack sufficient diversity.",
+      "d":"Large teams tend to work slower than small teams.",
+      "ans":"a"
+   },
+   {  
+      "question":"According to research on team effectiveness, the ideal team size is ________ members.",
+      "number":13,
+      "a":"fewer than five",
+      "b":"between five and ten",
+      "c":"between ten and twenty",
+      "d":"more than twenty",
+      "ans":"b"
+   },
+   {  
+      "question":"Teams at Google come from many different countries, with skills ranging from creativity to communication to search engine optimization. This is an example of team ____________.",
+      "number":14,
+      "a":"development",
+      "b":"cohesiveness",
+      "c":"diversity",
+      "d":"level",
+      "ans":"c"
+   },
+   {  
+      "question":"During the forming stage, what is the role of the team leader?",
+      "number":15,
+      "a":"providing time for members to become acquainted",
+      "b":"encouraging participation",
+      "c":"clarifying team roles",
+      "d":"facilitating task accomplishment",
+      "ans":"a"
+   },
+   {  
+      "question":"Which stage of team development is marked by conflicts over the team's mission and the roles of team members?",
+      "number":16,
+      "a":"norming stage",
+      "b":"forming stage",
+      "c":"performing stage",
+      "d":"storming stage",
+      "ans":"d"
+   },
+   {  
+      "question":"During which stage of team development does agreement about the role of the team leader and other participants occur?",
+      "number":17,
+      "a":"Forming stage",
+      "b":"Norming stage",
+      "c":"Storming stage",
+      "d":"Performing stage",
+      "ans":"b"
+   },
+   {  
+      "question":"During the performing stage, team members ________.",
+      "number":18,
+      "a":"focus on solving problems",
+      "b":"get to know one another",
+      "c":"clarify their roles and expectations",
+      "d":"resolve differences among them",
+      "ans":"a"
+   },
+   {  
+      "question":"Jason’s team has reached agreement about the role each member is expected to play. Jason's team has reached the ________ stage.",
+      "number":19,
+      "a":"forming",
+      "b":"norming",
+      "c":"storming",
+      "d":"performing",
+      "ans":"b"
+   },
+   {  
+      "question":"Zoe is the leader of a problem-solving team. She is encouraging every member of the team to openly express differences and work through conflicts. Zoe's team is likely in the ________ stage.",
+      "number":20,
+      "a":"norming",
+      "b":"performing",
+      "c":"storming",
+      "d":"forming",
+      "ans":"c"
+   },
+   {  
+      "question":"Ingrid’s team is engaged in problem solving and appears focused on accomplishing tasks. Ingrid's team is likely in which stage?",
+      "number":21,
+      "a":"forming stage",
+      "b":"norming stage",
+      "c":"storming stage",
+      "d":"performing stage",
+      "ans":"d"
+   },
+   {  
+      "question":"At a celebratory gathering in a restaurant, Nicholas presents his team members with personal thank-you notes in appreciation for their hard work on a project. Nicholas and his team are in the ________ stage of team development.",
+      "number":22,
+      "a":"adjourning",
+      "b":"performing",
+      "c":"norming",
+      "d":"storming",
+      "ans":"a"
+   },
+   {  
+      "question":"Mya’s team members feel attracted to the team and motivated to remain part of it. Mya’s team can be characterized as ________ .",
+      "number":23,
+      "a":"informal",
+      "b":"formal",
+      "c":"verbal",
+      "d":"cohesive",
+      "ans":"d"
+   },
+   {  
+      "question":"Vanessa wants to encourage interaction among her team members and is planning to move to an open office space without cubicle walls. Vanessa is trying to promote ________.",
+      "number":24,
+      "a":"empowerment",
+      "b":"team norm",
+      "c":"team cohesiveness",
+      "d":"external communication",
+      "ans":"c"
+   },
+   {  
+      "question":"Pin-yuan is trying to promote the cohesiveness of his team. Which of the following would LEAST likely improve his team's cohesiveness?",
+      "number":25,
+      "a":"encouraging his team members to work from home",
+      "b":"redesigning their work space",
+      "c":"increasing the interaction between team members",
+      "d":"encouraging team members to socialize during and after working hours",
+      "ans":"a"
+   },
+   {  
+      "question":"Samuel’s company has an unwritten rule that implies all managers must attend team meetings, no matter what projects they’re working on. This informal standard of conduct is an example of team ________.",
+      "number":26,
+      "a":"roles",
+      "b":"norm",
+      "c":"cohesiveness",
+      "d":"conflict",
+      "ans":"b"
+   },
+   {  
+      "question":"Greg is an operating room nurse and notices the head surgeon is exhausted and disoriented. Greg decides to speak up, even though his actions defy the team ________ that surgeons outrank nurses.",
+      "number":27,
+      "a":"theory",
+      "b":"belief",
+      "c":"norm",
+      "d":"standard",
+      "ans":"c"
+   },
+   {  
+      "question":"Team norms are ________ and ________ standards of behavior.",
+      "number":28,
+      "a":"formal; written",
+      "b":"informal; written",
+      "c":"formal; unwritten",
+      "d":"informal; unwritten",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements is correct regarding team conflict?",
+      "number":29,
+      "a":"It should be avoided at all costs.",
+      "b":"It often improves team performance.",
+      "c":"It will be reduced if the team is diverse.",
+      "d":"It rarely occurs in most teams.",
+      "ans":"b"
+   },
+   {  
+      "question":"Angie’s marketing team disagrees on the way to advertise a product based on their past experiences. However, all members are attempting to reconcile their differences to produce an effective marketing strategy. Angie’s team is experiencing ________ conflict.",
+      "number":30,
+      "a":"cognitive",
+      "b":"mutual",
+      "c":"internal",
+      "d":"affective",
+      "ans":"a"
+   },
+   {  
+      "question":"Steve and Renee are city council members who vehemently disagree over a new zoning ordinance. Their arguments have become personal, and other council members are irritated and avoiding meetings. Steve and Renee need to resolve their ________ conflict.",
+      "number":31,
+      "a":"cognitive",
+      "b":"mutual",
+      "c":"affective",
+      "d":"internal",
+      "ans":"c"
+   },
+   {  
+      "question":"________ percent of the typical manager's day is spent engaged in communications.",
+      "number":32,
+      "a":"Less than 25",
+      "b":"About 50",
+      "c":"About 75",
+      "d":"More than 75",
+      "ans":"d"
+   },
+   {  
+      "question":"The communication _______ composes the message.",
+      "number":33,
+      "a":"sender",
+      "b":"receiver",
+      "c":"channel",
+      "d":"context",
+      "ans":"a"
+   },
+   {  
+      "question":"Jeremy announced to his accounting team that the company’s financial reports should be completed “by next week.” Subsequently, members of his team had completely different ideas about when the reports were due. At which stage of communication are the team members?",
+      "number":34,
+      "a":"providing feedback",
+      "b":"message encoding",
+      "c":"understanding the context",
+      "d":"message decoding",
+      "ans":"d"
+   },
+   {  
+      "question":"Amanda sends an e-mail to her assistant requesting information for an upcoming meeting. Since her team is working on a variety of projects, Amanda is very specific about the materials she needs in order to avoid confusion. As the sender, is Amanda is ________ .",
+      "number":35,
+      "a":"providing a context for the message",
+      "b":"encoding the message",
+      "c":"decoding the message",
+      "d":"eliminating the message's noise",
+      "ans":"b"
+   },
+   {  
+      "question":"Lisa works for an advertising agency and has presented her client with ideas for new commercials. After the presentation Lisa asks for ________ to determine if the clients correctly understood her message.",
+      "number":36,
+      "a":"a decoded message",
+      "b":"a channel",
+      "c":"feedback",
+      "d":"less noise",
+      "ans":"c"
+   },
+   {  
+      "question":"Feedback ________.",
+      "number":37,
+      "a":"helps determine whether a message was correctly interpreted",
+      "b":"is generally verbal in nature",
+      "c":"is usually ambiguous",
+      "d":"helps lower the noise level",
+      "ans":"a"
+   },
+   {  
+      "question":"Countries like the United States which tend to rely on explicit written and verbal messages are considered ________ cultures",
+      "number":38,
+      "a":"external",
+      "b":"diverse",
+      "c":"high-context",
+      "d":"low-context",
+      "ans":"d"
+   },
+   {  
+      "question":"Japan is considered to be a ________ context country and thus, Japanese businesspeople place importance on ________ communications.",
+      "number":39,
+      "a":"high; both verbal and nonverbal",
+      "b":"low; both verbal and nonverbal",
+      "c":"high; explicit verbal",
+      "d":"low; explicit verbal",
+      "ans":"a"
+   },
+   {  
+      "question":"Evan is listening to a voice message left by his manager, but he cannot understand most of it due to his manager’s cell phone breaking up. Evan calls back his manager for the complete message since he cannot effectively communicate with this type of ________.",
+      "number":40,
+      "a":"grapevine",
+      "b":"noise",
+      "c":"nonverbal communication",
+      "d":"conflict",
+      "ans":"b"
+   },
+   {  
+      "question":"William is listening to one of his fellow team members speak at a meeting. He believes she is just trying to get the team leader to adopt her idea. William is being a(n) ________ listener.",
+      "number":41,
+      "a":"offensive",
+      "b":"cynical",
+      "c":"polite",
+      "d":"non",
+      "ans":"b"
+   },
+   {  
+      "question":"Deni uses lots of gestures and facial expressions when communicating. These are examples of _____________ communication.",
+      "number":42,
+      "a":"informal",
+      "b":"oral",
+      "c":"formal",
+      "d":"nonverbal",
+      "ans":"d"
+   },
+   {  
+      "question":"Ekisa and Ingrid like to send e-mail back and forth discussing their families and work-related issues. They are engaging in ________ and ________ communication.",
+      "number":43,
+      "a":"informal; written",
+      "b":"informal; oral",
+      "c":"formal; written",
+      "d":"formal; oral",
+      "ans":"a"
+   },
+   {  
+      "question":"________ listening is the basis for effective communication.",
+      "number":44,
+      "a":"Active",
+      "b":"Cynical",
+      "c":"Polite",
+      "d":"Nonverbal",
+      "ans":"a"
+   },
+   {  
+      "question":"Office e-mails are a form of ________ communication.",
+      "number":45,
+      "a":"informal",
+      "b":"written",
+      "c":"formal",
+      "d":"nonverbal",
+      "ans":"b"
+   },
+   {  
+      "question":"What is considered to be the biggest problem with email as a form of business communication?",
+      "number":46,
+      "a":"using company email to send personal messages",
+      "b":"e-mail is too informal for companies to convey a professional image",
+      "c":"e-mail technology is still limited",
+      "d":"too much email",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are examples of formal communication EXCEPT ________.",
+      "number":47,
+      "a":"the employee benefits handbook",
+      "b":"a telephone call with a customer",
+      "c":"the grapevine",
+      "d":"a letter to a supplier",
+      "ans":"c"
+   },
+   {  
+      "question":"Lucia is a manager who regularly communicates company news with her employees via e-mail. This is an example of a(n) ________ communication channel.",
+      "number":48,
+      "a":"formal",
+      "b":"informal",
+      "c":"nonverbal",
+      "d":"oral",
+      "ans":"a"
+   },
+   {  
+      "question":"Concerning the grapevine, all of the following statements are correct EXCEPT:",
+      "number":49,
+      "a":"The grapevine is a frequent source of information for employees.",
+      "b":"Grapevines convey information rapidly.",
+      "c":"The grapevine is an informal communication channel.",
+      "d":"Information on the grapevine is wrong most of the time.",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are examples of nonverbal communication EXCEPT ________.",
+      "number":50,
+      "a":"informal speech",
+      "b":"eye contact",
+      "c":"clothing choices",
+      "d":"tone of voice",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is considered an upward communication channel?",
+      "number":51,
+      "a":"completing an employee survey",
+      "b":"giving employees policy manuals",
+      "c":"posting notices on bulletin boards",
+      "d":"reporting news in company newsletters",
+      "ans":"a"
+   },
+   {  
+      "question":"Two people are having a conversation and are standing about six feet apart. What zone are they in?",
+      "number":52,
+      "a":"public zone",
+      "b":"social zone",
+      "c":"personal zone",
+      "d":"intimate zone",
+      "ans":"b"
+   },
+   {  
+      "question":"In the United States, most business conversations occur within which zone?",
+      "number":53,
+      "a":"intimate zone",
+      "b":"personal zone",
+      "c":"public zone",
+      "d":"social zone",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are examples of external communications EXCEPT:",
+      "number":54,
+      "a":"annual reports to stockholders",
+      "b":"e-mails sent to sales representatives",
+      "c":"sales presentations",
+      "d":"information presented on a company's Web site",
+      "ans":"b"
+   },
+   {  
+      "question":"________ communication with customers should create goodwill and contribute to customer satisfaction.",
+      "number":55,
+      "a":"every",
+      "b":"written",
+      "c":"external",
+      "d":"formal",
+      "ans":"a"
+   },
+   {  
+      "question":"What is the first step a company should do when responding to a crisis?",
+      "number":56,
+      "a":"call or email members of the press to deny the story",
+      "b":"issue a “no comment”",
+      "c":"respond quickly with a prepared statement",
+      "d":"arrange a press conference with the compa-ny’s PR representative",
+      "ans":"c"
+   }
+]

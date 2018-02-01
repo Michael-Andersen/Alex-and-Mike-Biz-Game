@@ -5,7 +5,7 @@
         "Uid" => "system",
         "PWD" => "2Isitclear2"
           );
-if($_SESSION['score'] > $_SESSION['highscore']) {
+if($_POST['score'] > $_SESSION['highscore']) {
     
 
     $conn = sqlsrv_connect($serverName, $connectionOptions);
@@ -16,7 +16,7 @@ if( $conn ) {
      die( print_r( sqlsrv_errors(), true));
 }
 $sql = "UPDATE Ppl SET highScore = ? WHERE username = ?";
-$params = array($_SESSION['score'], $_SESSION['username']);
+$params = array($_POST['score'], $_SESSION['username']);
 $stmt = sqlsrv_query($conn, $sql, $params);
 if( $stmt === false ) {
      die( print_r( sqlsrv_errors(), true));

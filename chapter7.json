@@ -1,0 +1,857 @@
+[  
+   {  
+      "question":"Management is the process of achieving ________ through people and other resources.",
+      "number":0,
+      "a":"Profits",
+      "b":"societal objectives",
+      "c":"Status",
+      "d":"organizational objectives",
+      "ans":"d"
+   },
+   {  
+      "question":"Lupe’s job duties include such tasks as deciding whether or not to introduce a new product or enter a new foreign market. Lupe is most likely a member of ________ management.",
+      "number":1,
+      "a":"Middle",
+      "b":"Top",
+      "c":"supervisory",
+      "d":"Line",
+      "ans":"b"
+   },
+   {  
+      "question":"Which level of management includes job titles such as general manager, division manager, or plant manager?",
+      "number":2,
+      "a":"middle management",
+      "b":"supervisory management",
+      "c":"top management",
+      "d":"staff management",
+      "ans":"a"
+   },
+   {  
+      "question":"Jackie is a manager who spends most of her time in day-to-day decisions assigning non-managerial employees to specific jobs. Jackie is considered a ________ manager.",
+      "number":3,
+      "a":"Staff",
+      "b":"technical",
+      "c":"supervisory",
+      "d":"mid-level",
+      "ans":"c"
+   },
+   {  
+      "question":"As someone moves up the managerial hierarchy, which skills become relatively more important?",
+      "number":4,
+      "a":"technical skills",
+      "b":"human skills",
+      "c":"conceptual skills",
+      "d":"supervisory skills",
+      "ans":"c"
+   },
+   {  
+      "question":"Most top executives began their careers as which type of expert?",
+      "number":5,
+      "a":"technical",
+      "b":"financial",
+      "c":"human relations",
+      "d":"marketing",
+      "ans":"a"
+   },
+   {  
+      "question":"First-line managers interact continuously with members of the work team. Therefore, they must possess effective ________ skills.",
+      "number":6,
+      "a":"visionary",
+      "b":"Human",
+      "c":"conceptual",
+      "d":"technical",
+      "ans":"b"
+   },
+   {  
+      "question":"Human skills involve ________.",
+      "number":7,
+      "a":"directing and controlling operations",
+      "b":"understanding knowledge and tools of a specific discipline",
+      "c":"leading and motivating workers",
+      "d":"seeing the organization as a unified whole",
+      "ans":"c"
+   },
+   {  
+      "question":"When Carla instructs new employees on handling customer complaints, she motivates them to respond with patience and a positive attitude. Carla has effective ________ skills.",
+      "number":8,
+      "a":"Human",
+      "b":"conceptual",
+      "c":"intuitive",
+      "d":"visionary",
+      "ans":"a"
+   },
+   {  
+      "question":"Tate, president of Progressive Graphics, is highly respected for his ability to analyze and interpret trends in the rapidly changing graphics industry. Tate has effective ________ skills.",
+      "number":9,
+      "a":"human relations",
+      "b":"technical",
+      "c":"conceptual",
+      "d":"supervisory",
+      "ans":"c"
+   },
+   {  
+      "question":"Hasim is a bank manager who believes his bank should expand nationally for greater profit and efficiency. Hasim is using his ________ skills.",
+      "number":10,
+      "a":"supervisory",
+      "b":"conceptual",
+      "c":"Human",
+      "d":"technical",
+      "ans":"b"
+   },
+   {  
+      "question":"Conceptual skills are ________.",
+      "number":11,
+      "a":"not as important at the top management level",
+      "b":"most important for supervisors",
+      "c":"used to motivate, communicate, and lead other employees",
+      "d":"skills that allow a person to understand how all the pieces of an organization fit together to accomplish its objectives",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the four functions of management creates a well-designed road map of the actions needed to lead a company forward?",
+      "number":12,
+      "a":"organizing",
+      "b":"directing",
+      "c":"controlling",
+      "d":"planning",
+      "ans":"d"
+   },
+   {  
+      "question":"Damien is working on a project where he needs to anticipate future events and conditions, as well as avoid costly mistakes. Damien is engaged in the ________ managerial function.",
+      "number":13,
+      "a":"controlling",
+      "b":"planning",
+      "c":"organizing",
+      "d":"directing",
+      "ans":"b"
+   },
+   {  
+      "question":"Rosetta classifies and divides work into manageable units by determining the specific tasks necessary to introduce a new product. Rosetta is involved in the ________ managerial function.",
+      "number":14,
+      "a":"organizing",
+      "b":"controlling",
+      "c":"directing",
+      "d":"planning",
+      "ans":"a"
+   },
+   {  
+      "question":"Marcus is responsible for guiding and motivating 10 other employees to accomplish various organizational objectives. Marcus handles the ________ managerial function.",
+      "number":15,
+      "a":"planning",
+      "b":"organizing",
+      "c":"directing",
+      "d":"controlling",
+      "ans":"c"
+   },
+   {  
+      "question":"Ramon’s job is to establish performance standards, monitor actual performance, and compare actual performance to the standards. Ramon is engaged in the ________ managerial function.",
+      "number":16,
+      "a":"directing",
+      "b":"controlling",
+      "c":"organizing",
+      "d":"planning",
+      "ans":"b"
+   },
+   {  
+      "question":"________ is a perception of marketplace needs and the methods an organization can use to satisfy them.",
+      "number":17,
+      "a":"Vision",
+      "b":"Strategic planning",
+      "c":"Strategic management",
+      "d":"The organizing function",
+      "ans":"a"
+   },
+   {  
+      "question":"Kiki strongly believes that college students need credit counseling, so she begins a not-for-profit organization devoted to this need. Kiki is exhibiting ________.",
+      "number":18,
+      "a":"strategic planning",
+      "b":"the organizing function of management",
+      "c":"Vision",
+      "d":"strategic management",
+      "ans":"c"
+   },
+   {  
+      "question":"Daily and weekly plans, rules, and procedures for each department are examples of which type of planning?",
+      "number":19,
+      "a":"tactical planning",
+      "b":"strategic planning",
+      "c":"operational planning",
+      "d":"contingency planning",
+      "ans":"c"
+   },
+   {  
+      "question":"Generally, which type of manager establishes the company’s vision?",
+      "number":20,
+      "a":"supervisory managers",
+      "b":"staff managers",
+      "c":"middle managers",
+      "d":"top management",
+      "ans":"d"
+   },
+   {  
+      "question":"Vision should be ________ and ________.",
+      "number":21,
+      "a":"rigid; focused",
+      "b":"rigid; broad",
+      "c":"focused; flexible",
+      "d":"flexible; broad",
+      "ans":"c"
+   },
+   {  
+      "question":"________ planning guides the current and near-term activities required to implement overall strategies.",
+      "number":22,
+      "a":"Contingency",
+      "b":"Tactical",
+      "c":"Strategic",
+      "d":"Operational",
+      "ans":"b"
+   },
+   {  
+      "question":"Which type of planning determines the primary objectives of an organization, and then acts and allocates resources to achieve those objectives?",
+      "number":23,
+      "a":"tactical planning",
+      "b":"strategic planning",
+      "c":"contingency planning",
+      "d":"operational planning",
+      "ans":"b"
+   },
+   {  
+      "question":"A petroleum refinery stockpiles crude oil so that it can easily switch between producing home heating oil and gasoline, depending on relative demand. This is an example of ________ planning.",
+      "number":24,
+      "a":"contingency",
+      "b":"Tactical",
+      "c":"strategic",
+      "d":"operational",
+      "ans":"c"
+   },
+   {  
+      "question":"By implementing a needed flight schedule between St. Louis and Chicago, Southwest Airlines was using ________ planning to complete its goals.",
+      "number":25,
+      "a":"contingency",
+      "b":"strategic",
+      "c":"operational",
+      "d":"Tactical",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following decisions was NOT directly the result of a company’s strategic planning?",
+      "number":26,
+      "a":"Pepsi’s decision to sell its fast-food restaurants and focus on soda and snack foods",
+      "b":"AOL’s decision to merge with Time Warner",
+      "c":"Jet Blue Airlines’ decision to add service to Oakland, California",
+      "d":"The decision by Amazon.com to expand its product offerings beyond books and music",
+      "ans":"c"
+   },
+   {  
+      "question":"When Tina reviews applications for a new position in finance, she is using ________ planning.",
+      "number":27,
+      "a":"operational",
+      "b":"contingency",
+      "c":"Tactical",
+      "d":"strategic",
+      "ans":"a"
+   },
+   {  
+      "question":"When John sets deadlines for an upcoming project, he is using ________ planning.",
+      "number":28,
+      "a":"operational",
+      "b":"Tactical",
+      "c":"strategic",
+      "d":"contingency",
+      "ans":"a"
+   },
+   {  
+      "question":"________ planning involves implementing activities specified by strategic plans.",
+      "number":29,
+      "a":"Financial",
+      "b":"Tactical",
+      "c":"Operational",
+      "d":"Contingency",
+      "ans":"b"
+   },
+   {  
+      "question":"Nearly a week before Hurricane Katrina reached New Orleans, Home Depot began moving trucks and supplies into position, as specified in the company’s ________ plan.",
+      "number":30,
+      "a":"Tactical",
+      "b":"strategic",
+      "c":"operational",
+      "d":"contingency",
+      "ans":"d"
+   },
+   {  
+      "question":"Minnesota & Iowa Railway has plans in place to reroute trains in the event that floods or other natural disasters close some of the railroad’s tracks. This is an example of ________ planning.",
+      "number":31,
+      "a":"contingency",
+      "b":"Tactical",
+      "c":"strategic",
+      "d":"operational",
+      "ans":"a"
+   },
+   {  
+      "question":"A home furnishing store issued a recall notice about a vase that easily cracks. Before the notice was publicly issued, the company had assembled a crisis management team to enact a(n) ________ plan.",
+      "number":32,
+      "a":"Tactical",
+      "b":"operational",
+      "c":"contingency",
+      "d":"strategic",
+      "ans":"c"
+   },
+   {  
+      "question":"Top management usually spends the majority of time on ________ plans.",
+      "number":33,
+      "a":"Tactical",
+      "b":"contingency",
+      "c":"strategic",
+      "d":"operational",
+      "ans":"c"
+   },
+   {  
+      "question":"Tactical planning is primarily the responsibility of ________.",
+      "number":34,
+      "a":"middle managers",
+      "b":"supervisory managers",
+      "c":"top managers",
+      "d":"the CEO",
+      "ans":"a"
+   },
+   {  
+      "question":"What is the first step in the strategic planning process?",
+      "number":35,
+      "a":"Create a mission statement.",
+      "b":"Monitor and adapt plans.",
+      "c":"Assess competitive position.",
+      "d":"Develop strategies for reaching objectives.",
+      "ans":"a"
+   },
+   {  
+      "question":"A written explanation of an organization’s business intentions and aims is called a(n) ________.",
+      "number":36,
+      "a":"objective",
+      "b":"mission statement",
+      "c":"SWOT analysis",
+      "d":"strategy for competitive differentiation",
+      "ans":"b"
+   },
+   {  
+      "question":"Mario is part of a strategic planning team. He has identified that his company is the low-cost producer in its industry. This should be listed on a SWOT analysis as a(n) ________.",
+      "number":37,
+      "a":"Threats",
+      "b":"weaknesses",
+      "c":"opportunity",
+      "d":"strength",
+      "ans":"d"
+   },
+   {  
+      "question":"Julian owns a bread company and is creating a SWOT analysis to see where he can make improvements and increase sales. All of the following are threats to the success of his company EXCEPT ________.",
+      "number":38,
+      "a":"economies of scale",
+      "b":"downturn in the economy",
+      "c":"regulatory changes",
+      "d":"enhanced competition",
+      "ans":"a"
+   },
+   {  
+      "question":"By using a(n) ________, Starbucks addressed the threat of fluctuating consumer trends by offering a variety of beverages and merchandise beyond coffee.",
+      "number":39,
+      "a":"mission statement",
+      "b":"Matrix",
+      "c":"SWOT analysis",
+      "d":"contingency plan",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is made up primarily of external factors?",
+      "number":40,
+      "a":"strengths",
+      "b":"Threats",
+      "c":"mission statement",
+      "d":"weaknesses",
+      "ans":"b"
+   },
+   {  
+      "question":"Serguis is a member of his firm’s strategic planning team. He has identified several untapped markets that exist in other countries. His observation should be listed as a(n) ________.",
+      "number":41,
+      "a":"opportunity",
+      "b":"weakness",
+      "c":"strength",
+      "d":"Threat",
+      "ans":"a"
+   },
+   {  
+      "question":"Guideposts by which managers define the organization’s desired performance are called ________.",
+      "number":42,
+      "a":"Mission",
+      "b":"standards",
+      "c":"opportunities",
+      "d":"objectives",
+      "ans":"d"
+   },
+   {  
+      "question":"A primary ________ of eBay is that they are the world’s largest online auction site.",
+      "number":43,
+      "a":"mission statement",
+      "b":"Vision",
+      "c":"competitive differentiation",
+      "d":"objective",
+      "ans":"c"
+   },
+   {  
+      "question":"When Capital One Financial utilized its extensive database to customize its credit card operation, the company was in the ________ phase of planning.",
+      "number":44,
+      "a":"monitoring",
+      "b":"Vision",
+      "c":"implementation",
+      "d":"decision making",
+      "ans":"c"
+   },
+   {  
+      "question":"Which managers typically implement a strategy?",
+      "number":45,
+      "a":"middle managers",
+      "b":"top managers",
+      "c":"executive",
+      "d":"Senior",
+      "ans":"a"
+   },
+   {  
+      "question":"Decisions involving simple, common, frequently occurring problems for which solutions have already been determined are ________ decisions.",
+      "number":46,
+      "a":"nonprogrammed",
+      "b":"programmed",
+      "c":"creative",
+      "d":"strategic",
+      "ans":"b"
+   },
+   {  
+      "question":"Morgan is the manager of a local electronics store and realizes they are sold out of a product. He makes the decisions to put up signs indicating that the new product shipment will be in within 3 days. This is an example of a_________.",
+      "number":47,
+      "a":"programmed decision",
+      "b":"nonprogrammed decision",
+      "c":"span of management",
+      "d":"Matrix",
+      "ans":"a"
+   },
+   {  
+      "question":"McDonald’s has decided to add a pork sandwich to its menu. This is an example of a ________.",
+      "number":48,
+      "a":"contingency plan",
+      "b":"line organization",
+      "c":"nonprogrammed decision",
+      "d":"programmed decision",
+      "ans":"c"
+   },
+   {  
+      "question":"ABC Corp. has established a discount schedule for large-volume clients. This ________ will allow managers to devote more time to complex issues.",
+      "number":49,
+      "a":"programmed decision",
+      "b":"increased profit margin",
+      "c":"nonprogrammed decision",
+      "d":"increased sales volume",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following require nonprogrammed decisions EXCEPT ________.",
+      "number":50,
+      "a":"complex problems",
+      "b":"unique problems",
+      "c":"recurring problems",
+      "d":"situations that have not occurred before",
+      "ans":"c"
+   },
+   {  
+      "question":"Luis is CEO of a new company that makes hand-held computers. He is trying to decide between two operating systems for his product. Luis is ________.",
+      "number":51,
+      "a":"creating a vision",
+      "b":"making a nonprogrammed decision",
+      "c":"developing a mission statement",
+      "d":"making a programmed decision",
+      "ans":"b"
+   },
+   {  
+      "question":"The first step in the decision-making process is:",
+      "number":52,
+      "a":"Develop alternative courses of action.",
+      "b":"Evaluate alternatives.",
+      "c":"Recognize the problem or opportunity.",
+      "d":"Select and implement chosen alternative.",
+      "ans":"c"
+   },
+   {  
+      "question":"Heather is faced with making a decision about where to locate a store. She has researched the advantages and disadvantages of a downtown location, a mall location, and a suburban location in a strip mall. What should Heather do now?",
+      "number":53,
+      "a":"Develop potential courses of action.",
+      "b":"Follow up on the effectiveness of the decision.",
+      "c":"Select and implement one of her choices.",
+      "d":"Delay making a decision.",
+      "ans":"c"
+   },
+   {  
+      "question":"The quality control team at a steel company recently implemented a strategy to reduce product defects. What is its next step?",
+      "number":54,
+      "a":"Assess the outcome of the decision.",
+      "b":"Develop a potential course of action.",
+      "c":"Recognize a problem or opportunity.",
+      "d":"Evaluate the alternatives.",
+      "ans":"a"
+   },
+   {  
+      "question":"Once a manager has determined the problem or opportunity, the next step in the decision-making process is to ________.",
+      "number":55,
+      "a":"evaluate alternatives",
+      "b":"develop alternatives",
+      "c":"identify the problem",
+      "d":"decide whether the manager is facing a programmed decision or a nonprogrammed decision",
+      "ans":"b"
+   },
+   {  
+      "question":"________ is the ability of directing or inspiring others to perform activities designed to achieve organizational objectives.",
+      "number":56,
+      "a":"Controlling",
+      "b":"Communicating",
+      "c":"Organizing",
+      "d":"Leadership",
+      "ans":"d"
+   },
+   {  
+      "question":"Leadership is most often associated with the ability to ________.",
+      "number":57,
+      "a":"inspire others toward high levels of achievement",
+      "b":"arrange activities that have to be performed in a systematic way",
+      "c":"determine the most effective course of action",
+      "d":"communicate well with large groups of people",
+      "ans":"a"
+   },
+   {  
+      "question":"Leaders establish power from all of the following sources EXCEPT their ________.",
+      "number":58,
+      "a":"position in the organization",
+      "b":"expertise",
+      "c":"leadership style",
+      "d":"personality",
+      "ans":"c"
+   },
+   {  
+      "question":"Autocratic leaders ________.",
+      "number":59,
+      "a":"involve subordinates in making decisions",
+      "b":"are open-minded leaders",
+      "c":"believe in minimal supervision",
+      "d":"make decisions on their own, often without consulting others",
+      "ans":"d"
+   },
+   {  
+      "question":"Autocratic leaders have all of the following characteristics EXCEPT ________.",
+      "number":60,
+      "a":"concentration of power with the manager",
+      "b":"two-way communication",
+      "c":"decisions are made by the manager with little to no consultation from subordinates",
+      "d":"employees are closely supervised",
+      "ans":"b"
+   },
+   {  
+      "question":"Democratic leaders ________.",
+      "number":61,
+      "a":"are always the most effective leaders",
+      "b":"let people know only what they need to know to do their jobs",
+      "c":"involve their subordinates in making decisions",
+      "d":"leave all decisions to their subordinates",
+      "ans":"c"
+   },
+   {  
+      "question":"Which leadership style would allow sales personnel to participate in setting sales quotas?",
+      "number":62,
+      "a":"free-rein",
+      "b":"judgmental",
+      "c":"democratic",
+      "d":"autocratic",
+      "ans":"c"
+   },
+   {  
+      "question":"Maya, director of admissions at Glenview Hospital, frequently seeks input from subordinates on issues relating to her department. Maya’s style of leadership would be considered ________.",
+      "number":63,
+      "a":"free-rein",
+      "b":"judgmental",
+      "c":"autocratic",
+      "d":"democratic",
+      "ans":"d"
+   },
+   {  
+      "question":"Marriott has a policy of allowing employees at its hotels to immediately respond to customer problems without having to obtain prior approvals from senior managers. This policy is best described as ________.",
+      "number":64,
+      "a":"free-rein leadership",
+      "b":"employee responsibility",
+      "c":"autocratic leadership",
+      "d":"employee empowerment",
+      "ans":"d"
+   },
+   {  
+      "question":"Marcus believes in empowering the employees in his department. Most likely, Marcus is a(n) ________ leader.",
+      "number":65,
+      "a":"task-oriented",
+      "b":"independent",
+      "c":"democratic",
+      "d":"autocratic",
+      "ans":"c"
+   },
+   {  
+      "question":"Harriet, the marketing manager of Video One, allows subordinates to make most of the decisions for the department. Harriet’s leadership style can best be described as ________.",
+      "number":66,
+      "a":"free-rein",
+      "b":"autocratic",
+      "c":"democratic",
+      "d":"persuasive",
+      "ans":"a"
+   },
+   {  
+      "question":"The best style of leadership is ________.",
+      "number":67,
+      "a":"democratic",
+      "b":"No single leadership style is best for every firm in every situation.",
+      "c":"dependent on employee feedback",
+      "d":"free-rein",
+      "ans":"b"
+   },
+   {  
+      "question":"An organization’s system of principles, beliefs, and values is called ________.",
+      "number":68,
+      "a":"corporate culture",
+      "b":"democratic leadership system",
+      "c":"free-rein system",
+      "d":"organizational structure",
+      "ans":"a"
+   },
+   {  
+      "question":"Corporate culture is reinforced by all of the following factors EXCEPT ________.",
+      "number":69,
+      "a":"symbols",
+      "b":"finances",
+      "c":"rituals",
+      "d":"stories",
+      "ans":"b"
+   },
+   {  
+      "question":"In an organization with a strong culture, ________.",
+      "number":70,
+      "a":"the management is usually autocratic",
+      "b":"everyone knows and supports the same objectives",
+      "c":"the use of rituals is nonexistent",
+      "d":"employees are encouraged to think and act independently",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements is correct regarding corporate culture?",
+      "number":71,
+      "a":"The leadership style of managers, the way it communicates, and the overall work environment influence a firm’s culture.",
+      "b":"Companies that grow quickly typically do not have time to create a culture.",
+      "c":"A company with strong tradition should not alter its culture.",
+      "d":"A culture is typically shaped by supervisors.",
+      "ans":"a"
+   },
+   {  
+      "question":"A(n) ________ is a structured grouping of people working together to achieve common goals.",
+      "number":72,
+      "a":"System",
+      "b":"span of management",
+      "c":"chain of command",
+      "d":"organization",
+      "ans":"d"
+   },
+   {  
+      "question":"What is the first step in the organizing process?",
+      "number":73,
+      "a":"Coordinate activities of different groups and individuals.",
+      "b":"Assign activities to specific positions and people and allocate necessary resources.",
+      "c":"Determine specific work activities necessary to implement plans and achieve objectives.",
+      "d":"Group work activities into a logical pattern or structure.",
+      "ans":"c"
+   },
+   {  
+      "question":"Chau-Lee is the owner-manager of a 24-hour convenience store. When he first opened the business, he employed only four people, and it was easy to manage the store through informal means. The store experienced rapid growth and is now a six-unit chain. Chau-Lee is now trying to manage 30 employees and coordinate operations in the same manner as when he first opened the business. He is frustrated and feels that his business is “out of control.” What Chau-Lee needs is ________.",
+      "number":74,
+      "a":"fewer stores",
+      "b":"more employees",
+      "c":"a formal organization structure",
+      "d":"an updated inventory system",
+      "ans":"c"
+   },
+   {  
+      "question":"A(n) __________ can help clarify the structure of a firm.",
+      "number":75,
+      "a":"mission statement",
+      "b":"chain of command",
+      "c":"contingency plan",
+      "d":"organization chart",
+      "ans":"d"
+   },
+   {  
+      "question":"As a company grows, what happens to its organizational structure?",
+      "number":76,
+      "a":"it usually becomes more complex",
+      "b":"it uses a product departmentalization",
+      "c":"it becomes easier to understand",
+      "d":"it uses a functional departmentalization",
+      "ans":"a"
+   },
+   {  
+      "question":"Organization charts are the visual indication of a firm’s ________.",
+      "number":77,
+      "a":"management team for each department",
+      "b":"structure",
+      "c":"informal relationships within the organization",
+      "d":"formal relationships with suppliers and customers",
+      "ans":"b"
+   },
+   {  
+      "question":"The process of dividing work activities into units is known as ________.",
+      "number":78,
+      "a":"organizational management",
+      "b":"programming structure",
+      "c":"streamline management",
+      "d":"departmentalization",
+      "ans":"d"
+   },
+   {  
+      "question":"Organizational structures that are based on the goods and services a company offers are usually departmentalized by ________.",
+      "number":79,
+      "a":"product",
+      "b":"geography",
+      "c":"function",
+      "d":"Process",
+      "ans":"a"
+   },
+   {  
+      "question":"Guadalupe’s firm is divided into work units representing human resources, marketing, production, and finance. This is known as ________ departmentalization.",
+      "number":80,
+      "a":"product",
+      "b":"geographic",
+      "c":"functional",
+      "d":"Process",
+      "ans":"c"
+   },
+   {  
+      "question":"Hewlett Packard (HP) is subdivided by its different lines (such as laptops, desktops, mobile devices, printers, and servers). HP is departmentalized by ________.",
+      "number":81,
+      "a":"Process",
+      "b":"function",
+      "c":"product",
+      "d":"customer",
+      "ans":"c"
+   },
+   {  
+      "question":"Leticia is reorganizing the sales force for her wholesale office-supply business. She has decided to divide the sales force into three groups: one specializing in educational sales, a second on government offices, and a third focusing on business customers. Which form of departmentalization is Leticia using?",
+      "number":82,
+      "a":"geographic",
+      "b":"customer",
+      "c":"Process",
+      "d":"function",
+      "ans":"b"
+   },
+   {  
+      "question":"Which type of departmentalization organizes work units according to business functions?",
+      "number":83,
+      "a":"Process",
+      "b":"geography",
+      "c":"product",
+      "d":"function",
+      "ans":"d"
+   },
+   {  
+      "question":"American River Furniture Manufacturing’s departments include cutting, staining, varnishing, drilling, shaping, and assembling. These departments are based on ________.",
+      "number":84,
+      "a":"Process",
+      "b":"product",
+      "c":"function",
+      "d":"customer",
+      "ans":"a"
+   },
+   {  
+      "question":"A company that is based on a direct flow of authority from the top executive to subordinates is known as a ________ organization.",
+      "number":85,
+      "a":"Matrix",
+      "b":"functional",
+      "c":"Line",
+      "d":"line-and-staff",
+      "ans":"c"
+   },
+   {  
+      "question":"First-line managers have a _____ span of control than top-level managers.",
+      "number":86,
+      "a":"more narrow",
+      "b":"Wider",
+      "c":"depends on the organization",
+      "d":"cannot determine with this information",
+      "ans":"b"
+   },
+   {  
+      "question":"A company that retains decision making at the top is known as:",
+      "number":87,
+      "a":"centralized",
+      "b":"programmed",
+      "c":"independent",
+      "d":"autocratic",
+      "ans":"a"
+   },
+   {  
+      "question":"The set of relationships that indicates who gives directions to whom and who reports to whom is known as the ________.",
+      "number":88,
+      "a":"hierarchy of organizational objectives",
+      "b":"span of management",
+      "c":"organization chart",
+      "d":"chain of command",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following forms of organization is commonly used in medium- and large-sized firms?",
+      "number":89,
+      "a":"committee organization",
+      "b":"line organization",
+      "c":"line-and-staff organization",
+      "d":"matrix organization",
+      "ans":"c"
+   },
+   {  
+      "question":"Malita’s company has evolved from a line structure to a line-and-staff structure. The production department would be classified as ________.",
+      "number":90,
+      "a":"Staff",
+      "b":"Matrix",
+      "c":"decentralized",
+      "d":"Line",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following job titles is an example of a staff position?",
+      "number":91,
+      "a":"Director of Engineering",
+      "b":"Chief Executive Officer",
+      "c":"Production Vice-President",
+      "d":"Director of Marketing",
+      "ans":"a"
+   },
+   {  
+      "question":"A local bookstore uses an organizational structure in which authority and responsibility are jointly held by the entire group rather than by a single manager. This company is using a ________ organizational structure.",
+      "number":92,
+      "a":"line-and-staff",
+      "b":"committee",
+      "c":"Matrix",
+      "d":"functional",
+      "ans":"b"
+   },
+   {  
+      "question":"The matrix organization is also frequently referred to as ________.",
+      "number":93,
+      "a":"line management",
+      "b":"chain of command",
+      "c":"project management",
+      "d":"team organization",
+      "ans":"c"
+   },
+   {  
+      "question":"Ian wonders what type of organizational structure is best suited for his company, a medium-sized manufacturing firm servicing the electronics industry. In addition to its normal product lines, the company occasionally produces special products that require the cooperation of a variety of personnel from many departments. What form of organizational structure is best suited for this operation?",
+      "number":94,
+      "a":"matrix organization",
+      "b":"informal organization",
+      "c":"functional organization",
+      "d":"line organization",
+      "ans":"a"
+   }
+]

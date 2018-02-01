@@ -1,0 +1,758 @@
+[  
+   {  
+      "question":"Which of the following fields is concerned with understanding the choices people make in using scarce resources?",
+      "number":0,
+      "a":"economy",
+      "b":"statistics",
+      "c":"economics",
+      "d":"psychology",
+      "ans":"c"
+   },
+   {  
+      "question":"________ is the study of the economic choices of individual consumers, families, or businesses.",
+      "number":1,
+      "a":"Macroeconomics",
+      "b":"Microeconomics",
+      "c":"Entrepreneurship",
+      "d":"Consumer behavior",
+      "ans":"b"
+   },
+   {  
+      "question":"The study of macroeconomics is ________.",
+      "number":2,
+      "a":"concerned with studying the overall economy",
+      "b":"primarily concerned with individual busi-nesses and decisions",
+      "c":"not related to microeconomics",
+      "d":"not related to government decisions concern-ing spending and taxes",
+      "ans":"a"
+   },
+   {  
+      "question":"Williams & Co. management is trying to decide the appropriate prices for various products sold by the firm. This is a focus of ________.",
+      "number":3,
+      "a":"microeconomics",
+      "b":"macroeconomics",
+      "c":"fiscal policy",
+      "d":"monetary policy",
+      "ans":"a"
+   },
+   {  
+      "question":"Individual and business decisions are ________ by economic conditions and, in turn, economic conditions are ________ by their decisions.",
+      "number":4,
+      "a":"affected; not affected",
+      "b":"not affected; affected",
+      "c":"not affected; not affected",
+      "d":"affected; affected",
+      "ans":"d"
+   },
+   {  
+      "question":"In general, as price of a good or service increases, the quantity demanded:",
+      "number":5,
+      "a":"decreases",
+      "b":"stays the same",
+      "c":"increases",
+      "d":"depends on the type of product or service",
+      "ans":"a"
+   },
+   {  
+      "question":"Hailey’s research firm was hired by a discount superstore to provide a detailed evaluation regarding consumer preferences. Hailey’s analysis involves the study of ________.",
+      "number":6,
+      "a":"economics",
+      "b":"private enterprise system",
+      "c":"microeconomics",
+      "d":"macroeconomics",
+      "ans":"c"
+   },
+   {  
+      "question":"The willingness and ability of sellers to provide goods and services for sale in a market is referred to as ________.",
+      "number":7,
+      "a":"the equilibrium price",
+      "b":"demand",
+      "c":"microeconomics",
+      "d":"supply",
+      "ans":"d"
+   },
+   {  
+      "question":"________ refers to the willingness and ability of buyers to purchase goods and services.",
+      "number":8,
+      "a":"Consumer behavior",
+      "b":"Customer preference",
+      "c":"Supply",
+      "d":"Demand",
+      "ans":"d"
+   },
+   {  
+      "question":"If the number of buyers decreases, the demand curve will shift to the ________ and the price will ________.",
+      "number":9,
+      "a":"left; fall",
+      "b":"right; fall",
+      "c":"right; rise",
+      "d":"left; rise",
+      "ans":"a"
+   },
+   {  
+      "question":"If buyers’ incomes increase, the demand curve will shift to the ________ and the price will ________.",
+      "number":10,
+      "a":"right; rise",
+      "b":"left; fall",
+      "c":"right; fall",
+      "d":"left; rise",
+      "ans":"a"
+   },
+   {  
+      "question":"If the prices of substitute goods decrease, the demand curve will shift to the ________ and the price will ________.",
+      "number":11,
+      "a":"right; fall",
+      "b":"left; fall",
+      "c":"right; rise",
+      "d":"left; rise",
+      "ans":"b"
+   },
+   {  
+      "question":"A demand curve will shift to the left if the ________.",
+      "number":12,
+      "a":"number of buyers increases",
+      "b":"future expectations become more optimistic",
+      "c":"buyers’ incomes decrease",
+      "d":"prices of substitute goods increase",
+      "ans":"c"
+   },
+   {  
+      "question":"The curve that shows the relationship between different prices and the quantity requested at each price is the ________ curve.",
+      "number":13,
+      "a":"equilibrium",
+      "b":"supply",
+      "c":"buying",
+      "d":"demand",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements about demand curves is true?",
+      "number":14,
+      "a":"When the price falls, demand increases.",
+      "b":"When the price falls, demand decreases.",
+      "c":"When the price rises, demand increases.",
+      "d":"When the price falls, supply increases.",
+      "ans":"a"
+   },
+   {  
+      "question":"A demand curve is the schedule that shows the relationship between the price of a product and ________.",
+      "number":15,
+      "a":"overhead costs",
+      "b":"the costs of marketing the product",
+      "c":"the quantity of that product that buyers demand at that price",
+      "d":"the quantity supplied at each price",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following factors will NOT result in a shift in the supply curve?",
+      "number":16,
+      "a":"Change in the number of suppliers",
+      "b":"Change in the price of substitute goods",
+      "c":"Cost savings resulting from new technology",
+      "d":"Change in the costs of labor",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following can shift the demand curve to either the right or left EXCEPT ________.",
+      "number":17,
+      "a":"change in the number of buyers",
+      "b":"buyers’ attitudes about the future",
+      "c":"change in the income of buyers",
+      "d":"change in the cost of inputs",
+      "ans":"d"
+   },
+   {  
+      "question":"An increase in consumers’ incomes causes the ________.",
+      "number":18,
+      "a":"supply curve to shift to the right",
+      "b":"demand curve to shift to the right",
+      "c":"supply curve to shift to the left",
+      "d":"demand curve to shift to the left",
+      "ans":"b"
+   },
+   {  
+      "question":"A supply curve is a(n) ________.",
+      "number":19,
+      "a":"upward sloping curve",
+      "b":"downward sloping curve",
+      "c":"vertical line",
+      "d":"horizontal line",
+      "ans":"a"
+   },
+   {  
+      "question":"According to a supply curve, ________.",
+      "number":20,
+      "a":"as prices rise, quantity of a product supplied falls",
+      "b":"as prices fall, quantity of a product supplied increases",
+      "c":"as prices rise, the quantity of a product that is supplied also rises",
+      "d":"as prices rise, consumers will buy in larger quantities",
+      "ans":"c"
+   },
+   {  
+      "question":"If the cost of producing a good or service increases, the supply curve will shift to the ________ and the price will ________.",
+      "number":21,
+      "a":"right; fall",
+      "b":"right; rise",
+      "c":"left; fall",
+      "d":"left; rise",
+      "ans":"d"
+   },
+   {  
+      "question":"As the number of suppliers of a product increases, the supply curve shifts to the ________ and the price will ________.",
+      "number":22,
+      "a":"right; fall",
+      "b":"right; rise",
+      "c":"left; fall",
+      "d":"left; rise",
+      "ans":"a"
+   },
+   {  
+      "question":"Assume the price of gasoline triples. What will likely happen to the demand for small cars? The demand curve will shift to the ________ and demand will ________.",
+      "number":23,
+      "a":"right; decrease",
+      "b":"left; increase",
+      "c":"right; increase",
+      "d":"left; decrease",
+      "ans":"c"
+   },
+   {  
+      "question":"The equilibrium price is established when the quantity ________.",
+      "number":24,
+      "a":"purchased is equal to the quantity offered",
+      "b":"supplied is equal to the amount of raw materials available",
+      "c":"bought is equal to the quantity demanded",
+      "d":"demanded is equal to the quantity supplied at a lower price",
+      "ans":"a"
+   },
+   {  
+      "question":"If the market price is above the equilibrium price, ________.",
+      "number":25,
+      "a":"producers will earn large profits",
+      "b":"consumers will go on strike and not purchase any of the product",
+      "c":"the demand curve will shift to the right causing the surplus to go away",
+      "d":"a surplus will occur and prices and produc-tion will fall",
+      "ans":"d"
+   },
+   {  
+      "question":"A surplus will occur when ________.",
+      "number":26,
+      "a":"production quantities are falling",
+      "b":"price is below the equilibrium point",
+      "c":"price is above the equilibrium point",
+      "d":"the demand curve is shifting to the right",
+      "ans":"c"
+   },
+   {  
+      "question":"A shortage will occur when ________.",
+      "number":27,
+      "a":"production quantities are rising",
+      "b":"prices are falling",
+      "c":"price is below the equilibrium point",
+      "d":"the demand curve is shifting to the left",
+      "ans":"c"
+   },
+   {  
+      "question":"Supply and demand correct a shortage by ________.",
+      "number":28,
+      "a":"raising the price to increase production",
+      "b":"raising the price to decrease production",
+      "c":"keeping the price the same but decreasing production",
+      "d":"reducing the product price to decrease production",
+      "ans":"a"
+   },
+   {  
+      "question":"Holding supply constant and decreasing demand will cause ________.",
+      "number":29,
+      "a":"prices to rise and production to fall",
+      "b":"prices to fall and production to rise",
+      "c":"prices and production both to fall",
+      "d":"prices and production both to rise",
+      "ans":"c"
+   },
+   {  
+      "question":"The three major types of economic systems are ________.",
+      "number":30,
+      "a":"capitalism, oligopoly, and planned econo-mies",
+      "b":"capitalism, pure competition, and planned economies",
+      "c":"capitalism, monopoly, and mixed economies",
+      "d":"capitalism, planned economies, and mixed economies",
+      "ans":"d"
+   },
+   {  
+      "question":"Most industrialized nations operate economies based on ________.",
+      "number":31,
+      "a":"planned economies",
+      "b":"private enterprise systems",
+      "c":"communist systems",
+      "d":"socialist systems",
+      "ans":"b"
+   },
+   {  
+      "question":"Entrepreneurs have the most economic freedom in which type of economy?",
+      "number":32,
+      "a":"socialism",
+      "b":"capitalism",
+      "c":"communism",
+      "d":"mixed economy",
+      "ans":"b"
+   },
+   {  
+      "question":"Incentives to motivate employees to perform at their highest level are strongest in ________ systems.",
+      "number":33,
+      "a":"capitalist",
+      "b":"communist",
+      "c":"socialist",
+      "d":"monopolistic",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is considered to be the BEST example of pure competition in today’s business environment?",
+      "number":34,
+      "a":"the electric and gas utility industries",
+      "b":"the airline industry",
+      "c":"agriculture",
+      "d":"Major League Baseball",
+      "ans":"c"
+   },
+   {  
+      "question":"A particular industry has many competitors, each of whom has little control over price. In addition, it is fairly easy to enter the industry. This industry is an example of ________.",
+      "number":35,
+      "a":"pure competition",
+      "b":"monopolistic competition",
+      "c":"an oligopoly",
+      "d":"a pure monopoly",
+      "ans":"a"
+   },
+   {  
+      "question":"Monopolistic competition has ________.",
+      "number":36,
+      "a":"many buyers and sellers, and the sellers have some control over price",
+      "b":"many buyers and sellers, none of whom can control prices",
+      "c":"only one seller",
+      "d":"only a few sellers",
+      "ans":"a"
+   },
+   {  
+      "question":"Consumers can choose from hundreds of different kinds and producers of cheese, each with a slightly different flavor and texture. This type of market structure is known as ________.",
+      "number":37,
+      "a":"pure competition",
+      "b":"monopolistic competition",
+      "c":"a monopoly",
+      "d":"an oligopoly",
+      "ans":"b"
+   },
+   {  
+      "question":"The four different types of market structure in a private enterprise system are ________.",
+      "number":38,
+      "a":"pure competition, monopolistic competition, oligopoly, and monopoly",
+      "b":"communism, socialism, capitalism, and mixed systems",
+      "c":"socialism, oligopoly, monopoly, and pure competition",
+      "d":"mixed, socialism, communism, and pure competition",
+      "ans":"a"
+   },
+   {  
+      "question":"A particular industry has only a few competitors, who have at least some control over price. Entry into the industry is difficult. This industry is an example of ________.",
+      "number":39,
+      "a":"pure competition",
+      "b":"monopolistic competition",
+      "c":"an oligopoly",
+      "d":"a pure monopoly",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following market structures best describes the U.S. auto industry?",
+      "number":40,
+      "a":"monopolistic competition",
+      "b":"pure competition",
+      "c":"oligopoly",
+      "d":"monopoly",
+      "ans":"c"
+   },
+   {  
+      "question":"There is no direct competition in a particular industry, yet the firms have almost no control over pricing. This industry is an example of ________.",
+      "number":41,
+      "a":"monopolistic competition",
+      "b":"a regulated monopoly",
+      "c":"an oligopoly",
+      "d":"a pure monopoly",
+      "ans":"b"
+   },
+   {  
+      "question":"Control over price by individual firms is highest in a(n) ________.",
+      "number":42,
+      "a":"pure monopoly",
+      "b":"regulated monopoly",
+      "c":"oligopoly",
+      "d":"monopolistically competitive industry",
+      "ans":"a"
+   },
+   {  
+      "question":"Barriers to entry into an industry are highest in ________.",
+      "number":43,
+      "a":"pure competition",
+      "b":"an oligopoly",
+      "c":"a monopoly",
+      "d":"monopolistic competition",
+      "ans":"c"
+   },
+   {  
+      "question":"Unless it is regulated or only temporary, the market situation called ________ is prohibited in the United States through antitrust legislation.",
+      "number":44,
+      "a":"communism",
+      "b":"monopoly",
+      "c":"oligopoly",
+      "d":"monopolistic competition",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following best describes your local cable TV company?",
+      "number":45,
+      "a":"pure monopoly",
+      "b":"monopolistic competition",
+      "c":"regulated monopoly",
+      "d":"oligopoly",
+      "ans":"c"
+   },
+   {  
+      "question":"Before the patent expired on allergy medicine Claritin, pharmaceutical company Schering-Plough was able to set its own price in the marketplace. From which type of competition did the company benefit?",
+      "number":46,
+      "a":"oligopoly",
+      "b":"pure competition",
+      "c":"monopolistic competition",
+      "d":"monopoly",
+      "ans":"d"
+   },
+   {  
+      "question":"________ is an economic system in which private property is eliminated.",
+      "number":47,
+      "a":"socialism",
+      "b":"capitalism",
+      "c":"monopoly",
+      "d":"communism",
+      "ans":"d"
+   },
+   {  
+      "question":"Under communism, ________.",
+      "number":48,
+      "a":"profits are not acceptable and the right to choose one’s occupation is widely restricted",
+      "b":"there is minimal government interference",
+      "c":"management represents the owners",
+      "d":"businesses are owned by individuals",
+      "ans":"a"
+   },
+   {  
+      "question":"In a ________ system, the government owns all of the nation’s major industries but still allows private ownership in less crucial areas.",
+      "number":49,
+      "a":"communism",
+      "b":"socialism",
+      "c":"capitalism",
+      "d":"mixed economy",
+      "ans":"b"
+   },
+   {  
+      "question":"In a particular country, the government owns all the transportation companies, the utilities, the energy suppliers, and major manufacturing firms. Small businesses are privately owned. What type of economic system does this country have?",
+      "number":50,
+      "a":"capitalism",
+      "b":"communism",
+      "c":"socialism",
+      "d":"mixed economy",
+      "ans":"c"
+   },
+   {  
+      "question":"________ has a blend of both planned and free enterprise system.",
+      "number":51,
+      "a":"Capitalism",
+      "b":"Communism",
+      "c":"A mixed market economy",
+      "d":"A private government economy",
+      "ans":"c"
+   },
+   {  
+      "question":"A country has a strong private sector, along with publicly owned enterprises. Entrepreneurs and private-sector investors are entitled to profits, after taxes, and even state-owned enterprises are expected to at least break even. What type of economic system does this country have?",
+      "number":52,
+      "a":"mixed economy",
+      "b":"communism",
+      "c":"capitalism",
+      "d":"socialism",
+      "ans":"a"
+   },
+   {  
+      "question":"The conversion of the postal service from government-owned and operated into privately held businesses would be an example of ________.",
+      "number":53,
+      "a":"deregulation",
+      "b":"pure competition",
+      "c":"regulated monopolies",
+      "d":"privatization",
+      "ans":"d"
+   },
+   {  
+      "question":"During an economic recession, consumer spending ________ and unemployment ________.",
+      "number":54,
+      "a":"increases; increases",
+      "b":"increases; decreases",
+      "c":"decreases; increases",
+      "d":"decreases; decreases",
+      "ans":"c"
+   },
+   {  
+      "question":"Consumers often turn to lower-priced retailers for the goods they need during a business cycle of ________.",
+      "number":55,
+      "a":"recovery",
+      "b":"prosperity",
+      "c":"recession",
+      "d":"depression",
+      "ans":"c"
+   },
+   {  
+      "question":"________ is the relationship between the goods and services produced in a nation each year and workers, raw materials, and other inputs necessary to produce them.",
+      "number":56,
+      "a":"GDP (gross domestic product)",
+      "b":"Per capita income",
+      "c":"Prosperity",
+      "d":"Productivity",
+      "ans":"d"
+   },
+   {  
+      "question":"Many of the gains in U.S. productivity can be attributed to ________.",
+      "number":57,
+      "a":"technology",
+      "b":"deflation",
+      "c":"a steady consumer price index",
+      "d":"budget surplus",
+      "ans":"a"
+   },
+   {  
+      "question":"________ is a commonly used measure of productivity.",
+      "number":58,
+      "a":"GDP (gross domestic product)",
+      "b":"Prosperity",
+      "c":"The business cycle",
+      "d":"The average wage",
+      "ans":"a"
+   },
+   {  
+      "question":"The sum of all goods and services produced within a nation’s boundaries each year is the ________.",
+      "number":59,
+      "a":"Gross National Index",
+      "b":"Gross domestic product",
+      "c":"Global market indicator",
+      "d":"Producer Price Index",
+      "ans":"b"
+   },
+   {  
+      "question":"________ is caused by increases in the prices of raw materials and other factors of production.",
+      "number":60,
+      "a":"The Consumer Price Index (CPI)",
+      "b":"Demand-pull inflation",
+      "c":"Cost-push inflation",
+      "d":"A recession",
+      "ans":"c"
+   },
+   {  
+      "question":"Assume that the number of people wanting to buy homes increases sharply in your local area. The price of homes will likely ________, which is an example of ________.",
+      "number":61,
+      "a":"increase; demand-pull inflation",
+      "b":"decrease; cost-push inflation",
+      "c":"increase; cost-push inflation",
+      "d":"decrease; demand-pull inflation",
+      "ans":"a"
+   },
+   {  
+      "question":"________ provides a running measure of consumer price changes.",
+      "number":62,
+      "a":"The Consumer Price Index (CPI)",
+      "b":"Devaluation",
+      "c":"Per capita income",
+      "d":"The Producer Price Index (PPI)",
+      "ans":"a"
+   },
+   {  
+      "question":"Economists refer to a nation’s ________ as an indicator of its economic health.",
+      "number":63,
+      "a":"consumer price index",
+      "b":"inflation rate",
+      "c":"recession rate",
+      "d":"unemployment rate",
+      "ans":"d"
+   },
+   {  
+      "question":"The four types of unemployment are ________.",
+      "number":64,
+      "a":"inflation, frictional, cyclical, and structural",
+      "b":"recessional, inflation, frictional, and cyclical",
+      "c":"frictional, cyclical, structural, and seasonal",
+      "d":"recessional, frictional, cyclical, and structural",
+      "ans":"c"
+   },
+   {  
+      "question":"Kim graduated from college in May and is looking for a job. She is ________ unemployed.",
+      "number":65,
+      "a":"structurally",
+      "b":"cyclically",
+      "c":"seasonally",
+      "d":"frictionally",
+      "ans":"d"
+   },
+   {  
+      "question":"Benito worked as a manager at a grocery chain that recently experienced a number of layoffs due to an economic slow time. Benito’s employment would be described as ________.",
+      "number":66,
+      "a":"cyclical",
+      "b":"frictional",
+      "c":"structural",
+      "d":"seasonal",
+      "ans":"a"
+   },
+   {  
+      "question":"Which type of unemployment typically lasts the longest?",
+      "number":67,
+      "a":"structural",
+      "b":"cyclical",
+      "c":"seasonal",
+      "d":"frictional",
+      "ans":"a"
+   },
+   {  
+      "question":"Monetary policy ________.",
+      "number":68,
+      "a":"frequently causes taxes to rise",
+      "b":"is of limited use in controlling inflation",
+      "c":"is of little use in expanding business spending",
+      "d":"uses interest rate variations and availability of funds to influence the nation’s economy",
+      "ans":"d"
+   },
+   {  
+      "question":"The part of the federal government responsible for monetary policy is ________.",
+      "number":69,
+      "a":"the Federal Reserve System",
+      "b":"Congress",
+      "c":"the U.S. Treasury",
+      "d":"the president",
+      "ans":"a"
+   },
+   {  
+      "question":"Business borrowing becomes more difficult when ________.",
+      "number":70,
+      "a":"the federal government increases spending",
+      "b":"the federal government decreases spending",
+      "c":"the Federal Reserve decreases the money supply",
+      "d":"the Federal Reserve increases the money supply",
+      "ans":"c"
+   },
+   {  
+      "question":"The purpose of a restrictive monetary policy is to:",
+      "number":71,
+      "a":"stimulate spending",
+      "b":"reduce the cost of borrowing",
+      "c":"stimulate employment",
+      "d":"curb rising prices and overexpansion",
+      "ans":"d"
+   },
+   {  
+      "question":"The two major policy tools available for controlling economic activity are ________.",
+      "number":72,
+      "a":"interest rate and taxing policies",
+      "b":"interest rate and credit policies",
+      "c":"monetary and fiscal policies",
+      "d":"tax and spending policies",
+      "ans":"c"
+   },
+   {  
+      "question":"The Federal Reserve reduces the amount of money banks can lend. As a result, interest rates will ________ and economic growth will ________.",
+      "number":73,
+      "a":"increase; increase",
+      "b":"increase; fall",
+      "c":"fall; increase",
+      "d":"fall; fall",
+      "ans":"b"
+   },
+   {  
+      "question":"Fiscal policy ________.",
+      "number":74,
+      "a":"reduces the money supply",
+      "b":"increases the money supply",
+      "c":"always results in increasing the national debt",
+      "d":"can be used to increase economic activity",
+      "ans":"d"
+   },
+   {  
+      "question":"By changing ________, the Federal Reserve can expand or shrink funds available to lend.",
+      "number":75,
+      "a":"interest rates",
+      "b":"spending",
+      "c":"fees charged on household and business checking and savings accounts",
+      "d":"taxes",
+      "ans":"a"
+   },
+   {  
+      "question":"Concerning a balanced budget, all of the following statements are correct EXCEPT:",
+      "number":76,
+      "a":"A balanced budget does not mean an end to the federal debt.",
+      "b":"The federal government has rarely balanced its budget during the last 50 years.",
+      "c":"Balanced budgets will result in lower interest rates to all private borrowers.",
+      "d":"A balanced budget is achieved when all tax receipts equal all spending in a particular year.",
+      "ans":"c"
+   },
+   {  
+      "question":"The Federal Reserve slows the growth in the supply of money and credit. Interest rates will likely ________, which is an example of ________ policy.",
+      "number":77,
+      "a":"rise; monetary",
+      "b":"fall; fiscal",
+      "c":"rise; fiscal",
+      "d":"fall; monetary",
+      "ans":"a"
+   },
+   {  
+      "question":"The federal government raises corporate income tax rates in order to reduce the budget deficit. This change will likely ________ economic activity, which is an example of ________ policy.",
+      "number":78,
+      "a":"decrease; monetary",
+      "b":"increase; monetary",
+      "c":"increase; fiscal",
+      "d":"decrease; fiscal",
+      "ans":"d"
+   },
+   {  
+      "question":"A balanced budget occurs when ________.",
+      "number":79,
+      "a":"all of the national debt is repaid",
+      "b":"taxes, fees, and borrowings are equal to government spending for the year",
+      "c":"taxes and fees equal all government spending except for capital expenditures",
+      "d":"all federal taxes and fees equal all federal government spending",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following are key challenges facing business in the new century EXCEPT ________.",
+      "number":80,
+      "a":"the surplus of college graduates",
+      "b":"the aging of the workforce",
+      "c":"the shift toward a global information economy",
+      "d":"growth of India and China",
+      "ans":"a"
+   },
+   {  
+      "question":"The U.S. population is ________.",
+      "number":81,
+      "a":"getting older",
+      "b":"less diverse that it was 30 years ago",
+      "c":"declining",
+      "d":"expanding too rapidly",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is not a source of government funds to cover the annual budget?",
+      "number":82,
+      "a":"taxes",
+      "b":"fees",
+      "c":"monetary policy",
+      "d":"borrowing",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following does not make up part of the national debt?",
+      "number":83,
+      "a":"Taxes",
+      "b":"Treasury bills",
+      "c":"Treasury notes",
+      "d":"Treasury",
+      "ans":"a"
+   }
+]

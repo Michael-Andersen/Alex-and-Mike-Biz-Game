@@ -1,0 +1,596 @@
+[  
+   {  
+      "question":"The want-satisfying power of a good or service is called ________.",
+      "number":0,
+      "a":"quality",
+      "b":"ownership",
+      "c":"worth",
+      "d":"utility",
+      "ans":"d"
+   },
+   {  
+      "question":"Trucks, personnel, buildings, fuel, goods to be shipped, truck parts, and packaged supplies are examples of:",
+      "number":1,
+      "a":"inputs",
+      "b":"outputs",
+      "c":"conversion",
+      "d":"transformation",
+      "ans":"a"
+   },
+   {  
+      "question":"________ is the use of people and machinery to convert materials into finished goods or services.",
+      "number":2,
+      "a":"Manufacturing",
+      "b":"Production",
+      "c":"Distribution",
+      "d":"Marketing",
+      "ans":"b"
+   },
+   {  
+      "question":"When a cabinet maker combines wood, tools, and skill to create finished kitchen cabinets for a new home, the cabinet maker is engaging in  ________.",
+      "number":3,
+      "a":"distribution",
+      "b":"time utility",
+      "c":"process utility",
+      "d":"production",
+      "ans":"d"
+   },
+   {  
+      "question":"What is the task of production and operations management?",
+      "number":4,
+      "a":"To determine the most economical routes for transporting the firms' products",
+      "b":"To manage the use of people and machinery in converting materials and resources into finished goods and services",
+      "c":"To manage the use of people and other resources in the development of distribution channels and promotional strategies",
+      "d":"To design systems that will provide managers with information useful for decision making",
+      "ans":"b"
+   },
+   {  
+      "question":"When the editors of Contemporary Business use computers, paper, and human effort to create the new edition of a text, they are engaged in ________.",
+      "number":5,
+      "a":"creating time utility",
+      "b":"creating possession utility",
+      "c":"production",
+      "d":"marketing",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following are combined to result in mass production?",
+      "number":6,
+      "a":"Mechanization, specialized labor, and robots",
+      "b":"Standardization, job-order production, and specialized labor",
+      "c":"Analytic systems, synthetic systems, and continuous processes",
+      "d":"Mechanization, specialized labor, and standardization",
+      "ans":"d"
+   },
+   {  
+      "question":"The production manager in a manufacturing company divides employee work into small segments so each employee can concentrate on just a few tasks. This manager is involved in ________.",
+      "number":7,
+      "a":"mechanization",
+      "b":"specialization",
+      "c":"quality management",
+      "d":"standardization",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following statements about standardization is NOT correct?",
+      "number":8,
+      "a":"Standardization is used as the basis for custom-made machinery.",
+      "b":"The availability of standardized parts makes possible the replacement of defective and worn-out components.",
+      "c":"Standardized parts can reduce the cost of repairs.",
+      "d":"Standardized parts can be produced in quantity and assembled later.",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is a disadvantage of assembly lines?",
+      "number":9,
+      "a":"Workers perform specialized tasks.",
+      "b":"It takes fewer hours to produce products.",
+      "c":"It is inefficient for producing small batches.",
+      "d":"It moves the product along a conveyor belt past a number of workstations.",
+      "ans":"c"
+   },
+   {  
+      "question":"Grocery stores use scanners not only for faster check-out times, but as a tool to obtain merchandise sales data and create short-term forecasts. This system is known as ________ production.",
+      "number":10,
+      "a":"product-focused",
+      "b":"quality control",
+      "c":"data marketing",
+      "d":"customer-driven",
+      "ans":"d"
+   },
+   {  
+      "question":"A production system that reduces a raw material to its component parts in order to extract one or more marketable products is a(n) ________ production system.",
+      "number":11,
+      "a":"analytic",
+      "b":"flexible",
+      "c":"intermittent",
+      "d":"synthetic",
+      "ans":"a"
+   },
+   {  
+      "question":"A production system that combines a number of raw materials or parts into a finished product or changes raw materials into completely different finished products is known as",
+      "number":12,
+      "a":"extractive",
+      "b":"intermittent",
+      "c":"unified",
+      "d":"synthetic",
+      "ans":"d"
+   },
+   {  
+      "question":"Which production system is Smith-Kline Beecham using when it combines calcium carbonate, simethicone, corn syrup, and other ingredients to make Tums Plus?",
+      "number":13,
+      "a":"analytic",
+      "b":"synthetic",
+      "c":"extractive",
+      "d":"service",
+      "ans":"b"
+   },
+   {  
+      "question":"Which production process describes a manufacturing operation in which long production runs generate finished products over a period of time?",
+      "number":14,
+      "a":"Continuous",
+      "b":"Intermittent",
+      "c":"Customized",
+      "d":"Periodic",
+      "ans":"a"
+   },
+   {  
+      "question":"A steel company whose blast furnaces never completely shut down except for malfunctions is an example of a(n) ________ production system.",
+      "number":15,
+      "a":"intermittent",
+      "b":"synthetic",
+      "c":"analytic",
+      "d":"continuous",
+      "ans":"d"
+   },
+   {  
+      "question":"The ABC Accountants do not standardize their service to customers because each customer has different needs. This is an example of _______ production.",
+      "number":16,
+      "a":"intermittent",
+      "b":"continuous",
+      "c":"custom",
+      "d":"job-order",
+      "ans":"a"
+   },
+   {  
+      "question":"A(n) ________can repeat the same tasks numerous times without varying its movement.",
+      "number":17,
+      "a":"assembly line",
+      "b":"robot",
+      "c":"personal computers",
+      "d":"continuous process",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following statements concerning robots are correct EXCEPT:",
+      "number":18,
+      "a":"The use of robots is only beneficial in manufacturing settings.",
+      "b":"A variety of industries are now using robot technology.",
+      "c":"Robots have freed people from boring, dangerous assignments.",
+      "d":"Robots can move finished goods from one place to another.",
+      "ans":"a"
+   },
+   {  
+      "question":"Engineers at Ford Motor Company use computers to build new car models in the virtual world before they are ever built in automobile plants. These engineers are using ________.",
+      "number":19,
+      "a":"flexible manufacturing systems",
+      "b":"computer-aided manufacturing",
+      "c":"computer-integrated manufacturing",
+      "d":"computer-aided design",
+      "ans":"d"
+   },
+   {  
+      "question":"The process that enables manufacturers to use computers to analyze the steps a machine must take to produce a product or part is ________.",
+      "number":20,
+      "a":"computer-aided manufacturing",
+      "b":"Program Evaluation and Review Technique",
+      "c":"computer-aided design",
+      "d":"computer-integrated manufacturing",
+      "ans":"a"
+   },
+   {  
+      "question":"Yusted's company uses a computer to control its production process. The computer transmits signals to machines for performing the appropriate steps in the correct order. This is an example of ___________",
+      "number":21,
+      "a":"computer-aided design",
+      "b":"computer-aided manufacturing",
+      "c":"flexible manufacturing",
+      "d":"computer-integrated manufacturing",
+      "ans":"b"
+   },
+   {  
+      "question":"Boca Bearing Company produces 30 basic types of ball bearings. Its manufacturing system uses computer-controlled machining centers, robots, and remote-controlled carts to deliver materials. In addition, the system can be modified quickly to produce the different ball bearings. The manufacturing system that is described is a ________ system.",
+      "number":22,
+      "a":"flexible manufacturing",
+      "b":"synthetic manufacturing",
+      "c":"static manufacturing",
+      "d":"computer-aided design",
+      "ans":"a"
+   },
+   {  
+      "question":"Florida Fixtures uses a computer system that controls the entire production function from designing products to ordering raw materials. What kind of production system is Florida Fixtures using?",
+      "number":23,
+      "a":"Flexible manufacturing system",
+      "b":"Computer-aided design",
+      "c":"Computer-integrated manufacturing",
+      "d":"Computer-aided manufacturing",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following would probably be the most important consideration in determining where to locate a mill for Hefferin Paper Company?",
+      "number":24,
+      "a":"Labor supply",
+      "b":"Location of customers",
+      "c":"Physical characteristics",
+      "d":"Proximity to raw materials",
+      "ans":"d"
+   },
+   {  
+      "question":"In selecting a production facility location, labor supply would be most important to which of the following?",
+      "number":25,
+      "a":"Steel manufacturer",
+      "b":"Jewelry manufacturer",
+      "c":"Paper mill",
+      "d":"Software developer",
+      "ans":"d"
+   },
+   {  
+      "question":"Which type of company would be most interested in locating in an area close to its market?",
+      "number":26,
+      "a":"Dry cleaners",
+      "b":"Pharmaceutical companies",
+      "c":"Automobile manufacturers",
+      "d":"Shipbuilding companies",
+      "ans":"a"
+   },
+   {  
+      "question":"Tamara is the owner of Baker's Dozen, a bakery with all perishable products. What will be her primary consideration in regard to location?",
+      "number":27,
+      "a":"Proximity to raw materials",
+      "b":"Proximity to her market",
+      "c":"Availability of transportation alternatives",
+      "d":"Proximity to labor supply",
+      "ans":"b"
+   },
+   {  
+      "question":"Computer chip manufacturers, such as Intel, must be primarily concerned with ________.",
+      "number":28,
+      "a":"availability to energy",
+      "b":"proximity to markets",
+      "c":"community living conditions",
+      "d":"available  water supply",
+      "ans":"d"
+   },
+   {  
+      "question":"State and local governments may offer ___ to encourage businesses to locate in their area.",
+      "number":29,
+      "a":"proximity to suppliers",
+      "b":"tax incentives",
+      "c":"proximity to raw materials",
+      "d":"physical factors such as energy",
+      "ans":"b"
+   },
+   {  
+      "question":"What is the main reason some companies have set up offshore assembly plants?",
+      "number":30,
+      "a":"Available marketing opportunities",
+      "b":"Nearness to raw materials",
+      "c":"In search of low wages",
+      "d":"Inexpensive energy",
+      "ans":"c"
+   },
+   {  
+      "question":"Grey Water Disposal wants to build a landfill outside Cincinnati. . The company must conduct a(n) ________ study, which includes analyzing the effect the landfill might have on the water supply, air conditions, and wildlife.",
+      "number":31,
+      "a":"market impact",
+      "b":"consumer behavior",
+      "c":"location feasibility",
+      "d":"environmental impact",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is not a primary task of production managers?",
+      "number":32,
+      "a":"Determining what products to produce",
+      "b":"Controlling the production process",
+      "c":"Selecting the most appropriate layout",
+      "d":"Planning the production process",
+      "ans":"a"
+   },
+   {  
+      "question":"Juan is a production manager. Which of the following tasks would Juan complete first?",
+      "number":33,
+      "a":"Selecting the appropriate layout",
+      "b":"Determining what products to produce",
+      "c":"Planning the production process",
+      "d":"Implementing the production process",
+      "ans":"c"
+   },
+   {  
+      "question":"Sakura is a production manager and has decided that grouping machinery and equipment according to their functions works best at her company. What layout would be her company be using?",
+      "number":34,
+      "a":"Fixed",
+      "b":"Process",
+      "c":"Customer oriented",
+      "d":"Product",
+      "ans":"b"
+   },
+   {  
+      "question":"Hospital rooms are typically set up with a ________ layout.",
+      "number":35,
+      "a":"product",
+      "b":"process",
+      "c":"fixed-position",
+      "d":"customer-oriented",
+      "ans":"d"
+   },
+   {  
+      "question":"The production facility for a space shuttle would probably be organized according to a ________ layout.",
+      "number":36,
+      "a":"fixed-position",
+      "b":"product",
+      "c":"process",
+      "d":"customer-oriented",
+      "ans":"a"
+   },
+   {  
+      "question":"A firm that produces a variety of nonstandard products in relatively small quantities would probably use a ________ layout.",
+      "number":37,
+      "a":"customer-oriented",
+      "b":"process",
+      "c":"product",
+      "d":"fixed-position",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following layouts would be appropriate for manufacturers of bulky, heavy, or fragile products?",
+      "number":38,
+      "a":"Product layout",
+      "b":"Customer-oriented layout",
+      "c":"Fixed-position layout",
+      "d":"Process layout",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following layouts would be appropriate for a manufacturer who needs to produce large numbers of a single product?",
+      "number":39,
+      "a":"Product layout",
+      "b":"Process layout",
+      "c":"Fixed-position layout",
+      "d":"Customer-oriented layout",
+      "ans":"a"
+   },
+   {  
+      "question":"A plant where plastic 2-liter bottles are manufactured probably uses a ________ layout.",
+      "number":40,
+      "a":"customer-oriented",
+      "b":"product",
+      "c":"process",
+      "d":"fixed-position",
+      "ans":"b"
+   },
+   {  
+      "question":"Banks most likely utilize a ________ layout.",
+      "number":41,
+      "a":"product",
+      "b":"fixed-position",
+      "c":"process",
+      "d":"customer-oriented",
+      "ans":"d"
+   },
+   {  
+      "question":"Implementing a production plan involves all of the following steps EXCEPT ________.",
+      "number":42,
+      "a":"creating a feasible budget",
+      "b":"controlling inventory",
+      "c":"selecting the best suppliers for materials",
+      "d":"deciding whether to make, buy or lease components",
+      "ans":"a"
+   },
+   {  
+      "question":"How can a firm best protect itself against an interruption in the supply of parts?",
+      "number":43,
+      "a":"Select suppliers through a competitive bidding process.",
+      "b":"Use suppliers from the city where the firm is located.",
+      "c":"Maintain more than one supply source.",
+      "d":"Transport the parts in its own transportation vehicles.",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following would least likely be purchased on a long-term contractual basis?",
+      "number":44,
+      "a":"Component parts for mass production",
+      "b":"Office supplies purchased for a small office",
+      "c":"Continuous supply products",
+      "d":"Raw materials",
+      "ans":"b"
+   },
+   {  
+      "question":"When choosing an appropriate vendor, production managers consider all of the following EXCEPT ________.",
+      "number":45,
+      "a":"services from competing companies",
+      "b":"delivery dependability",
+      "c":"warranties on purchases",
+      "d":"dispatching",
+      "ans":"d"
+   },
+   {  
+      "question":"The suppler for Omega Corporation has offered the company a 5 percent discount if it will order more units less frequently. If Omega accepts the supplier's offer, the cost of carrying inventory will ________ and the cost of running out of inventory will ________.",
+      "number":46,
+      "a":"rise; stay the same",
+      "b":"fall; decrease",
+      "c":"rise; decrease",
+      "d":"fall; stay the same",
+      "ans":"c"
+   },
+   {  
+      "question":"All of the following are expenses involved in storing inventory EXCEPT ________.",
+      "number":47,
+      "a":"maintenance",
+      "b":"acquisition",
+      "c":"insurance",
+      "d":"warehouse rent",
+      "ans":"b"
+   },
+   {  
+      "question":"Snyder Industries uses 100,000 widgets each year. If Snyder decides to place more orders each year, ordering fewer widgets each time, Snyder will be carrying ________ inventory on average and the risk of running out of inventory will ________.",
+      "number":48,
+      "a":"less; rise",
+      "b":"less; fall",
+      "c":"more; fall",
+      "d":"more; rise",
+      "ans":"a"
+   },
+   {  
+      "question":"Tidewater Company uses 100,000 pounds of fresh flowers each year. Because of rising energy costs, it has become more expensive for Tidewater to store flowers. All other factors being equal, Tidewater should ________ its inventory of fresh flowers, which would ________ the risk of running out of inventory",
+      "number":49,
+      "a":"reduce; have no effect on",
+      "b":"increase; have no effect on",
+      "c":"reduce; increase",
+      "d":"increase; increase",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following situations would present a challenge for a just-in-time (JIT) investment system?",
+      "number":50,
+      "a":"Increase in the number of suppliers",
+      "b":"Long-term relationships with suppliers",
+      "c":"Vendor managed inventory",
+      "d":"Sudden increase in demand",
+      "ans":"d"
+   },
+   {  
+      "question":"Harriet uses a computer-based production planning system by which a firm can ensure that it has needed parts and materials available at the right time and place and in the correct amounts. Harriet uses:",
+      "number":51,
+      "a":"materials requirement planning",
+      "b":"just-in-time inventory system",
+      "c":"computer-aided manufacturing",
+      "d":"vendor-managed inventory",
+      "ans":"b"
+   },
+   {  
+      "question":"When Best Buy vendors ship merchandise directly to stores instead of distribution centers, the company is utilizing ________.",
+      "number":52,
+      "a":"perpetual inventory",
+      "b":"inventory control",
+      "c":"production control",
+      "d":"vendor-managed inventory",
+      "ans":"d"
+   },
+   {  
+      "question":"Isaac's job involves setting up well-designed procedures for coordinating people, materials, and machinery for the production of mesh filters. Isaac is involved in ________.",
+      "number":53,
+      "a":"inventory control",
+      "b":"facility design",
+      "c":"production control",
+      "d":"manufacturing resource planning (MRP II)",
+      "ans":"c"
+   },
+   {  
+      "question":"Which phase of production control determines the amount of all resources needed to produce a certain amount of goods and services?",
+      "number":54,
+      "a":"Production planning",
+      "b":"Routing",
+      "c":"Dispatching",
+      "d":"Scheduling",
+      "ans":"a"
+   },
+   {  
+      "question":"________ is the phase of production control that determines the sequence of work and specifies where and by whom each aspect of production will be performed.",
+      "number":55,
+      "a":"Follow-up",
+      "b":"Routing",
+      "c":"Scheduling",
+      "d":"Dispatching",
+      "ans":"b"
+   },
+   {  
+      "question":"A Gantt chart is associated with which step in production control?",
+      "number":56,
+      "a":"Routing",
+      "b":"Scheduling",
+      "c":"Dispatching",
+      "d":"Follow-up",
+      "ans":"b"
+   },
+   {  
+      "question":"Elijah is a warehouse production manager and has been assigned a complex project that might result in lengthy delays. In order to coordinate all aspects of the production process, Elijah has created a(n) ________ chart.",
+      "number":57,
+      "a":"ISO",
+      "b":"FMS",
+      "c":"Gantt",
+      "d":"PERT",
+      "ans":"d"
+   },
+   {  
+      "question":"The critical path in a PERT chart represents the ________.",
+      "number":58,
+      "a":"sequence of operations that involves outside suppliers",
+      "b":"sequence of operations that requires the longest time for completion",
+      "c":"areas of operations that require the least amount of technical support",
+      "d":"areas of operations that have abundant and extra time",
+      "ans":"b"
+   },
+   {  
+      "question":"Part of Vicky’s job as a production supervisor is to instruct each department on what work to do and the time in which they have to complete their work assignments. This part of her job is known as ________.",
+      "number":59,
+      "a":"routing",
+      "b":"dispatching",
+      "c":"scheduling",
+      "d":"planning",
+      "ans":"b"
+   },
+   {  
+      "question":"The last step in production control is to spot problems in the production process and inform management of needed adjustments. This phase is called ________.",
+      "number":60,
+      "a":"evaluation",
+      "b":"dispatching",
+      "c":"follow-up",
+      "d":"process control",
+      "ans":"c"
+   },
+   {  
+      "question":"A firm can monitor quality level output in all of the following ways EXCEPT ________.",
+      "number":61,
+      "a":"customer surveys",
+      "b":"electronic sensors",
+      "c":"visual inspections",
+      "d":"share of marketplace",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is NOT part of the mission of ISO?",
+      "number":62,
+      "a":"Enforce quality standards",
+      "b":"Provide a framework for continual improve-ment",
+      "c":"Promote international standards for business, government, and society",
+      "d":"Facilitate global trade and cooperation",
+      "ans":"d"
+   },
+   {  
+      "question":"When a company looks to an established, superlative product as a guide for its new product, it is ________.",
+      "number":63,
+      "a":"implementing quality control",
+      "b":"forecasting",
+      "c":"implementing quality standards",
+      "d":"benchmarking",
+      "ans":"d"
+   },
+   {  
+      "question":"The goal of ________ is for companies to eliminate virtually all defects in output, processes, and transactions.",
+      "number":64,
+      "a":"European Economic Community",
+      "b":"Six Sigma",
+      "c":"WTO",
+      "d":"NATO Business Alliance",
+      "ans":"b"
+   },
+   {  
+      "question":"Owen is a factory manager for Gateway Computers and is conducting a visual inspection of component hardware and comparing against established quality standards. Owen is measuring ________.",
+      "number":65,
+      "a":"production planning",
+      "b":"critical path",
+      "c":"quality control",
+      "d":"benchmarking",
+      "ans":"c"
+   }
+]

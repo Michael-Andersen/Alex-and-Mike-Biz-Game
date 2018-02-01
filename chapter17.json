@@ -1,0 +1,281 @@
+[  
+   {  
+      "question":"The financial manager for a typical corporation is responsible for ________.",
+      "number":0,
+      "a":"designing the accounting system",
+      "b":"gathering, recording, and reporting financial information",
+      "c":"determining the most appropriate sources and uses of funds",
+      "d":"preparing operating budgets for various departments",
+      "ans":"c"
+   },
+   {  
+      "question":"The senior financial manager has the title of ________.",
+      "number":1,
+      "a":"chief financial officer",
+      "b":"chief operations officer",
+      "c":"Treasurer",
+      "d":"Controller",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following individuals has the direct responsibility for shareholder relations?",
+      "number":2,
+      "a":"controller",
+      "b":"chief financial officer",
+      "c":"chief executive officer",
+      "d":"treasurer",
+      "ans":"d"
+   },
+   {  
+      "question":"In the typical firm, the ________ is the chief accounting manager.",
+      "number":3,
+      "a":"chief executive officer",
+      "b":"controller",
+      "c":"treasurer",
+      "d":"chief financial officer",
+      "ans":"b"
+   },
+   {  
+      "question":"Jasmine works in the financial division of her company and is responsible for preparing monetary forecasts and analyzing major investment decisions. What is Jasmine’s title?",
+      "number":4,
+      "a":"treasurer",
+      "b":"CFO",
+      "c":"vice president for financial management",
+      "d":"controller",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is the best definition of financial risk?",
+      "number":5,
+      "a":"Risk is the uncertainty regarding the gain or loss from an investment.",
+      "b":"Risk is the possibility that an investment's actual return will be less than its expected return.",
+      "c":"Risk is the possibility that an investment will earn a negative return.",
+      "d":"Risk is the possibility that an investment will lose money.",
+      "ans":"a"
+   },
+   {  
+      "question":"The gain or loss that results from an investment over a specified period of time is known as ________.",
+      "number":6,
+      "a":"Risk",
+      "b":"Return",
+      "c":"uncertainty",
+      "d":"expected value",
+      "ans":"b"
+   },
+   {  
+      "question":"The process that periodically checks actual revenues and expenses against forecast values is ________.",
+      "number":7,
+      "a":"strategic planning",
+      "b":"financial planning",
+      "c":"budgeting",
+      "d":"financial control",
+      "ans":"d"
+   },
+   {  
+      "question":"A(n) ________ is a document that specifies the funds a firm will need for a period of time, the timing of inflows and outflows, and the most appropriate sources and uses of funds.",
+      "number":8,
+      "a":"asset management plan",
+      "b":"Budget",
+      "c":"strategic plan",
+      "d":"financial plan",
+      "ans":"d"
+   },
+   {  
+      "question":"A company’s financial plan should answer all of the following questions EXCEPT ________.",
+      "number":9,
+      "a":"What is the contingency plan in case of bankruptcy?",
+      "b":"What funds will the firm require during the appropriate period of operations?",
+      "c":"How will it obtain the necessary money?",
+      "d":"When will it need more cash?",
+      "ans":"a"
+   },
+   {  
+      "question":"Major current assets include all of the following EXCEPT________.",
+      "number":10,
+      "a":"accounts receivable",
+      "b":"stockholders’ equity",
+      "c":"marketable securities",
+      "d":"Cash",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following actions result in equity capital EXCEPT ________.",
+      "number":11,
+      "a":"issuing bonds",
+      "b":"liquidating assets",
+      "c":"issuing stock",
+      "d":"reinvesting earnings",
+      "ans":"a"
+   },
+   {  
+      "question":"Kaitlyn’s company needs to obtain funds in order to keep the business going; however, she does not want stockholders influencing the direction of her company. What type of financing should Kaitlyn acquire?",
+      "number":12,
+      "a":"angel investor",
+      "b":"combination of debt and equity capital",
+      "c":"debt capital",
+      "d":"equity capital",
+      "ans":"c"
+   },
+   {  
+      "question":"Central Valley Pharmaceuticals needs to raise funds to buy new production equipment. The financial manager would probably suggest that his company raise debt capital by ________.",
+      "number":13,
+      "a":"using accumulated earnings",
+      "b":"selling stock",
+      "c":"selling marketable securities",
+      "d":"borrowing money from a bank",
+      "ans":"d"
+   },
+   {  
+      "question":"Grace is the financial manager for Empire State Fabrication and has decided to raise additional funds for the company by raising equity capital. She might do so by ________.",
+      "number":14,
+      "a":"selling a bond",
+      "b":"persuading existing owners to contribute additional funds",
+      "c":"selling marketable securities",
+      "d":"establishing a line of credit with a local bank",
+      "ans":"b"
+   },
+   {  
+      "question":"Leverage ________ the return to shareholders and ________ the risk of their investment.",
+      "number":15,
+      "a":"lowers; lowers",
+      "b":"lowers; increases",
+      "c":"increases; lowers",
+      "d":"increases; increases",
+      "ans":"d"
+   },
+   {  
+      "question":"Borrowing money ________.",
+      "number":16,
+      "a":"creates leverage",
+      "b":"increases financial flexibility",
+      "c":"decreases risk to shareholders",
+      "d":"decreases expected returns to shareholders due to interest payments",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are sources of short-term funds EXCEPT ________.",
+      "number":17,
+      "a":"commercial paper",
+      "b":"trade credit",
+      "c":"Bonds",
+      "d":"bank loans",
+      "ans":"c"
+   },
+   {  
+      "question":"A company would most likely finance ________ using short-term sources.",
+      "number":18,
+      "a":"inventory",
+      "b":"buildings",
+      "c":"another company",
+      "d":"machinery",
+      "ans":"a"
+   },
+   {  
+      "question":"When a firm receives goods or services from a supplier and agrees to pay for them at a later date, this arrangement is called ________.",
+      "number":19,
+      "a":"a short-term loan",
+      "b":"a repurchase agreement",
+      "c":"trade credit",
+      "d":"commercial credit",
+      "ans":"c"
+   },
+   {  
+      "question":"Short-term assets are expected to be converted into cash within _____.",
+      "number":20,
+      "a":"a month",
+      "b":"a year",
+      "c":"a week",
+      "d":"six months",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following assets would a firm most likely finance using long-term sources?",
+      "number":21,
+      "a":"inventory",
+      "b":"accounts receivable",
+      "c":"marketable securities",
+      "d":"another company",
+      "ans":"d"
+   },
+   {  
+      "question":"________ would be the LEAST likely to obtain a private placement.",
+      "number":22,
+      "a":"Small individual investors",
+      "b":"Life insurance companies",
+      "c":"Commercial banks",
+      "d":"Pension fund managers",
+      "ans":"a"
+   },
+   {  
+      "question":"Most private placements are ________.",
+      "number":23,
+      "a":"U.S. government securities",
+      "b":"corporate debt issues",
+      "c":"corporate equity issues",
+      "d":"municipal debt issues",
+      "ans":"b"
+   },
+   {  
+      "question":"Mitch raises money from wealthy individuals and institutional investors for a variety of promising new companies. In exchange, he will become part owner of those businesses. Mitch is a(n) ________.",
+      "number":24,
+      "a":"angel investor",
+      "b":"underwriter",
+      "c":"entrepreneur",
+      "d":"venture capitalist",
+      "ans":"d"
+   },
+   {  
+      "question":"_____ are investment companies that raise funds from wealthy individuals and institutional investors and use the funds to make investments in both public and private companies.",
+      "number":25,
+      "a":"Venture capitalists",
+      "b":"Private placements",
+      "c":"Hedge funds",
+      "d":"Private equity funds",
+      "ans":"d"
+   },
+   {  
+      "question":"The sovereign wealth fund is a variation of _____.",
+      "number":26,
+      "a":"market securities",
+      "b":"the private equity fund",
+      "c":"private placements",
+      "d":"debt capital",
+      "ans":"b"
+   },
+   {  
+      "question":"The term used to describe the benefits produced by a merger or acquisition is _____.",
+      "number":27,
+      "a":"partnership",
+      "b":"leverage",
+      "c":"Synergy",
+      "d":"Profit",
+      "ans":"c"
+   },
+   {  
+      "question":"A(n) _____ is a transaction in which one company buys another.",
+      "number":28,
+      "a":"acquisition",
+      "b":"Merger",
+      "c":"takeover",
+      "d":"Synergy",
+      "ans":"a"
+   },
+   {  
+      "question":"Two types of divestitures are _____.",
+      "number":29,
+      "a":"sell-offs and trade-offs",
+      "b":"trade-offs and spin-offs",
+      "c":"buy-offs and spin-offs",
+      "d":"sell-offs and spin-offs",
+      "ans":"d"
+   },
+   {  
+      "question":"In a sense, a(n) ________ is the reverse of a merger.",
+      "number":30,
+      "a":"tender offer",
+      "b":"LBO",
+      "c":"divestiture",
+      "d":"acquisition",
+      "ans":"c"
+   }
+]

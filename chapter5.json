@@ -1,0 +1,632 @@
+[  
+   {  
+      "question":"The majority of all U.S. firms employ:",
+      "number":0,
+      "a":"more than 5,000 employees",
+      "b":"1,000 to 3,000 employees",
+      "c":"3,000 to 5,000 employees",
+      "d":"500 or fewer employees",
+      "ans":"d"
+   },
+   {  
+      "question":"Small-business owners want to determine whether their companies meet the standards for small-business designation because",
+      "number":1,
+      "a":"they do not have to pay taxes on their profits.",
+      "b":"government agencies offer benefits designed to help small businesses compete with larger firms.",
+      "c":"incorporation is easier for them.",
+      "d":"banks are more likely to grant them loans.",
+      "ans":"b"
+   },
+   {  
+      "question":"Which type of business is least likely to be bought by large companies?",
+      "number":2,
+      "a":"businesses that sell personalized services",
+      "b":"businesses with high overhead costs",
+      "c":"businesses that are located outside of the United States",
+      "d":"businesses that were founded by college students",
+      "ans":"a"
+   },
+   {  
+      "question":"Which government agency establishes standards for small businesses?",
+      "number":3,
+      "a":"Food and Drug Administration",
+      "b":"Securities and Exchange Commission",
+      "c":"Small Business Administration",
+      "d":"Small Business Investment Company",
+      "ans":"c"
+   },
+   {  
+      "question":"Traditionally, small businesses tended to be concentrated in the ________ industry.",
+      "number":4,
+      "a":"manufacturing",
+      "b":"retailing",
+      "c":"wholesaling",
+      "d":"importing/exporting",
+      "ans":"b"
+   },
+   {  
+      "question":"Of the following industries, which is most likely to be owned by a small business owner?",
+      "number":5,
+      "a":"nursing home",
+      "b":"paper mill",
+      "c":"home building company",
+      "d":"electric utilities company",
+      "ans":"c"
+   },
+   {  
+      "question":"Although the average farm size has increased in recent years the majority of farmers operate as ________ businesses.",
+      "number":6,
+      "a":"government owned",
+      "b":"Large",
+      "c":"partnerships",
+      "d":"Small",
+      "ans":"d"
+   },
+   {  
+      "question":"________ of small businesses are considered home-based businesses.",
+      "number":7,
+      "a":"About 50 percent",
+      "b":"About 75 percent",
+      "c":"Less than 25 percent",
+      "d":"About 25 percent",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is an advantage of a home-based business?",
+      "number":8,
+      "a":"greater visibility to customers",
+      "b":"lower costs",
+      "c":"less flexibility",
+      "d":"isolation",
+      "ans":"b"
+   },
+   {  
+      "question":"Compared to large businesses, which of the following statements regarding small businesses is CORRECT?",
+      "number":9,
+      "a":"Small businesses are less likely to hire young employees.",
+      "b":"Small businesses are less likely to develop new products.",
+      "c":"Small businesses are more likely be eligible for government loans or for government purchasing programs.",
+      "d":"Small businesses are more likely to be franchises.",
+      "ans":"c"
+   },
+   {  
+      "question":"Small businesses that provide ________ have experienced the greatest increase in new jobs.",
+      "number":10,
+      "a":"Goods",
+      "b":"Services",
+      "c":"products",
+      "d":"retailing merchandise",
+      "ans":"b"
+   },
+   {  
+      "question":"All of the following are contributions of small businesses EXCEPT:",
+      "number":11,
+      "a":"They provide more job security than large corporations.",
+      "b":"They fuel local economies.",
+      "c":"They provide needed services to the larger corporate community.",
+      "d":"They create a substantial number of new jobs.",
+      "ans":"a"
+   },
+   {  
+      "question":"Innovation is possible in small business because they ________.",
+      "number":12,
+      "a":"employ highly intelligent, motivated people",
+      "b":"have the funds to turn new ideas into large-scale, profitable ventures",
+      "c":"work harder",
+      "d":"provide fertile ground for new ideas",
+      "ans":"d"
+   },
+   {  
+      "question":"________ newly-launched businesses fail within two years after commencing operations.",
+      "number":13,
+      "a":"Less than one in ten",
+      "b":"About one of every three",
+      "c":"About half of all",
+      "d":"Almost all",
+      "ans":"b"
+   },
+   {  
+      "question":"Owners of small businesses can increase their chances of success if they:",
+      "number":14,
+      "a":"become an expert in legal, financial, marketing, and other related business areas.",
+      "b":"incorporate their business.",
+      "c":"hire only family members or friends.",
+      "d":"understand their own limitations.",
+      "ans":"d"
+   },
+   {  
+      "question":"If you are considering starting your own business, a key priority for you should be to:",
+      "number":15,
+      "a":"get a loan from your local bank",
+      "b":"incorporate your business.",
+      "c":"learn the basics of business.",
+      "d":"apply for a Small Business Administration loan.",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is the leading cause of today's small business failures?",
+      "number":16,
+      "a":"management shortcomings",
+      "b":"poor products and/or services",
+      "c":"no marketing plan",
+      "d":"excess government regulation",
+      "ans":"a"
+   },
+   {  
+      "question":"A small business fails in the management sense when ________.",
+      "number":17,
+      "a":"financial training is lacking",
+      "b":"marketing training is lacking",
+      "c":"staffs are overworked",
+      "d":"overall business training is lacking",
+      "ans":"d"
+   },
+   {  
+      "question":"Many businesses fail during the early years because of ________.",
+      "number":18,
+      "a":"niche marketers",
+      "b":"inadequate financing",
+      "c":"unmotivated owners",
+      "d":"poor planning",
+      "ans":"b"
+   },
+   {  
+      "question":"According to surveys, the largest lenders to small businesses are ________ .",
+      "number":19,
+      "a":"commercial banks",
+      "b":"credit card companies",
+      "c":"family members",
+      "d":"investors",
+      "ans":"a"
+   },
+   {  
+      "question":"A business plan for a small business typically contains all of the following EXCEPT ________.",
+      "number":20,
+      "a":"a statement of the company's goals",
+      "b":"a detailed time frame for achieving goals",
+      "c":"projections of money flows",
+      "d":"a time frame for selling stock to investors",
+      "ans":"d"
+   },
+   {  
+      "question":"When the Small Business Administration (SBA) assists a small business in applying for a major loan, it acts as the lender’s ________.",
+      "number":21,
+      "a":"credit union",
+      "b":"savings and loan association",
+      "c":"guarantor",
+      "d":"Bank",
+      "ans":"c"
+   },
+   {  
+      "question":"___________ use their own capital supplemented with government loans to invest in small businesses.",
+      "number":22,
+      "a":"Franchisors",
+      "b":"Small Business Investment Companies (SBICs)",
+      "c":"Joint ventures",
+      "d":"Microloans",
+      "ans":"b"
+   },
+   {  
+      "question":"Martha is the owner of a very small technology start-up. She shares clerical staff, computers, and other business services with other small business owners. Martha is part of a(n):",
+      "number":23,
+      "a":"business incubator.",
+      "b":"venture capital company.",
+      "c":"joint venture.",
+      "d":"microloan company.",
+      "ans":"a"
+   },
+   {  
+      "question":"The Small Business Administration (SBA) provides all of the following EXCEPT ________.",
+      "number":24,
+      "a":"loan guarantees",
+      "b":"advice from retired executives",
+      "c":"access to venture capitalists",
+      "d":"business incubators",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following organizations are regularly and directly involved in sponsoring business incubators EXCEPT ________.",
+      "number":25,
+      "a":"the federal government",
+      "b":"colleges and universities",
+      "c":"not-for-profit organizations",
+      "d":"profit-seeking businesses",
+      "ans":"a"
+   },
+   {  
+      "question":"Haseem owns a small business and needs assistance on a variety of issues. The Small Business Administration (SBA) can help him by providing ________.",
+      "number":26,
+      "a":"an accountant",
+      "b":"a business incubator",
+      "c":"government procurement",
+      "d":"an advertising specialist",
+      "ans":"c"
+   },
+   {  
+      "question":"In exchange for an ownership share, Benita's small business receives financing from a group of investors known as _____________,",
+      "number":27,
+      "a":"microloan investors",
+      "b":"franchisors",
+      "c":"Small Business Investment Companies",
+      "d":"venture capitalists",
+      "ans":"d"
+   },
+   {  
+      "question":"The ________ industry represents the greatest percentage of minority-owned businesses.",
+      "number":28,
+      "a":"Finance",
+      "b":"Service",
+      "c":"Retail",
+      "d":"transportation",
+      "ans":"b"
+   },
+   {  
+      "question":"McDonalds offers a contractual business arrangement in various countries around the world. McDonalds is an example of a(n) international ____________.",
+      "number":29,
+      "a":"franchise",
+      "b":"acquisition",
+      "c":"Merger",
+      "d":"not-for-profit corporation",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is a trend in the area of franchising?",
+      "number":30,
+      "a":"More franchises are opening outside the United States.",
+      "b":"Franchises are becoming less expensive to fund.",
+      "c":"Franchisees determining their own pricing and marketing.",
+      "d":"Franchisees are able to negotiate better pricing than franchisors.",
+      "ans":"a"
+   },
+   {  
+      "question":"The two principal parties in a franchising agreement are the ________.",
+      "number":31,
+      "a":"manager and worker",
+      "b":"franchiser and partners",
+      "c":"franchiser and franchisee",
+      "d":"venture capitalist and SBA",
+      "ans":"c"
+   },
+   {  
+      "question":"The franchisor provides all of the following services EXCEPT ________.",
+      "number":32,
+      "a":"building plan",
+      "b":"accounting systems",
+      "c":"name recognition",
+      "d":"on-site management",
+      "ans":"d"
+   },
+   {  
+      "question":"Greg buys a McDonald's franchise. Greg is the ________ and ________ for McDonald's.",
+      "number":33,
+      "a":"franchisor; works",
+      "b":"franchisee; does not work",
+      "c":"franchisee; works",
+      "d":"franchisor; does not work",
+      "ans":"b"
+   },
+   {  
+      "question":"A restaurant franchisee purchases which of the following from the franchisor?",
+      "number":34,
+      "a":"only food",
+      "b":"both tangible and intangible assets",
+      "c":"only equipment",
+      "d":"only name recognition",
+      "ans":"b"
+   },
+   {  
+      "question":"The advertising plan for a franchise is usually put together by the ________.",
+      "number":35,
+      "a":"franchisee",
+      "b":"advertising agency",
+      "c":"franchisor",
+      "d":"co-owners",
+      "ans":"c"
+   },
+   {  
+      "question":"Franchising offers all of the following advantages EXCEPT ________.",
+      "number":36,
+      "a":"a recognizable company name",
+      "b":"prior performance record",
+      "c":"training",
+      "d":"guaranteed level of profitability",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements regarding franchising is FALSE?",
+      "number":37,
+      "a":"Franchises are more risky than other forms of business ownership.",
+      "b":"Franchisees have the benefit of name recognition.",
+      "c":"Franchisors provide a wide range of support to franchisees.",
+      "d":"Benefits for the franchisor include opportunities for expansion that might not otherwise be available.",
+      "ans":"a"
+   },
+   {  
+      "question":"Chen is a franchisee of a local retail shop. One of his chief concerns regarding owning a franchise is that:",
+      "number":38,
+      "a":"The franchisor provides him with a wide range of support.",
+      "b":"The franchising agreement is too restrictive.",
+      "c":"The franchise has the benefit of name recognition.",
+      "d":"The franchisor can negotiate better deals on ingredients, supplies, and real estate, because of its financial strength.",
+      "ans":"b"
+   },
+   {  
+      "question":"If you are a highly independent individual used to having your own way, the best business format for you is a ________.",
+      "number":39,
+      "a":"partnership",
+      "b":"corporation",
+      "c":"sole proprietorship",
+      "d":"limited liability corporation",
+      "ans":"c"
+   },
+   {  
+      "question":"Sole proprietorships have all of the following advantages EXCEPT ________.",
+      "number":40,
+      "a":"unlimited life",
+      "b":"ease of formation",
+      "c":"profits subject only to a single tax",
+      "d":"ease of liquidation",
+      "ans":"a"
+   },
+   {  
+      "question":"The stock of Old Germany Brewery is totally owned by the Prechter family. When the family elected to move from a sole proprietorship to a corporation, the greatest concern was ________.",
+      "number":41,
+      "a":"there might be family squabbles",
+      "b":"how to limit liability",
+      "c":"choosing work assignments",
+      "d":"double taxation",
+      "ans":"d"
+   },
+   {  
+      "question":"Richard, Sarah, and Trevor form a partnership because it offers the following advantage:",
+      "number":42,
+      "a":"limiting liability of partners to the value of their interests in the company",
+      "b":"unlimited financial liability",
+      "c":"greater financial resources",
+      "d":"double taxation",
+      "ans":"c"
+   },
+   {  
+      "question":"If business owners in a partnership wish to limit liability, they have the option to ________.",
+      "number":43,
+      "a":"pledge funds",
+      "b":"divide into sole proprietorships",
+      "c":"set up a limited partnership",
+      "d":"withhold funds",
+      "ans":"c"
+   },
+   {  
+      "question":"Devon and Keith opened a restaurant as a partnership. Two years later, Keith left the restaurant, and Devon discovered that Keith had charged numerous expenses to their account. These expenses resulted in thousands of dollars worth of debt for the restaurant. What option does Devon have in this situation?",
+      "number":44,
+      "a":"He doesn’t have to worry because, according to law, everyone is responsible for his/her own debts.",
+      "b":"Business creditors will pursue Keith alone since his signature authorized payments.",
+      "c":"Business creditors will expect Devon to pay at least half the debt since he owns 50 percent of the business.",
+      "d":"Business creditors will expect full payment from Devon.",
+      "ans":"d"
+   },
+   {  
+      "question":"Although ______ are the most common type of business ownership, the greatest revenues come from ______.",
+      "number":45,
+      "a":"sole proprietorships, partnerships",
+      "b":"sole proprietorships, corporations",
+      "c":"corporations, partnerships",
+      "d":"partnerships, corporations",
+      "ans":"b"
+   },
+   {  
+      "question":"Corporations have all of the following advantages EXCEPT ________.",
+      "number":46,
+      "a":"favorable tax treatment",
+      "b":"limited liability",
+      "c":"expanded financial capacity",
+      "d":"unlimited life",
+      "ans":"a"
+   },
+   {  
+      "question":"The maximum number of shareholders is limited to ________ for a firm to qualify as a subchapter S corporation.",
+      "number":47,
+      "a":"25",
+      "b":"50",
+      "c":"75",
+      "d":"100",
+      "ans":"d"
+   },
+   {  
+      "question":"Anita established a corporation in Nebraska, but she recently moved to Colorado where she now conducts her business. What type of corporation does Anita own?",
+      "number":48,
+      "a":"alien corporation",
+      "b":"domestic corporation",
+      "c":"foreign corporation",
+      "d":"national corporation",
+      "ans":"c"
+   },
+   {  
+      "question":"For its favorable legal climate, as well as the ease and simplicity of its incorporation process, ________ is the most popular state of incorporation for many members of the Fortune",
+      "number":49,
+      "a":"Delaware",
+      "b":"New York",
+      "c":"California",
+      "d":"Florida",
+      "ans":"a"
+   },
+   {  
+      "question":"The board of directors of a corporation is elected by the ________.",
+      "number":50,
+      "a":"corporation's employees",
+      "b":"bondholders and other creditors",
+      "c":"corporate officers",
+      "d":"stockholders",
+      "ans":"d"
+   },
+   {  
+      "question":"When founding members of Mary Kay Inc. wanted to regain family control of the cosmetics business, they changed the company ownership from publicly held to ________, in order to control and manage corporate activities.",
+      "number":51,
+      "a":"Limited",
+      "b":"closed",
+      "c":"preferred",
+      "d":"restricted",
+      "ans":"b"
+   },
+   {  
+      "question":"Isabella owns 100 shares of IBM ________ stock, which means she has voting rights on company decisions at IBM, but only residual claims on the company’s assets.",
+      "number":52,
+      "a":"preferred",
+      "b":"principal",
+      "c":"management",
+      "d":"common",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are duties of the board of directors of a corporation EXCEPT ________.",
+      "number":53,
+      "a":"guaranteeing the payment of cash dividends every year",
+      "b":"electing its own officers",
+      "c":"hiring the corporation's chief executive officer",
+      "d":"authorizing major transactions of the corporation",
+      "ans":"a"
+   },
+   {  
+      "question":"The board of directors usually includes some individuals who are not employed by the corporation. These people are referred to as ________.",
+      "number":54,
+      "a":"priority directors",
+      "b":"outside directors",
+      "c":"stockholders",
+      "d":"members of top management",
+      "ans":"b"
+   },
+   {  
+      "question":"Lucia is a chief financial officer in a large corporation. Her responsibilities include the full financial authority to make appropriations and authorize expenditures. Lucia is likely to be a member of ________ management.",
+      "number":55,
+      "a":"Middle",
+      "b":"advisory",
+      "c":"supervisory",
+      "d":"Top",
+      "ans":"d"
+   },
+   {  
+      "question":"___________ must verify in writing the accuracy of their corporation's financial statements.",
+      "number":56,
+      "a":"Board members",
+      "b":"Stockholders",
+      "c":"CEOs and CFOs",
+      "d":"Governmental officials",
+      "ans":"c"
+   },
+   {  
+      "question":"An acquisition occurs when ________.",
+      "number":57,
+      "a":"one company purchases the property and assumes the obligations of another company",
+      "b":"one corporation owns 8 percent of the stock of another corporation",
+      "c":"owners of small companies band together to operate their businesses collectively",
+      "d":"two or more firms combine to form a single company",
+      "ans":"a"
+   },
+   {  
+      "question":"United Airlines' purchase of Continental Airlines combines the resources and capabilities of both firms to create the world's largest airline.  The newly formed company is an example of a _____________.",
+      "number":58,
+      "a":"vertical merger",
+      "b":"joint venture",
+      "c":"horizontal merger",
+      "d":"conglomerate merger",
+      "ans":"c"
+   },
+   {  
+      "question":"If Smith Steel buys Kennedy Iron Ore to assure itself of a constant flow of ore, this is an example of a ________.",
+      "number":59,
+      "a":"conglomerate company",
+      "b":"domestic company",
+      "c":"vertical merger",
+      "d":"subsidiary corporation",
+      "ans":"c"
+   },
+   {  
+      "question":"The joining of Volkswagen and Porsche was an example of a ________.",
+      "number":60,
+      "a":"conglomerate merger",
+      "b":"horizontal merger",
+      "c":"vertical merger",
+      "d":"joint venture",
+      "ans":"b"
+   },
+   {  
+      "question":"Assume that Microsoft decides to invest some of its excess cash by acquiring fellow Seattle-based Starbucks Coffee. This would be a ________.",
+      "number":61,
+      "a":"conglomerate merger",
+      "b":"vertical merger",
+      "c":"horizontal merger",
+      "d":"joint venture",
+      "ans":"a"
+   },
+   {  
+      "question":"Which type of merger results in decreased competition within the same industry?",
+      "number":62,
+      "a":"vertical merger",
+      "b":"conglomerate merger",
+      "c":"joint venture",
+      "d":"horizontal merger",
+      "ans":"d"
+   },
+   {  
+      "question":"In 2009, Walmart started doing business in India by forming a __________ with Bharti Enterprises, Inc., one of India's leading business groups.",
+      "number":63,
+      "a":"joint venture",
+      "b":"subsidiary",
+      "c":"horizontal merger",
+      "d":"vertical merger",
+      "ans":"a"
+   },
+   {  
+      "question":"When a government unit owns and operates an organization, the arrangement is known as ________.",
+      "number":64,
+      "a":"private ownership",
+      "b":"a cooperative",
+      "c":"public ownership",
+      "d":"employee ownership",
+      "ans":"c"
+   },
+   {  
+      "question":"The ________ is most likely an example of public ownership.",
+      "number":65,
+      "a":"movie theater",
+      "b":"city sewer system",
+      "c":"trucking company",
+      "d":"television company",
+      "ans":"b"
+   },
+   {  
+      "question":"Alternatives to private ownership include ________.",
+      "number":66,
+      "a":"public ownership and collective ownership",
+      "b":"employee ownership and foreign corporations",
+      "c":"foreign corporations and public ownership",
+      "d":"employee ownership and collective ownership",
+      "ans":"a"
+   },
+   {  
+      "question":"Ben is the owner of a small mushroom farm in Pennsylvania. Ben would like to join with other growers to create an organization that will promote and distribute mushrooms. The form of ownership that would be most suited for the growers is the ________.",
+      "number":67,
+      "a":"joint venture",
+      "b":"open corporation",
+      "c":"government-owned collective",
+      "d":"cooperative",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following statements is true regarding employee-owned corporations?",
+      "number":68,
+      "a":"The number of employee-owned corporations is declining in the United States.",
+      "b":"Employee-owned corporations may not publicly trade their stock.",
+      "c":"Employees buy shares of stock in the company that employs them.",
+      "d":"Stock prices in employee-owned corporations typically decrease.",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following statements regarding family-owned businesses is true?",
+      "number":69,
+      "a":"Only a small percentage of family-owned businesses survive into the second or third generation.",
+      "b":"Family-owned companies must submit a written agreement to the state in which it organizes.",
+      "c":"Family-owned companies must be closed corporations.",
+      "d":"Family-owned companies are an example of a not-for-profit corporation.",
+      "ans":"a"
+   }
+]

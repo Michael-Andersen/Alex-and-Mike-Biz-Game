@@ -1,0 +1,668 @@
+[  
+   {  
+      "question":"________ is an organizational function and a set of processes for creating, communicating, and delivering value to customers and for managing customer relationships in ways that benefit the organization and its stakeholders.",
+      "number":0,
+      "a":"Marketing",
+      "b":"Market segmentation",
+      "c":"Consumer behavior",
+      "d":"Marketing research",
+      "ans":"a"
+   },
+   {  
+      "question":"Philippe owns a store that sells lampshades. The process of receiving money in return for lamp shades is ________.",
+      "number":1,
+      "a":"marketing",
+      "b":"place utility",
+      "c":"exchange",
+      "d":"time utility",
+      "ans":"c"
+   },
+   {  
+      "question":"The marketing function creates all of the following types of utility EXCEPT ________ utility.",
+      "number":2,
+      "a":"time",
+      "b":"ownership",
+      "c":"place",
+      "d":"form",
+      "ans":"d"
+   },
+   {  
+      "question":"A convenience store offers ________ utility by being open 24 hours each day.",
+      "number":3,
+      "a":"place",
+      "b":"form",
+      "c":"time",
+      "d":"ownership",
+      "ans":"c"
+   },
+   {  
+      "question":"________ utility is created when the business firm converts raw materials into finished goods and services.",
+      "number":4,
+      "a":"Form",
+      "b":"Ownership",
+      "c":"Exchange",
+      "d":"Place",
+      "ans":"a"
+   },
+   {  
+      "question":"A Wisconsin sporting goods store that sells fishing licenses at the start of each sport fishing season is creating ________ utility.",
+      "number":5,
+      "a":"time",
+      "b":"form",
+      "c":"ownership",
+      "d":"place",
+      "ans":"d"
+   },
+   {  
+      "question":"Place utility is created ________.",
+      "number":6,
+      "a":"when arrangements for the transfer of title from seller to buyer are made",
+      "b":"when the product is made available to the consumer at a time the consumer wants to buy it",
+      "c":"by having the good or service available at a convenient location when the consumer wants to buy it",
+      "d":"when the business firm converts raw materials into finished products",
+      "ans":"c"
+   },
+   {  
+      "question":"The location of a coffee shop franchise in a mall creates ________ utility.",
+      "number":7,
+      "a":"place",
+      "b":"ownership",
+      "c":"form",
+      "d":"time",
+      "ans":"a"
+   },
+   {  
+      "question":"The utility that is created when a salesperson at a car dealership completes the sales contract is ________ utility.",
+      "number":8,
+      "a":"place",
+      "b":"form",
+      "c":"time",
+      "d":"ownership",
+      "ans":"d"
+   },
+   {  
+      "question":"The era in marketing history characterized by the notion that creative advertising would convince consumers to buy a product is known as the ________ era.",
+      "number":9,
+      "a":"relationship",
+      "b":"production",
+      "c":"sales",
+      "d":"marketing",
+      "ans":"c"
+   },
+   {  
+      "question":"The era in marketing history characterized by the notion that a good product will sell itself is known as the ________ era.",
+      "number":10,
+      "a":"production",
+      "b":"sales",
+      "c":"marketing",
+      "d":"relationship",
+      "ans":"a"
+   },
+   {  
+      "question":"The era in marketing history characterized by the notion that the customer is always right is known as the ________ era.",
+      "number":11,
+      "a":"sales",
+      "b":"marketing",
+      "c":"production",
+      "d":"relationship",
+      "ans":"b"
+   },
+   {  
+      "question":"The current marketing period where companies emphasize customer satisfaction is referred to as the ________ era.",
+      "number":12,
+      "a":"production",
+      "b":"relationship",
+      "c":"marketing",
+      "d":"sales",
+      "ans":"b"
+   },
+   {  
+      "question":"As the result of a hurricane heading toward the coastal area of North Carolina, residents rushed to purchase plywood to cover their windows. Retailers who carried plywood were operating in a ________.",
+      "number":13,
+      "a":"buyer’s market",
+      "b":"mixed economy",
+      "c":"regulated market",
+      "d":"seller’s market",
+      "ans":"d"
+   },
+   {  
+      "question":"Examples of private not-for-profit organizations include all of the following EXCEPT ________.",
+      "number":14,
+      "a":"San Diego Zoo",
+      "b":"American Academy of Pediatrics",
+      "c":"Michigan State Department of Natural Resources",
+      "d":"United States Olympic Committee",
+      "ans":"c"
+   },
+   {  
+      "question":"Maria is campaigning for city council and talks with prospective voters in her ward about their concerns. Maria is engaged in ________ marketing.",
+      "number":15,
+      "a":"person",
+      "b":"place",
+      "c":"cause",
+      "d":"idea",
+      "ans":"c"
+   },
+   {  
+      "question":"Local officials in a mid-size town used ________ marketing to convince major businesses to move to the area, including advertisements that emphasized low tax rates and accessible transportation.",
+      "number":16,
+      "a":"place",
+      "b":"event",
+      "c":"organization",
+      "d":"cause",
+      "ans":"a"
+   },
+   {  
+      "question":"The Tour of Hope is a cross-country bike tour designed to raise awareness about cancer clinical trials. Dasani bottled water is one of the sponsors, which enables the company to utilize ________ marketing.",
+      "number":17,
+      "a":"organization",
+      "b":"event",
+      "c":"place",
+      "d":"cause",
+      "ans":"b"
+   },
+   {  
+      "question":"Juliet is seeking employment in the banking industry. Before her interview with Chase, she conducts thorough research and identifies ways in which she can benefit the company. What type of marketing is Juliet utilizing?",
+      "number":18,
+      "a":"Organization",
+      "b":"Cause",
+      "c":"Person",
+      "d":"Place",
+      "ans":"c"
+   },
+   {  
+      "question":"The marketing of a social concern or issue such as preventing child abuse is known as ________ marketing.",
+      "number":19,
+      "a":"cause",
+      "b":"person",
+      "c":"place",
+      "d":"organization",
+      "ans":"a"
+   },
+   {  
+      "question":"Relay for Life raises money for the American Cancer Society for cancer research and treatment. This is an example of ________ marketing.",
+      "number":20,
+      "a":"idea",
+      "b":"place",
+      "c":"organization",
+      "d":"service",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following is the first step in developing a marketing strategy?",
+      "number":21,
+      "a":"Identify a target market",
+      "b":"Develop the right product",
+      "c":"Decide how to promote the product",
+      "d":"Implement the appropriate distribution system",
+      "ans":"a"
+   },
+   {  
+      "question":"A singles business aims its promotions toward singles between the ages of 25 and 40 who reside in a specific county. The business has ________.",
+      "number":22,
+      "a":"created personal utility",
+      "b":"developed a marketing plan",
+      "c":"developed a marketing mix",
+      "d":"selected a target market",
+      "ans":"d"
+   },
+   {  
+      "question":"Goods and services such as haircuts, GPS systems, and computers that are purchased for end users are examples of ______.",
+      "number":23,
+      "a":"consumer products",
+      "b":"business products",
+      "c":"target market",
+      "d":"marketing mix",
+      "ans":"a"
+   },
+   {  
+      "question":"Some products can be classified as either a business or a consumer product depending on ______.",
+      "number":24,
+      "a":"the type of product/service",
+      "b":"the cost of the product/service",
+      "c":"who buys the product/service and why",
+      "d":"where the product/service is sold",
+      "ans":"c"
+   },
+   {  
+      "question":"An organization's ________ is the group of potential customers toward whom it directs its marketing efforts.",
+      "number":25,
+      "a":"marketing demographic",
+      "b":"target market",
+      "c":"market segment",
+      "d":"product market",
+      "ans":"b"
+   },
+   {  
+      "question":"Companies use ________ to focus on a specific consumer market by combining product, distribution, promotion, and pricing strategies.",
+      "number":26,
+      "a":"a marketing mix",
+      "b":"organization marketing",
+      "c":"consumer behavior",
+      "d":"market segmentation",
+      "ans":"a"
+   },
+   {  
+      "question":"Mona designs the packages and chooses the brand names for goods produced by her firm. Mona is involved in which part of the marketing mix?",
+      "number":27,
+      "a":"Promotion strategy",
+      "b":"Distribution strategy",
+      "c":"Product strategy",
+      "d":"Pricing strategy",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following marketing decision areas may be subject to government regulation and public scrutiny but can be a powerful competitive tool for a business?",
+      "number":28,
+      "a":"Pricing strategy",
+      "b":"Distribution strategy",
+      "c":"Product strategy",
+      "d":"Promotional strategy",
+      "ans":"a"
+   },
+   {  
+      "question":"________ strategy focuses on personal selling, advertising, sales promotion tools, and public relations to produce effective communication between the firm and the marketplace.",
+      "number":29,
+      "a":"Promotional",
+      "b":"Distribution",
+      "c":"Pricing",
+      "d":"Product",
+      "ans":"a"
+   },
+   {  
+      "question":"Ida works on creating ways to ensure that customers receive goods at the right time and correct location. Ida is involved in her firm's ________ strategy.",
+      "number":30,
+      "a":"pricing",
+      "b":"promotion",
+      "c":"distribution",
+      "d":"product",
+      "ans":"c"
+   },
+   {  
+      "question":"Joe is developing the marketing mix for his company's new line of power tools. A brand name, price, and distribution system have been decided. Now Joe is concentrating his efforts on developing the best advertising plan for the product line. The advertising plan is part of Joe's ________ strategy.",
+      "number":31,
+      "a":"production",
+      "b":"pricing",
+      "c":"promotional",
+      "d":"product",
+      "ans":"c"
+   },
+   {  
+      "question":"Nike has implemented ______ so that its customers can design certain features of its athletic products to meet their specific needs and desires.",
+      "number":32,
+      "a":"relationship production",
+      "b":"standardization",
+      "c":"organization marketing",
+      "d":"mass customization",
+      "ans":"d"
+   },
+   {  
+      "question":"The Custom Foot is a shoe store chain that manufactures shoes and allows customers to design a unique product by selecting from the type of leather, color, design, and size. This is an example of ________.",
+      "number":33,
+      "a":"standardization",
+      "b":"adaptation",
+      "c":"organization marketing",
+      "d":"mass customization",
+      "ans":"d"
+   },
+   {  
+      "question":"Standardization would be most appropriate for all of the following products except ______.",
+      "number":34,
+      "a":"checking accounts",
+      "b":"chemicals",
+      "c":"steel",
+      "d":"commercial aircraft",
+      "ans":"a"
+   },
+   {  
+      "question":"Adaptation works best for which of the following products?",
+      "number":35,
+      "a":"Paper",
+      "b":"Fast food",
+      "c":"Wood",
+      "d":"Natural gas",
+      "ans":"b"
+   },
+   {  
+      "question":"Data collected for the first time through observation or surveys is ________.",
+      "number":36,
+      "a":"secondary data",
+      "b":"external data",
+      "c":"primary data",
+      "d":"a marketing information system",
+      "ans":"c"
+   },
+   {  
+      "question":"Census data are ________ and ________ data for marketing researchers.",
+      "number":37,
+      "a":"internal; primary",
+      "b":"external; primary",
+      "c":"external; secondary",
+      "d":"internal; secondary",
+      "ans":"c"
+   },
+   {  
+      "question":"Devin obtains research data based on the number of unique visitors to his company’s Web site, as well as tracking types of orders and amount of money spent. Devin is acquiring what type of research data?",
+      "number":38,
+      "a":"Principal",
+      "b":"Secondary",
+      "c":"External",
+      "d":"Primary",
+      "ans":"d"
+   },
+   {  
+      "question":"A company's financial records are a source of ________ and ________ data for marketing researchers.",
+      "number":39,
+      "a":"internal; primary",
+      "b":"external; primary",
+      "c":"external; secondary",
+      "d":"internal; secondary",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are internal sources of data EXCEPT ________.",
+      "number":40,
+      "a":"company product sales",
+      "b":"company product inventory",
+      "c":"competitor's sales",
+      "d":"unpaid bills",
+      "ans":"c"
+   },
+   {  
+      "question":"Esperanza is reviewing data that shows sales of her company's products during specific hours of each day. What kind of data is Esperanza reviewing?",
+      "number":41,
+      "a":"Survey data",
+      "b":"Secondary data",
+      "c":"External data",
+      "d":"Internal data",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is a drawback to using census and other government data sources?",
+      "number":42,
+      "a":"Accessing government data is expensive.",
+      "b":"Government data can become outdated quickly.",
+      "c":"Accessing government data is difficult.",
+      "d":"Government data sources are unreliable.",
+      "ans":"b"
+   },
+   {  
+      "question":"Luke works as a marketing researcher and goes online to obtain information from government publications for census data and demographics. What type of data is Luke researching?",
+      "number":43,
+      "a":"Internal data",
+      "b":"Peripheral data",
+      "c":"Secondary data",
+      "d":"Primary data",
+      "ans":"c"
+   },
+   {  
+      "question":"Allan and Erica assembled a group of 12 people and had the group evaluate several promotional campaigns. Allan and Erica collected data from a(n) ________.",
+      "number":44,
+      "a":"focus group",
+      "b":"survey",
+      "c":"observational source",
+      "d":"secondary source",
+      "ans":"a"
+   },
+   {  
+      "question":"A focus group is a method of collecting ________ data using a(n) ________.",
+      "number":45,
+      "a":"secondary; observational study",
+      "b":"primary; observational study",
+      "c":"secondary; survey method",
+      "d":"primary; survey method",
+      "ans":"d"
+   },
+   {  
+      "question":"Tabitha is a research specialist in a marketing division. She is working on a project that involves searching through customer files to detect spending patterns or trends that her company could target to increase sales. Tabitha is ________.",
+      "number":46,
+      "a":"developing a value-added database",
+      "b":"segmenting and correlating the data files",
+      "c":"doing environmental scanning",
+      "d":"data mining",
+      "ans":"d"
+   },
+   {  
+      "question":"Grocery stores  use ________ to assess local preferences for products so that they can tailor the inventory of each store accordingly.",
+      "number":47,
+      "a":"Marketing",
+      "b":"warehouses",
+      "c":"data mining",
+      "d":"research",
+      "ans":"c"
+   },
+   {  
+      "question":"______ attempts to isolate the traits that distinguish a certain group of customers from the overall market.",
+      "number":48,
+      "a":"Marketing",
+      "b":"Market segmentation",
+      "c":"Demographic segmentation",
+      "d":"Data mining",
+      "ans":"b"
+   },
+   {  
+      "question":"One of the most common forms of segmenting consumer markets uses characteristics such as age, income, household size, and/or ethnic group. This is known as ________ segmenta-tion.",
+      "number":49,
+      "a":"geographic",
+      "b":"Psychographic",
+      "c":"end-use",
+      "d":"demographic",
+      "ans":"d"
+   },
+   {  
+      "question":"The common bases for segmenting consumer markets include all of the following EXCEPT ________ factors.",
+      "number":50,
+      "a":"psychographic",
+      "b":"geographic",
+      "c":"demographic",
+      "d":"end-use",
+      "ans":"d"
+   },
+   {  
+      "question":"The marketing strategy that focuses on the precise way a B2B purchaser will use a product is known as _______________.",
+      "number":51,
+      "a":"product-related",
+      "b":"geography",
+      "c":"end-use",
+      "d":"demographics",
+      "ans":"c"
+   },
+   {  
+      "question":"Thomas is using demographic data methods for segmenting a market. He will use all of the following EXCEPT ________.",
+      "number":52,
+      "a":"age",
+      "b":"education",
+      "c":"location",
+      "d":"income",
+      "ans":"c"
+   },
+   {  
+      "question":"Forbes, Fortune, and similar types of magazines often contain ads for Rolex watches, BMW automobiles, and other luxury items. Advertisers are trying to reach a market segment based on ________.",
+      "number":53,
+      "a":"income",
+      "b":"age",
+      "c":"gender",
+      "d":"location",
+      "ans":"a"
+   },
+   {  
+      "question":"Desmond is developing several different marketing strategies based on target markets that differ in terms of lifestyles. He is segmenting the overall market by ________.",
+      "number":54,
+      "a":"demographics",
+      "b":"end-use",
+      "c":"psychographics",
+      "d":"product",
+      "ans":"c"
+   },
+   {  
+      "question":"Amazon.com keeps track of goods its customers have ordered. When a returning customer logs onto Amazon.com, the site creates a list of recommendations based on the customer's purchasing history. Amazon is segmenting the market by________.",
+      "number":55,
+      "a":"product",
+      "b":"psychographic",
+      "c":"demographics",
+      "d":"end-use",
+      "ans":"a"
+   },
+   {  
+      "question":"All of the following are methods of segmenting the business market EXCEPT ________.",
+      "number":56,
+      "a":"psychographics",
+      "b":"demographics",
+      "c":"geographic",
+      "d":"end-use",
+      "ans":"a"
+   },
+   {  
+      "question":"Gwen’s mid-size company designs specialty lenses for a camera manufacturer. Her design specifications are based on the camera’s performance, design, and price. What type of business market is Gwen engaged in?",
+      "number":57,
+      "a":"Product-related segmentation",
+      "b":"Product usage rate",
+      "c":"Buyer behavior",
+      "d":"End-use segmentation",
+      "ans":"a"
+   },
+   {  
+      "question":"________ refers to the actions of consumers directly involved in obtaining, consuming, and disposing of products and the decision processes that precede and follow these actions.",
+      "number":58,
+      "a":"Buyer behavior",
+      "b":"Consumer behavior",
+      "c":"Marketing management",
+      "d":"The marketing mix",
+      "ans":"b"
+   },
+   {  
+      "question":"Interpersonal determinants of consumer behavior include all of the following EXCEPT ________ influences.",
+      "number":59,
+      "a":"motivational",
+      "b":"cultural",
+      "c":"social",
+      "d":"family",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is an interpersonal determinant of consumer behavior?",
+      "number":60,
+      "a":"Family influences",
+      "b":"Attitudes",
+      "c":"Perceptions",
+      "d":"Learned experiences",
+      "ans":"a"
+   },
+   {  
+      "question":"Personal determinants in the buying decision include all of the following EXCEPT ________.",
+      "number":61,
+      "a":"needs and motives",
+      "b":"perception and attitudes",
+      "c":"learning and self-concept",
+      "d":"cultural experiences",
+      "ans":"d"
+   },
+   {  
+      "question":"Bailey seeks out cleaning products that are environmentally friendly and is willing to pay extra for a “green” brand. What is the main factor for Bailey’s purchase?",
+      "number":62,
+      "a":"Interpersonal determinants",
+      "b":"Personal determinants",
+      "c":"Relationship marketing",
+      "d":"End-use segmentation",
+      "ans":"b"
+   },
+   {  
+      "question":"Charlotte wants to purchase a new printer for her computer. She decides to stick with the brand she knows because of her experience with its efficiency and reliability. This is an example of a(n) ________.",
+      "number":63,
+      "a":"interpersonal determinant",
+      "b":"personal determinant",
+      "c":"buying behavior",
+      "d":"recognition of a problem or opportunity",
+      "ans":"b"
+   },
+   {  
+      "question":"Aidan is tired of doing his laundry at the local laundromat and would like to buy a washer and dryer for his apartment. Online he notices that a retail store is having a half-price sale. Aidan is at what step of the consumer behavior process?",
+      "number":64,
+      "a":"Searching for alternatives",
+      "b":"Evaluation of alternatives",
+      "c":"Purchase decision",
+      "d":"Purchase act",
+      "ans":"a"
+   },
+   {  
+      "question":"Personal and interpersonal determinants affect which step(s) in the consumer behavior process?",
+      "number":65,
+      "a":"Recognition of problem or opportunity",
+      "b":"Purchase decision",
+      "c":"Purchase act",
+      "d":"Each step in the consumer behavior process",
+      "ans":"d"
+   },
+   {  
+      "question":"Developing and maintaining long-term, cost-effective exchange relationships with individual customers, suppliers, employees, and other partners for mutual benefit character-izes ________.",
+      "number":66,
+      "a":"relationship management",
+      "b":"customer satisfaction",
+      "c":"relationship marketing",
+      "d":"interpersonal consumer relationships",
+      "ans":"c"
+   },
+   {  
+      "question":"Fiona has initiated a project to establish a company Web site for interactive electronic commerce that encourages customers to provide the company with information on their purchase decision factors, post-purchase evaluations, lifestyles, and future expectations for service. Fiona plans to use the Internet for ________.",
+      "number":67,
+      "a":"market segmentation",
+      "b":"end-use segmentation",
+      "c":"organization marketing",
+      "d":"relationship marketing",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is NOT consistent with relationship marketing?",
+      "number":68,
+      "a":"Focusing on attaining new customers, even at the expense of losing long-term ones",
+      "b":"Developing partnerships with suppliers",
+      "c":"Developing partnerships with customers",
+      "d":"Supporting other businesses whose support is beneficial to the company's goals",
+      "ans":"a"
+   },
+   {  
+      "question":"Approximately how much more does it cost to attract one new customer than to keep an existing one?",
+      "number":69,
+      "a":"Five times as much",
+      "b":"Three times as much",
+      "c":"Twice as much",
+      "d":"About the same",
+      "ans":"a"
+   },
+   {  
+      "question":"Miguel scans his “preferred card” at a grocery store, the list of items is computed, and the store can offer coupons that are personalized to customer preferences. This is an example of ________.",
+      "number":70,
+      "a":"consumer behavior",
+      "b":"affinity program",
+      "c":"frequency marketing",
+      "d":"product-related segmentation",
+      "ans":"c"
+   },
+   {  
+      "question":"Subaru offers a version of its Outback called the L.L. Bean edition. This is an example of ________.",
+      "number":71,
+      "a":"a comarketed product",
+      "b":"supplier-producer cooperation",
+      "c":"a marketing mix",
+      "d":"a cobranded product",
+      "ans":"d"
+   },
+   {  
+      "question":"A university offers alumni a special Visa card with the university's logo printed on the front. Each time the cardholder uses the card, the university receives a small percentage of the amount charged. This is an example of ________.",
+      "number":72,
+      "a":"cobranding",
+      "b":"an affinity program",
+      "c":"a frequency marketing program",
+      "d":"comarketing",
+      "ans":"b"
+   },
+   {  
+      "question":"When McDonald’s offered Madame Alexander gifts in its Happy Meals, both companies profited from the ________ arrangement.",
+      "number":73,
+      "a":"comarketing",
+      "b":"cobranding",
+      "c":"affinity program",
+      "d":"transaction marketing",
+      "ans":"a"
+   }
+]

@@ -1,0 +1,632 @@
+[  
+   {  
+      "question":"In the U.S. financial system, which of the following is a net saver?",
+      "number":0,
+      "a":"households",
+      "b":"business",
+      "c":"the government",
+      "d":"financial institutions",
+      "ans":"a"
+   },
+   {  
+      "question":"Zachary buys a bond issued by the city of Atlanta. This is an example of funds being transferred from a saver to a user ________.",
+      "number":1,
+      "a":"through a financial institution",
+      "b":"through the financial markets",
+      "c":"Directly",
+      "d":"through the government",
+      "ans":"b"
+   },
+   {  
+      "question":"One of the most important variables that determine how much a person saves is _____.",
+      "number":2,
+      "a":"what country he or she is from",
+      "b":"the person’s gender",
+      "c":"the person’s race",
+      "d":"the person’s age",
+      "ans":"d"
+   },
+   {  
+      "question":"The difference between what you own and what you owe is called _____.",
+      "number":3,
+      "a":"net worth",
+      "b":"gross worth",
+      "c":"net value",
+      "d":"debt factor",
+      "ans":"a"
+   },
+   {  
+      "question":"Funds can be transferred between savers and users in two ways:_____________.",
+      "number":4,
+      "a":"individually and groups",
+      "b":"in person and electronically",
+      "c":"directly and indirectly",
+      "d":"free and not free",
+      "ans":"c"
+   },
+   {  
+      "question":"Indirect transfer of funds occurs through _____.",
+      "number":5,
+      "a":"personal checks",
+      "b":"cash payments",
+      "c":"financial institutions",
+      "d":"consumer purchases",
+      "ans":"c"
+   },
+   {  
+      "question":"Securities are also called _____.",
+      "number":6,
+      "a":"Cash",
+      "b":"savings accounts",
+      "c":"financial institutions",
+      "d":"financial  instruments",
+      "ans":"d"
+   },
+   {  
+      "question":"All of the following are types of securities EXCEPT _____.",
+      "number":7,
+      "a":"money market instruments",
+      "b":"Stock",
+      "c":"Bonds",
+      "d":"Cash",
+      "ans":"d"
+   },
+   {  
+      "question":"____ are short-term debt securities issued by governments, financial institutions, and corporations.",
+      "number":8,
+      "a":"Stock",
+      "b":"Bonds",
+      "c":"Checks",
+      "d":"Money market instruments",
+      "ans":"d"
+   },
+   {  
+      "question":"Alex buys a money market instrument. It will mature within, at most, ____.",
+      "number":9,
+      "a":"10 years",
+      "b":"2 years",
+      "c":"1 year",
+      "d":"6 months",
+      "ans":"c"
+   },
+   {  
+      "question":"___ are short-term securities issued by the U.S. Treasury and backed by the full faith and credit of the U.S. government.",
+      "number":10,
+      "a":"Treasury bills",
+      "b":"CDs",
+      "c":"Commercial paper",
+      "d":"Bonds",
+      "ans":"a"
+   },
+   {  
+      "question":"Treasury bills have a minimum denomination of ____.",
+      "number":11,
+      "a":"$100,000",
+      "b":"$10,000",
+      "c":"$1,000",
+      "d":"$100",
+      "ans":"c"
+   },
+   {  
+      "question":"_____ is a form of short-term financing sold by corporations, such as Salton Brands, that mature from 1 to 270 days after the date of issue.",
+      "number":12,
+      "a":"Bonds",
+      "b":"CDs",
+      "c":"Treasury bills",
+      "d":"Commercial paper",
+      "ans":"d"
+   },
+   {  
+      "question":"A _____ is a time deposit at a financial institution, such as a commercial bank, savings bank, or credit union.",
+      "number":13,
+      "a":"commercial paper",
+      "b":"Treasury bill",
+      "c":"CD",
+      "d":"Bond",
+      "ans":"c"
+   },
+   {  
+      "question":"_____ are creditors of a corporation or government body.",
+      "number":14,
+      "a":"Commercial paper holders",
+      "b":"Bondholders",
+      "c":"Treasury bills holders",
+      "d":"CD holders",
+      "ans":"b"
+   },
+   {  
+      "question":"The U.S. Department of Treasury sells what type of bonds?",
+      "number":15,
+      "a":"Corporate bonds",
+      "b":"Government bonds",
+      "c":"Treasury bills bonds",
+      "d":"Municipal bonds",
+      "ans":"b"
+   },
+   {  
+      "question":"Two types of municipal bonds exist. What are they?",
+      "number":16,
+      "a":"government bonds and mortgage pass-through security bonds",
+      "b":"corporate bonds and general obligation bonds",
+      "c":"revenue bonds and  government bonds",
+      "d":"revenue bonds and general obligation bonds",
+      "ans":"d"
+   },
+   {  
+      "question":"Corporate bonds are a diverse group and often vary based on the ____ that backs it.",
+      "number":17,
+      "a":"Market",
+      "b":"Value",
+      "c":"collateral",
+      "d":"company",
+      "ans":"c"
+   },
+   {  
+      "question":"Tom just bought a bond from United Pet Group. This bond is only backed by the financial reputation of the company. What type of bond did Tom buy?",
+      "number":18,
+      "a":"debenture",
+      "b":"secured bond",
+      "c":"CD",
+      "d":"commercial paper",
+      "ans":"a"
+   },
+   {  
+      "question":"These securities are backed by a pool of mortgage loans purchased from lenders, such as savings banks.",
+      "number":19,
+      "a":"mortgage pass-through security",
+      "b":"mortgage  bond",
+      "c":"commercial paper",
+      "d":"corporate bond",
+      "ans":"a"
+   },
+   {  
+      "question":"In recent years, mortgage pass-through securities consist of pools of _____, loans made to borrowers with poor credit ratings.",
+      "number":20,
+      "a":"low value mortgages",
+      "b":"prime mortgages",
+      "c":"corporate mortgages",
+      "d":"subprime mortgages",
+      "ans":"d"
+   },
+   {  
+      "question":"Two factors determine the price of a bond: ____ and ____.",
+      "number":21,
+      "a":"risk; interest rate",
+      "b":"market; risk",
+      "c":"interest rate; discount rate",
+      "d":"price of other bonds; the company selling the bond",
+      "ans":"a"
+   },
+   {  
+      "question":"Bonds with ratings of BBB and above are classified as ____.",
+      "number":22,
+      "a":"speculative bonds",
+      "b":"investment-grade bonds",
+      "c":"junk bonds",
+      "d":"corporate bonds",
+      "ans":"b"
+   },
+   {  
+      "question":"Other things being equal, as interest rate rises, the price of a bond _____.",
+      "number":23,
+      "a":"stays the same",
+      "b":"will also rise",
+      "c":"cannot be determined",
+      "d":"decreases",
+      "ans":"b"
+   },
+   {  
+      "question":"What provision allows the issuer to redeem the bond before its maturity at a specified price?",
+      "number":24,
+      "a":"bond provision",
+      "b":"convertible provision",
+      "c":"call provision",
+      "d":"redeem provision",
+      "ans":"c"
+   },
+   {  
+      "question":"The basic form of corporate ownership is ____.",
+      "number":25,
+      "a":"preferred stock",
+      "b":"standard stock",
+      "c":"convertible securities",
+      "d":"common stock",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is a depository financial institution?",
+      "number":26,
+      "a":"life insurance company",
+      "b":"credit union",
+      "c":"pension fund",
+      "d":"mutual fund",
+      "ans":"b"
+   },
+   {  
+      "question":"An owner of which form of stock would receive dividend payments first?",
+      "number":27,
+      "a":"convertible securities",
+      "b":"common stock",
+      "c":"preferred stock",
+      "d":"standard stock",
+      "ans":"c"
+   },
+   {  
+      "question":"What feature gives the bondholder or preferred stockholder the right to exchange the bond or preferred stock for a fixed number of shares of common stock?",
+      "number":28,
+      "a":"bond rating",
+      "b":"convertible securities",
+      "c":"pass-through securities",
+      "d":"standard stock",
+      "ans":"b"
+   },
+   {  
+      "question":"Securities are issued and traded in the____.",
+      "number":29,
+      "a":"government market",
+      "b":"securities market",
+      "c":"financial market",
+      "d":"super market",
+      "ans":"c"
+   },
+   {  
+      "question":"When a company needs capital to purchase inventory, expand a plant, make major investments, acquire another firm, or pursue other business goals, it may sell a bond or stock issue to the investing public. This is done which market?",
+      "number":30,
+      "a":"primary market",
+      "b":"secondary market",
+      "c":"government market",
+      "d":"super market",
+      "ans":"a"
+   },
+   {  
+      "question":"The ____ is a collection of financial markets in which previously issued securities are traded among investors.",
+      "number":31,
+      "a":"primary market",
+      "b":"secondary market",
+      "c":"government market",
+      "d":"super market",
+      "ans":"b"
+   },
+   {  
+      "question":"The two largest stock markets in the world are the ____ and the ____.",
+      "number":32,
+      "a":"New York Stock Exchange; SP 500",
+      "b":"Tokyo Stock Exchange; New York Stock Exchange",
+      "c":"Tokyo Stock Exchange; London Stock Exchange",
+      "d":"New York Stock Exchange; Nasdaq stock market",
+      "ans":"d"
+   },
+   {  
+      "question":"Daily trading on the AMEX market is ____ shares.",
+      "number":33,
+      "a":"over 10 billion",
+      "b":"over 2 billion",
+      "c":"about 1 billion",
+      "d":"less than 100 million",
+      "ans":"d"
+   },
+   {  
+      "question":"The ______ is perhaps the most international of all stock markets.",
+      "number":34,
+      "a":"New York Stock Exchange",
+      "b":"London Stock Exchange",
+      "c":"Nasdaq stock market",
+      "d":"Tokyo Stock Exchange",
+      "ans":"b"
+   },
+   {  
+      "question":"In ____ buyers and sellers meet in a virtual stock market and trade directly with one another.",
+      "number":35,
+      "a":"online communications networks",
+      "b":"the Tokyo Stock Exchange",
+      "c":"the Nasdaq stock market",
+      "d":"electronic communications networks",
+      "ans":"d"
+   },
+   {  
+      "question":"The most common type of order is called a ___. It instructs the broker to obtain the best possible price—the highest price when selling and the lowest price when buying.",
+      "number":36,
+      "a":"fast order",
+      "b":"stock order",
+      "c":"market order",
+      "d":"limit order",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following statements is incorrect?",
+      "number":37,
+      "a":"The number of commercial banks is declining each year.",
+      "b":"Commercial banks are the most important financial institution.",
+      "c":"Commercial banks are prohibited from selling securities or insurance.",
+      "d":"Banks offer the widest range of services of any financial institution.",
+      "ans":"c"
+   },
+   {  
+      "question":"Commercial banks obtain most of their funds from ________.",
+      "number":38,
+      "a":"the government",
+      "b":"the sale of securities",
+      "c":"depositors",
+      "d":"stockholders",
+      "ans":"c"
+   },
+   {  
+      "question":"Sean made a purchase at his local Walmart. Instead of writing a check, Sean used a card issued by his bank with a Visa logo on the front. He entered his PIN and the purchase was automatically deducted from his checking account. Sean used his ________ card.",
+      "number":39,
+      "a":"Credit",
+      "b":"Debit",
+      "c":"ATM",
+      "d":"point-of-sale",
+      "ans":"b"
+   },
+   {  
+      "question":"With the prominence of online banking, ________ of U.S. consumers of all ages currently prefer Internet banking.",
+      "number":40,
+      "a":"more than one third",
+      "b":"less than one-fourth",
+      "c":"more than one-half",
+      "d":"approximately three-fifth",
+      "ans":"d"
+   },
+   {  
+      "question":"Deposit insurance shifts most of the financial risk of bank failures from depositors to ________.",
+      "number":41,
+      "a":"the bank's creditors",
+      "b":"the bank's stockholders",
+      "c":"borrowers",
+      "d":"the federal government",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following financial institutions is organized as a not-for-profit cooperative?",
+      "number":42,
+      "a":"commercial bank",
+      "b":"credit union",
+      "c":"life insurance company",
+      "d":"savings bank",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following financial institutions would typically invest the largest portions of its funds in home mortgage loans?",
+      "number":43,
+      "a":"savings bank",
+      "b":"credit union",
+      "c":"commercial bank",
+      "d":"life insurance company",
+      "ans":"a"
+   },
+   {  
+      "question":"Savings banks were originally established to make ________ loans.",
+      "number":44,
+      "a":"home mortgage",
+      "b":"business",
+      "c":"agricultural",
+      "d":"automobile",
+      "ans":"a"
+   },
+   {  
+      "question":"Nina’s financial institution has an office next to where she works. Everyone who uses the financial institution's services either works for Nina’s employer or is related to someone who does. Nina’s financial institution is a ________.",
+      "number":45,
+      "a":"state chartered bank",
+      "b":"savings bank",
+      "c":"commercial bank",
+      "d":"credit union",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following is a nondepository financial institution?",
+      "number":46,
+      "a":"life insurance company",
+      "b":"savings bank",
+      "c":"commercial bank",
+      "d":"credit union",
+      "ans":"a"
+   },
+   {  
+      "question":"The process used by an insurance company to determine whom to insure and how much to charge is called ________.",
+      "number":47,
+      "a":"a premium",
+      "b":"underwriting",
+      "c":"a insuring agreement",
+      "d":"indemnity",
+      "ans":"b"
+   },
+   {  
+      "question":"Which of the following financial institutions would invest the greatest percentage of its assets in common stocks and other long-term investments?",
+      "number":48,
+      "a":"commercial bank",
+      "b":"pension fund",
+      "c":"credit union",
+      "d":"property and liability insurance company",
+      "ans":"b"
+   },
+   {  
+      "question":"What type of financial institution raises money from investors by selling shares?",
+      "number":49,
+      "a":"credit union",
+      "b":"property and liability insurance company",
+      "c":"mutual fund",
+      "d":"pension fund",
+      "ans":"c"
+   },
+   {  
+      "question":"There are ________ Federal Reserve districts.",
+      "number":50,
+      "a":"5",
+      "b":"8",
+      "c":"12",
+      "d":"15",
+      "ans":"c"
+   },
+   {  
+      "question":"Which of the following statements concerning the Fed is incorrect?",
+      "number":51,
+      "a":"The Fed is the nation's central bank.",
+      "b":"The Fed acts as the banker's bank.",
+      "c":"Credit unions and savings banks must belong to the Fed.",
+      "d":"Virtually all large commercial banks are Fed members.",
+      "ans":"c"
+   },
+   {  
+      "question":"All of the following are included in M1 EXCEPT ________.",
+      "number":52,
+      "a":"money market mutual funds",
+      "b":"total value of coins",
+      "c":"checking accounts",
+      "d":"currency in circulation",
+      "ans":"a"
+   },
+   {  
+      "question":"M2 includes ________ M",
+      "number":53,
+      "a":"all of",
+      "b":"none of",
+      "c":"some of",
+      "d":"half of",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following is not one of the four major policy tools the Fed has for controlling the growth in the supply of money and credit?",
+      "number":54,
+      "a":"reserve requirements",
+      "b":"check clearing",
+      "c":"term auction facility loans",
+      "d":"open market operations",
+      "ans":"b"
+   },
+   {  
+      "question":"The rate the Fed charges member banks for short-term loans is called the ________.",
+      "number":55,
+      "a":"discount rate",
+      "b":"margin rate",
+      "c":"federal funds rate",
+      "d":"reserve requirement",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following interest rates does the Federal Reserve actually set?",
+      "number":56,
+      "a":"federal funds rate",
+      "b":"discount rate",
+      "c":"government bond rate",
+      "d":"commercial paper rate",
+      "ans":"b"
+   },
+   {  
+      "question":"If the Fed reduced reserve requirements, ________.",
+      "number":57,
+      "a":"banks would have less money to lend businesses and consumers",
+      "b":"economic growth would decline",
+      "c":"inflation would decline",
+      "d":"banks would have more money to lend out",
+      "ans":"d"
+   },
+   {  
+      "question":"Which of the following actions would have the effect of increasing the supply of money and credit and lowering interest rates?",
+      "number":58,
+      "a":"The Fed buys government securities.",
+      "b":"The Fed raises the margin requirement.",
+      "c":"The Fed raises the reserve requirement.",
+      "d":"The Fed raises the discount rate.",
+      "ans":"a"
+   },
+   {  
+      "question":"When the Fed sells government securities, banks have ________ money to lend and economic growth ________.",
+      "number":59,
+      "a":"less; will slow",
+      "b":"less; will accelerate",
+      "c":"more; will slow",
+      "d":"more; will accelerate",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following policy tools does the Fed use most frequently?",
+      "number":60,
+      "a":"open market operations",
+      "b":"changes to the reserve requirement",
+      "c":"changes to margin requirements",
+      "d":"changes to the discount rate",
+      "ans":"a"
+   },
+   {  
+      "question":"The chairman of the Federal Reserve Board can accelerate economic activity by lowering interest rates. What primary method does the Federal Reserve use to accomplish this?",
+      "number":61,
+      "a":"selling margin requirements",
+      "b":"increasing the discount rate",
+      "c":"increasing reserve requirements",
+      "d":"open market operations",
+      "ans":"d"
+   },
+   {  
+      "question":"This new monetary policy tool makes extra funds available to banks at low interest rates.",
+      "number":62,
+      "a":"open market operations",
+      "b":"discount rate",
+      "c":"term auction facility",
+      "d":"reserve requirement",
+      "ans":"a"
+   },
+   {  
+      "question":"Which of the following agencies regulates both state and federally chartered commercial banks?",
+      "number":63,
+      "a":"the Federal Reserve",
+      "b":"federal comptroller",
+      "c":"state banking agencies",
+      "d":"FDIC",
+      "ans":"d"
+   },
+   {  
+      "question":"The SEC requires virtually all new public issues of corporate securities to be registered. As part of the registration process for a new security issue, the issuer must prepare a(n) ____.",
+      "number":64,
+      "a":"Essay",
+      "b":"prospectus",
+      "c":"application",
+      "d":"financial report",
+      "ans":"b"
+   },
+   {  
+      "question":"_____ is defined as the use of material nonpublic information about a company to make investment profits.",
+      "number":65,
+      "a":"Outsider trading",
+      "b":"Insider trading",
+      "c":"Cheating",
+      "d":"Poor regulation",
+      "ans":"b"
+   },
+   {  
+      "question":"The ___ establishes and updates rules to ensure that member brokers perform their basic functions honestly and fairly.",
+      "number":66,
+      "a":"NASD",
+      "b":"Nasdaq",
+      "c":"NYSE",
+      "d":"FDIC",
+      "ans":"a"
+   },
+   {  
+      "question":"All market participants must keep detailed records of every aspect of every trade. What is this called?",
+      "number":67,
+      "a":"paper trail",
+      "b":"audit trail",
+      "c":"trade record",
+      "d":"prospectus",
+      "ans":"b"
+   },
+   {  
+      "question":"Out of the 20 largest banks in the world, ________ are U.S. banks.",
+      "number":68,
+      "a":"Half",
+      "b":"5",
+      "c":"only 2",
+      "d":"None",
+      "ans":"c"
+   },
+   {  
+      "question":"If the Fed pushes interest rates lower, policymakers at other nations’ central banks will most likely ____.",
+      "number":69,
+      "a":"follow suit, and drop their rates as well",
+      "b":"increase their rates",
+      "c":"do nothing; the Fed’s actions have no influence on other countries’ central banks",
+      "d":"keep their rates the same because a drop in U.S. rates will help their economy",
+      "ans":"a"
+   }
+]
